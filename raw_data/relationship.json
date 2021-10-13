@@ -1,0 +1,5289 @@
+[
+  {
+    "id": "5eb78d1ddae978c7c3ddbd3dab109952",
+    "type": "EMPLOY",
+    "startNode": "-247588997318157810",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "25bdfaaf26d131949fe8a0efb8b35f49",
+    "type": "EMPLOY",
+    "startNode": "3369830060368214297",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "6ae2044b8242156f0941500f6fdfc514",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "董事长,总经理"
+    }
+  },
+  {
+    "id": "6923d562580a645e40bb2558c5de32a7",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "22522314be943d4004f59d41456767a6",
+    "type": "EMPLOY",
+    "startNode": "2760330002843917208",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "9b46af4eedc12a5438f7daee7ef0230f",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0b77822d267b62e2ef017a88e0482f4b",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "1796ecc67ad8b9762dfeabed69f8a847",
+    "type": "LEGAL",
+    "startNode": "8655065259751070236",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "2572f154d39c53e16339797ae956fed0",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-84737635762637310",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 389.9999,
+      "stockPercent": 39
+    }
+  },
+  {
+    "id": "dd9fa2d8d638656aeb33bcf44779e989",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "",
+      "shouldCapi": 84700000,
+      "stockPercent": 19.12
+    }
+  },
+  {
+    "id": "5f01ed825181b8c48eb48ee9e1866edc",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-5770203854769869048",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 2000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "9e48e57b37aa91f86ccf4aa810a9f0e0",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "4549114032927961865",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "d5f04af3234f3ef408ac0a4de23099b4",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "6838105846107869197",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 2
+    }
+  },
+  {
+    "id": "0c88da789fdee283b18948973421ce85",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-1426423880495498991",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 2500,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "0537472f20cbf4774113f9ff79374853",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 3421.5175,
+      "stockPercent": 9.7401
+    }
+  },
+  {
+    "id": "6876171cee022bda908c09978e300ecb",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-2881185469482322908",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 18.61,
+      "stockPercent": 37.22
+    }
+  },
+  {
+    "id": "8eaa5de010e27499897749e33ef8ade6",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 4750,
+      "stockPercent": 95
+    }
+  },
+  {
+    "id": "a57d0c53703fc7d20a06cbb664cd89e5",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 900,
+      "stockPercent": 45
+    }
+  },
+  {
+    "id": "4e238a6de84e1bd5a009040ae3b4f9e3",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 88.8889,
+      "stockPercent": 7.44
+    }
+  },
+  {
+    "id": "96aa26c9b85934a6b94f6e08c3d1783c",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "1825771353268940102",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 10000,
+      "stockPercent": 5.4054
+    }
+  },
+  {
+    "id": "40283e7213063915da44e1e3722cfa21",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "",
+      "shouldCapi": 220363501,
+      "stockPercent": 7.93
+    }
+  },
+  {
+    "id": "dfb7a969860707364879489376d5921e",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-457565067431302060",
+    "properties": {
+      "role": "",
+      "shouldCapi": 4405140,
+      "stockPercent": 14.68
+    }
+  },
+  {
+    "id": "64f289f486bd6f3f02efbfbcafa28637",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "1057964412715869013",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "840c1a3c124fb6eafb8806f07402ae48",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-8435212847802098088",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1800,
+      "stockPercent": 90
+    }
+  },
+  {
+    "id": "531794f5a736071eda66d62596def873",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 250,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "def31e7d97554e6f67d415f09baa7831",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-2213168782056386947",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1737.0839,
+      "stockPercent": 53.7173
+    }
+  },
+  {
+    "id": "65c5b2a867530d4edec0e1a7f5c5f777",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "323514726392255359",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 40000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "c4b4eb16c6629b5e49b6ed9ad616eb4f",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-993619252547304832",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "9b54efd20f3ab3aa7ed2051129212677",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "8016741592804059522",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 90000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "9d55a1f3e3513f376e4c1e0597626123",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4049482018722294139",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "9c78f2ba6a3ac38cec7957a2dee96f99",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "6279438746478378377",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "f345bbe740d132c4470a54616eac3d28",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "22e5fea2726aa92abb9ed4be77d7ccc7",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 232.7619,
+      "stockPercent": 16.0252
+    }
+  },
+  {
+    "id": "05a17a9d78fecce8c538230108e4e571",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "7977536890229279386",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 143460,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "c69c8ab25250e715ec9ea7b207fd43d1",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-5610640537354448227",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 6000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "a90574cc324e161e730a2093096924bc",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "ee4cdb741751a90b521435832b2dd59a",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 550.84,
+      "stockPercent": 26.6391
+    }
+  },
+  {
+    "id": "6b1ab7ff62b9ca0d9753e82d68f1b699",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4693578375813579616",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 4750,
+      "stockPercent": 95
+    }
+  },
+  {
+    "id": "c6b3f546aee5010f88dd7d3dc41c846c",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "706486848410112675",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 4950,
+      "stockPercent": 99
+    }
+  },
+  {
+    "id": "d785fba15072016195a7e45614255f60",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-8831616643025141851",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "dce27fe036944694d7fc4e0e0f9fb785",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "4574175196955600296",
+    "properties": {
+      "role": "",
+      "shouldCapi": 150000000,
+      "stockPercent": 10.21
+    }
+  },
+  {
+    "id": "6f43f03b5e3ef4a7c8ec1dbe779a1fc8",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "",
+      "shouldCapi": 1620,
+      "stockPercent": 9
+    }
+  },
+  {
+    "id": "e67cbfaa1ba29fb88f3d12c40143feae",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "985696802792380861",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 57.4722,
+      "stockPercent": 45.8558
+    }
+  },
+  {
+    "id": "63b815d47b4d8cdcbe2df2ec8b3e27ce",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 95000,
+      "stockPercent": 95
+    }
+  },
+  {
+    "id": "885871871195a0d832286b8fe9da7ddc",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "8243243782238664396",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 10000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "4b51a01d9ff146218f6dfc8b6ad6902c",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "1257345010913242076",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 510,
+      "stockPercent": 51
+    }
+  },
+  {
+    "id": "41f075b931d97b74cec206d706446c14",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-4093122865739831833",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 950,
+      "stockPercent": 95
+    }
+  },
+  {
+    "id": "ff633372e5f467722584b1ad202cd7e4",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 290290,
+      "stockPercent": 29
+    }
+  },
+  {
+    "id": "ee8aa19ed7e64308120914d34e295220",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 189.2334,
+      "stockPercent": 20.0137
+    }
+  },
+  {
+    "id": "e6e52d1ac34bad29514c6bdc74e2db74",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 121650,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "58cfc9816f43a025f2a0f95f9cbe9dbd",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-259941928593273360",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 171,
+      "stockPercent": 17.1
+    }
+  },
+  {
+    "id": "1b52464c59c5622fab8da6179b3b15f6",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-1468244835085712134",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 3980,
+      "stockPercent": 19.9
+    }
+  },
+  {
+    "id": "ff010fb8a990167fd1b2010d349bd2e5",
+    "type": "INVEST",
+    "startNode": "-5741122156295563541",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1500,
+      "stockPercent": 1.5
+    }
+  },
+  {
+    "id": "0d1123cd2d612b60d779542ac33f9ad6",
+    "type": "INVEST",
+    "startNode": "8655065259751070236",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 3528.5705,
+      "stockPercent": 54.2857
+    }
+  },
+  {
+    "id": "0e8122a3dad8fd1ef714f7e047a1befd",
+    "type": "INVEST",
+    "startNode": "-4774715679489100991",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 742.859,
+      "stockPercent": 11.4286
+    }
+  },
+  {
+    "id": "5e519a64627edbfaf7eef597e490e281",
+    "type": "INVEST",
+    "startNode": "8666113787506962378",
+    "endNode": "-5741122156295563541",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 742.859,
+      "stockPercent": 11.4286
+    }
+  },
+  {
+    "id": "08000dab4c0f9ac72857b13921fb012a",
+    "type": "EMPLOY",
+    "startNode": "-5305811277499905984",
+    "endNode": "1057964412715869013",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "74139b4459dbed39b439578e24f0eb08",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "1057964412715869013",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "bdf4887d489aca2a6736e047ef9db7cd",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "1057964412715869013",
+    "properties": {
+      "role": "董事长,经理"
+    }
+  },
+  {
+    "id": "c70d78be909f94fa1679d6ab5a5cc1b2",
+    "type": "LEGAL",
+    "startNode": "-8631997536608111497",
+    "endNode": "1057964412715869013",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "0f0554aa178244b1652ae8dfcb70ab69",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "-4693578375813579616",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "4efe66b6a81f7501739b59c6d3f31bee",
+    "type": "LEGAL",
+    "startNode": "-8631997536608111497",
+    "endNode": "-4693578375813579616",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "f0a4b1fd43861a44b5d56e5e4e01680b",
+    "type": "INVEST",
+    "startNode": "-4693578375813579616",
+    "endNode": "6430918209934489346",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 800,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "8ede006c8eb037932345a344396baf11",
+    "type": "INVEST",
+    "startNode": "-4693578375813579616",
+    "endNode": "7635355297186988813",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 300,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "6038de22bba76ec25094fd96f25cf093",
+    "type": "INVEST",
+    "startNode": "-4693578375813579616",
+    "endNode": "6121425202683766976",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "35457a683e85b65fc921348d8b58c95f",
+    "type": "INVEST",
+    "startNode": "-2754328414371331709",
+    "endNode": "-4693578375813579616",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 250,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "7f01c1a987668f04527a3986d46ef740",
+    "type": "INVEST",
+    "startNode": "1825771353268940102",
+    "endNode": "-7646571702777908912",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 183950,
+      "stockPercent": 33.8492
+    }
+  },
+  {
+    "id": "179e422ef51f21eafb91cd35eeec8113",
+    "type": "INVEST",
+    "startNode": "-7676455602893909134",
+    "endNode": "1825771353268940102",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 2000,
+      "stockPercent": 1.0811
+    }
+  },
+  {
+    "id": "726d5db83874bdba339e02107d8b1d7d",
+    "type": "INVEST",
+    "startNode": "-6882609122265907048",
+    "endNode": "1825771353268940102",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5750,
+      "stockPercent": 3.1081
+    }
+  },
+  {
+    "id": "217aae0f1e1caa85361d3059c6596fde",
+    "type": "LEGAL",
+    "startNode": "2617655890293105297",
+    "endNode": "6838105846107869197",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "a167b3b2a59a35d399fe204f49f2a493",
+    "type": "INVEST",
+    "startNode": "5748485167374217351",
+    "endNode": "6838105846107869197",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 5000,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "1f673fba44863c030f28e9f4497ad142",
+    "type": "INVEST",
+    "startNode": "-6808607688838348408",
+    "endNode": "6838105846107869197",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 14000,
+      "stockPercent": 28
+    }
+  },
+  {
+    "id": "0d7c0c80825da838b0b6d790b213e311",
+    "type": "INVEST",
+    "startNode": "2617655890293105297",
+    "endNode": "6838105846107869197",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 400,
+      "stockPercent": 0.8
+    }
+  },
+  {
+    "id": "dc27689aab23badbd40f3777859ac478",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "8016741592804059522",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "874223bf60c242800b70662fde84e1e2",
+    "type": "EMPLOY",
+    "startNode": "-1208710931153112794",
+    "endNode": "8016741592804059522",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "038922964f1305a1b3ccf216668ba2d3",
+    "type": "EMPLOY",
+    "startNode": "7932072609052565925",
+    "endNode": "8016741592804059522",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "e50580a7175a35859cbac6625670a1b6",
+    "type": "LEGAL",
+    "startNode": "7932072609052565925",
+    "endNode": "8016741592804059522",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "7342abc5eb48f6b0d87dbcc3e2534dfc",
+    "type": "INVEST",
+    "startNode": "8016741592804059522",
+    "endNode": "-4046934207369412843",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 100,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "4c1a34fb85226fc68f2f7a311732838f",
+    "type": "INVEST",
+    "startNode": "8016741592804059522",
+    "endNode": "-8460116386898997170",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1200,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "ac081f2e1d1ff1e95d69aa3a99f6485d",
+    "type": "INVEST",
+    "startNode": "8016741592804059522",
+    "endNode": "2981678093840102346",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "5298d40e40addf37a34d979326f15882",
+    "type": "EMPLOY",
+    "startNode": "6884695640949779487",
+    "endNode": "-1468244835085712134",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7bdf629f20cbde8a3154220c09af686f",
+    "type": "EMPLOY",
+    "startNode": "8131236035392823579",
+    "endNode": "-1426423880495498991",
+    "properties": {
+      "role": "监事会主席"
+    }
+  },
+  {
+    "id": "f7d0e669b6674a9f51ea934350ba6460",
+    "type": "EMPLOY",
+    "startNode": "4095365143317507616",
+    "endNode": "-1426423880495498991",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "316dd828d0ee38203e69e1534a34e3e6",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "7090777125426767893",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "dd151031cab2ac808f77aa0baa9210fa",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "-5739773443537074897",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "3b18ce724f94a640bf6239123a4faf15",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "7635267020626628701",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "f01317bd57598d0d1e5cdfb1105cefdc",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "eaeda9bdbd806c935fbd6dba359af6a5",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "7324760077327119009",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "2a705ebb9afc4b2d067761d4eb230917",
+    "type": "EMPLOY",
+    "startNode": "8666113787506962378",
+    "endNode": "-8077425708000173372",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "99869a145b6eb13902812fafc8ccedcc",
+    "type": "INVEST",
+    "startNode": "8666113787506962378",
+    "endNode": "7635267020626628701",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 20,
+      "stockPercent": 20
+    }
+  },
+  {
+    "id": "21fb6d78dd1e79721557a5ff3bdabfb8",
+    "type": "INVEST",
+    "startNode": "8666113787506962378",
+    "endNode": "-4121788175307125148",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 20,
+      "stockPercent": 20
+    }
+  },
+  {
+    "id": "9c9388f9f50eaee8e539896ac279051c",
+    "type": "INVEST",
+    "startNode": "8666113787506962378",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 125.7146,
+      "stockPercent": 11.4286
+    }
+  },
+  {
+    "id": "77da55818d7648d6a0bac8363423b06b",
+    "type": "INVEST",
+    "startNode": "8666113787506962378",
+    "endNode": "783803818238145229",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 20,
+      "stockPercent": 20
+    }
+  },
+  {
+    "id": "c6c77a72f89caafc1546e147ba881eb0",
+    "type": "EMPLOY",
+    "startNode": "-247588997318157810",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "cb68c5c5e5f50b837a6ea99522c810d2",
+    "type": "EMPLOY",
+    "startNode": "3916321010289760310",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "3665f5105d50dd60f815d8ebd14432da",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "886e5317f953e60174c00cea8976a228",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "d8eeaf2955c7862d60f380cbcd3f0df2",
+    "type": "LEGAL",
+    "startNode": "3916321010289760310",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "d72c5b1df6d50cf00314e6b927c4e93e",
+    "type": "INVEST",
+    "startNode": "-189177785393238748",
+    "endNode": "4801216600955464017",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 8000,
+      "stockPercent": 8
+    }
+  },
+  {
+    "id": "57915cdff2edc07b754468cff06d0493",
+    "type": "INVEST",
+    "startNode": "-2754328414371331709",
+    "endNode": "-189177785393238748",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 250,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "db4c3546c1ba7466cd535e6573114b21",
+    "type": "EMPLOY",
+    "startNode": "-8900733712771758980",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "10c64253dd714856135e60339bda6d0b",
+    "type": "EMPLOY",
+    "startNode": "-8063140173239646533",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "eb608e54c32155d1c4ad0f13a1c372d6",
+    "type": "EMPLOY",
+    "startNode": "-5615897991033883936",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "经理,董事"
+    }
+  },
+  {
+    "id": "80e96188b53cc1cd322174dc3e2c9976",
+    "type": "LEGAL",
+    "startNode": "-8900733712771758980",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "32507da37aa84ccd1fec612247a5d332",
+    "type": "INVEST",
+    "startNode": "-2300404092124080347",
+    "endNode": "-3604663723552833438",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5.3062,
+      "stockPercent": 3.1362
+    }
+  },
+  {
+    "id": "727c72c4384fb9f544b1d83e7496c93a",
+    "type": "INVEST",
+    "startNode": "-2300404092124080347",
+    "endNode": "-7096634453600302474",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 196.3167,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "60c6da872f071c48b269a0388f386d42",
+    "type": "INVEST",
+    "startNode": "-5615897991033883936",
+    "endNode": "-2300404092124080347",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 200,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "110e88df194f849a93aab58fbd87a247",
+    "type": "EMPLOY",
+    "startNode": "1357900497320765961",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "84d07a6f9b36523658c5bfbefafee01d",
+    "type": "EMPLOY",
+    "startNode": "-1443472759375091910",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "a6870c9b6815ae727d4c365394af5caf",
+    "type": "EMPLOY",
+    "startNode": "-1139006156564273315",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "8ee0b55162621c4a53fd49496811a1ca",
+    "type": "EMPLOY",
+    "startNode": "1059745971010268312",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7ae6081d5d85106d76ff0d76f8eba38d",
+    "type": "EMPLOY",
+    "startNode": "-1121325543669633356",
+    "endNode": "7653983947832937359",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "a1d6972856fe28ebaa50eaee288f66a3",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "323514726392255359",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "853ca4d6a537cad59ba1aeca58183b1a",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "323514726392255359",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "094e7e207b8fe626b8d8a7838b46168f",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-5739773443537074897",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "2464f49a2f54fec231bbf12aa4aead93",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-65926694951756210",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "3cb546b33e2a4e47f6a912f8c9fc036b",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-5026536966470860689",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0e2ee857d51aca1eb3bf72729af4dea2",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-8885132026775697549",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "445b53eafc7c80c20307c9cfafb8d2b7",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-724022732823795340",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "95018e5c3dc93f187d529b24cf525341",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "2631270612276130172",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "994bec42b0e40001883949791020cd4b",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "48606e1d7f4b03110560646d060b0131",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "6313645236153111965",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "6837d62cc18c237af9f13bdffa584bfe",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "5473793697314335394",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0e47b5530ebedb3937c845b74ecbc8d3",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "5683617943603075013",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "61d3cdc99e2e65d219dac433dc4b1f90",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0e8fec6abe954575ac7807ab5b597578",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "cf27263e55ce3b94ad82db51dab53bf8",
+    "type": "EMPLOY",
+    "startNode": "-283304318481687871",
+    "endNode": "2703960481907304430",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "c605b1d70bb8682a5d57a1a966904ac6",
+    "type": "INVEST",
+    "startNode": "-283304318481687871",
+    "endNode": "2438316245269010567",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 5000,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "e2bb8792e917715ebfda0500b1918bad",
+    "type": "INVEST",
+    "startNode": "-8246127691902711748",
+    "endNode": "706486848410112675",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 50,
+      "stockPercent": 1
+    }
+  },
+  {
+    "id": "ace06ad8ea0bf520bcf01c3d38032071",
+    "type": "EMPLOY",
+    "startNode": "-5088187913928385841",
+    "endNode": "-8831616643025141851",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "7fb49f5818a5f803f2e22d17994c0d00",
+    "type": "INVEST",
+    "startNode": "-8506360532308447130",
+    "endNode": "-8831616643025141851",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 490,
+      "stockPercent": 49
+    }
+  },
+  {
+    "id": "009f459bcf30b7a3fe75e550879cf4cc",
+    "type": "EMPLOY",
+    "startNode": "1357900497320765961",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "a5313eb3f7c9bb967dff1f9ec74a8aea",
+    "type": "EMPLOY",
+    "startNode": "-1443472759375091910",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "ff091ba4d709040f5675fce6ab3682bd",
+    "type": "EMPLOY",
+    "startNode": "-1139006156564273315",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "bc7ac05f899af3fece3ec5d75316037d",
+    "type": "EMPLOY",
+    "startNode": "-2419723055084472947",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "b40c639ed367aef471e41667b803874b",
+    "type": "EMPLOY",
+    "startNode": "1059745971010268312",
+    "endNode": "314429395564108190",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "71f392e1f303880afbc2f11e772a861d",
+    "type": "EMPLOY",
+    "startNode": "8149191424216387354",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "cc2d68f00f3a4c1001d73a39396734dc",
+    "type": "EMPLOY",
+    "startNode": "7197862588799233321",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "董事长,董事,总经理"
+    }
+  },
+  {
+    "id": "58b7ae6747e230e0403235dfdcac288a",
+    "type": "EMPLOY",
+    "startNode": "-179151158690171082",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "董事,副总经理"
+    }
+  },
+  {
+    "id": "a4f4d6e1099be89547fa25f10ea3d47f",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "adc137abafa1a14e14c000c5221b47db",
+    "type": "EMPLOY",
+    "startNode": "-2845295099646275379",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "d5616353eb2d3b4b0c6929b8c89039d7",
+    "type": "LEGAL",
+    "startNode": "7197862588799233321",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "cff3ba7173fcbe4c2a0de329cdce23c7",
+    "type": "INVEST",
+    "startNode": "2712864977975726087",
+    "endNode": "3182611888651147949",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 15000,
+      "stockPercent": 5.988
+    }
+  },
+  {
+    "id": "c80e1368a687d13ed511bdbaf169ac01",
+    "type": "INVEST",
+    "startNode": "2712864977975726087",
+    "endNode": "-7433141701805445923",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 4600,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "dae79b1e881126ab09cfb8d9e0368a4a",
+    "type": "INVEST",
+    "startNode": "2712864977975726087",
+    "endNode": "-5457524403869794315",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "8c4a500cfdcd9b907371a57aa0e3f802",
+    "type": "INVEST",
+    "startNode": "7197862588799233321",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "",
+      "shouldCapi": 9216900,
+      "stockPercent": 2.08
+    }
+  },
+  {
+    "id": "4ab493a7765197180e080a8f6613daa2",
+    "type": "INVEST",
+    "startNode": "6160258050239943487",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "",
+      "shouldCapi": 123171300,
+      "stockPercent": 27.8
+    }
+  },
+  {
+    "id": "1f7c825d33344d35932ba2aaa61297f5",
+    "type": "INVEST",
+    "startNode": "-2671660396140166925",
+    "endNode": "2712864977975726087",
+    "properties": {
+      "role": "",
+      "shouldCapi": 18713100,
+      "stockPercent": 4.22
+    }
+  },
+  {
+    "id": "75d1de07c03b0b032ff4f9874c7a04f2",
+    "type": "EMPLOY",
+    "startNode": "1357900497320765961",
+    "endNode": "6279438746478378377",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "4399f8c454bdd0432672e4653061dcb2",
+    "type": "EMPLOY",
+    "startNode": "-1443472759375091910",
+    "endNode": "6279438746478378377",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "d3482976470aa521d685101b45ab7431",
+    "type": "EMPLOY",
+    "startNode": "-1139006156564273315",
+    "endNode": "6279438746478378377",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "45a5cab958f8cdfc93ae312c68a231cf",
+    "type": "LEGAL",
+    "startNode": "-1139006156564273315",
+    "endNode": "6279438746478378377",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "d85a75c482b9aa2ffe20bf5fe14535ee",
+    "type": "INVEST",
+    "startNode": "-2881185469482322908",
+    "endNode": "8070148483105559284",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 1320.732,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "fef830045cf9bb31566aaa3d427f8a2e",
+    "type": "INVEST",
+    "startNode": "2438316245269010567",
+    "endNode": "-2881185469482322908",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 2.07,
+      "stockPercent": 4.14
+    }
+  },
+  {
+    "id": "99d2dca376732063bfceb314f33adee4",
+    "type": "EMPLOY",
+    "startNode": "9149416274567512650",
+    "endNode": "-8435212847802098088",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "a6b4832684988d30d0f9af03ff1682f9",
+    "type": "LEGAL",
+    "startNode": "9149416274567512650",
+    "endNode": "-8435212847802098088",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "c5f6d76ecdc6ee695f9de259121a66a6",
+    "type": "INVEST",
+    "startNode": "9149416274567512650",
+    "endNode": "-8435212847802098088",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 200,
+      "stockPercent": 10
+    }
+  },
+  {
+    "id": "905f0b33b895d3f28f3449b8a246bd20",
+    "type": "EMPLOY",
+    "startNode": "-247588997318157810",
+    "endNode": "-8965531027033388518",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "efe3e1913bcae940f7cd3bcbc035b2eb",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "7090777125426767893",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "0200f1620f18ad797fbfbc069b1a7106",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "-65926694951756210",
+    "properties": {
+      "role": "董事长,总经理"
+    }
+  },
+  {
+    "id": "61335681eaf0cd99e2b4fa9c8d317d88",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "7635267020626628701",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "7f52c116f1ae3746da4eafc418eaab50",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "6b2baae9365c6c58571d48e29908ec5e",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "6313645236153111965",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "a7b49dfdfdc6fc12f26a26c3c497aedf",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "7324760077327119009",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "ad5afbe91c947b711e48030831b9ee9e",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "5473793697314335394",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "0b0d0a97e816fbed1c9b9d044182a585",
+    "type": "EMPLOY",
+    "startNode": "8655065259751070236",
+    "endNode": "-8077425708000173372",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "7e8036c84b82c1b004c5320d47831502",
+    "type": "INVEST",
+    "startNode": "8655065259751070236",
+    "endNode": "7635267020626628701",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 80,
+      "stockPercent": 80
+    }
+  },
+  {
+    "id": "c45b38e5d90ecd9bf2ebe33a498104b4",
+    "type": "INVEST",
+    "startNode": "8655065259751070236",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 597.1427,
+      "stockPercent": 54.2857
+    }
+  },
+  {
+    "id": "c6ba48aced21c0e5a1d6a40f24409d3d",
+    "type": "LEGAL",
+    "startNode": "8655065259751070236",
+    "endNode": "7090777125426767893",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "be40fc28763b547a7b42cb409de21fc3",
+    "type": "LEGAL",
+    "startNode": "8655065259751070236",
+    "endNode": "-65926694951756210",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "2b0ca0f176c2f4e84c88fd57d634be1c",
+    "type": "LEGAL",
+    "startNode": "8655065259751070236",
+    "endNode": "7635267020626628701",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "80ab0c1a7f3d3d8b93ce92e584e864c8",
+    "type": "LEGAL",
+    "startNode": "8655065259751070236",
+    "endNode": "-8077425708000173372",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "9a6aa0db4a8319cb86e198306b5e7584",
+    "type": "EMPLOY",
+    "startNode": "1028954762111316238",
+    "endNode": "-84737635762637310",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "19a509c2ae7c931830a67af4f0e0c931",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "-84737635762637310",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "aa374468a0fc11f20636839e71466da4",
+    "type": "INVEST",
+    "startNode": "-7823624141536517439",
+    "endNode": "-84737635762637310",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 25,
+      "stockPercent": 2.5
+    }
+  },
+  {
+    "id": "76eda9e948ce881f35a493ff78b8c4b0",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "7977536890229279386",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "8c0795cbbca64198cd53232f41b544d6",
+    "type": "EMPLOY",
+    "startNode": "-8869519598359681380",
+    "endNode": "7977536890229279386",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "708e9388ba559a064d9a1771c18498e3",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "7977536890229279386",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "73bb67adfc3620f11a78c55f117da209",
+    "type": "INVEST",
+    "startNode": "7977536890229279386",
+    "endNode": "3298801505521677276",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 54736,
+      "stockPercent": 73.3333
+    }
+  },
+  {
+    "id": "495c3137d28b8add6afc1bb2830cb97b",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "4574175196955600296",
+    "properties": {
+      "role": "非执行董事"
+    }
+  },
+  {
+    "id": "cd061dbf77fb542d36d8af7cc4f32a00",
+    "type": "INVEST",
+    "startNode": "4574175196955600296",
+    "endNode": "2559701728733724587",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "522c39e3a32facd66be9ba437f6c56ba",
+    "type": "INVEST",
+    "startNode": "-259941928593273360",
+    "endNode": "-1151308313798218642",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "dd6fe7939a2c7fc69421d4057ad805bc",
+    "type": "INVEST",
+    "startNode": "2438316245269010567",
+    "endNode": "-259941928593273360",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 19,
+      "stockPercent": 1.9
+    }
+  },
+  {
+    "id": "4a76f4e1f390f1efddf8726514cad1e0",
+    "type": "EMPLOY",
+    "startNode": "6884695640949779487",
+    "endNode": "1257345010913242076",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "c9b67d9045a61224083688b3b03cb49e",
+    "type": "EMPLOY",
+    "startNode": "-2419723055084472947",
+    "endNode": "-993619252547304832",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "4befaafd73c114e2faf2275a7a9fc1f0",
+    "type": "EMPLOY",
+    "startNode": "1059745971010268312",
+    "endNode": "-993619252547304832",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "dd7a5e8b6c484c27fa3fa1a28c451b36",
+    "type": "EMPLOY",
+    "startNode": "-5088187913928385841",
+    "endNode": "-993619252547304832",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "6314ff09510fa0921983c078730a914f",
+    "type": "EMPLOY",
+    "startNode": "-8403169919697378146",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "总经理,董事"
+    }
+  },
+  {
+    "id": "d19a4c4261704827bfdbad510a0efa3a",
+    "type": "EMPLOY",
+    "startNode": "2342572722010571698",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "bac42141e833c736d4b9318ccf4d7261",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "5c58a0475bd622b6ed3f4a6f8576db97",
+    "type": "INVEST",
+    "startNode": "-8328012559775954452",
+    "endNode": "6861919267702666838",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "c7f419f68ff3c6dceb9ebff3f47bf5da",
+    "type": "INVEST",
+    "startNode": "-8328012559775954452",
+    "endNode": "-3785774714495117729",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "7c9301df55494aa94aed812baa4e20d0",
+    "type": "INVEST",
+    "startNode": "-8328012559775954452",
+    "endNode": "2316266390088799122",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 10000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "07b42b6ca08cffc004f62c8d8d2b2b12",
+    "type": "INVEST",
+    "startNode": "-8328012559775954452",
+    "endNode": "4357717603990730484",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 30000,
+      "stockPercent": 6.5217
+    }
+  },
+  {
+    "id": "9f6c2d24c455f4c25f976d2d4c96c9b9",
+    "type": "INVEST",
+    "startNode": "4557575421484417651",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 29.6602,
+      "stockPercent": 3.1369
+    }
+  },
+  {
+    "id": "b162d27729b85efcb7ff350f7f53086b",
+    "type": "INVEST",
+    "startNode": "7736484187299254921",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 75,
+      "stockPercent": 7.9322
+    }
+  },
+  {
+    "id": "12b48e4828e4a55a2a3e0be09dc45e77",
+    "type": "INVEST",
+    "startNode": "-8403169919697378146",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 75,
+      "stockPercent": 7.9322
+    }
+  },
+  {
+    "id": "19e5ae36489da453bb3d9ef6e7aaf613",
+    "type": "INVEST",
+    "startNode": "-682392161819094541",
+    "endNode": "-8328012559775954452",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 7.8467,
+      "stockPercent": 0.8299
+    }
+  },
+  {
+    "id": "e0ecd18b40d283f6229818c979736345",
+    "type": "EMPLOY",
+    "startNode": "1357900497320765961",
+    "endNode": "-4049482018722294139",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "d8d020b39664087a8e7ec05989c8e229",
+    "type": "EMPLOY",
+    "startNode": "-1443472759375091910",
+    "endNode": "-4049482018722294139",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "a1885fbe4d9910ebcf8ee39f641dbbe8",
+    "type": "EMPLOY",
+    "startNode": "-1139006156564273315",
+    "endNode": "-4049482018722294139",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "a78894e430bf2f2e85ff31596d9af714",
+    "type": "EMPLOY",
+    "startNode": "-8140963128910868661",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "009bce0a97ed366e797130a9089b9785",
+    "type": "EMPLOY",
+    "startNode": "5892018938184474233",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "董事长,董事"
+    }
+  },
+  {
+    "id": "80ee008117c7d0d0510d87626a296498",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "副董事长,董事,总经理"
+    }
+  },
+  {
+    "id": "dbbfb370f42b5e94388b3531dadb509a",
+    "type": "LEGAL",
+    "startNode": "5892018938184474233",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "aedf59a759c340ba6d2644171422a6ef",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 277.7777,
+      "stockPercent": 23.25
+    }
+  },
+  {
+    "id": "f81c5d276fe083ea2289244b3ed0d947",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "4313757892100088881",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 596.9388,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "054c880d379c9f99aec9a2b300f448ff",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "631252636279707474",
+    "properties": {
+      "role": "",
+      "shouldCapi": 51750000,
+      "stockPercent": 71.88
+    }
+  },
+  {
+    "id": "690bbca6dafeccc1c84c4216b4bc2c70",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "-8272569621783134831",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 20000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "b834c8c95e17c134cfdc70e707100fd4",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "-1472781759251434507",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 17966.32,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "21b2bf39ddaf132152358bb686b9231e",
+    "type": "INVEST",
+    "startNode": "-4622051962270867120",
+    "endNode": "1825103480285550069",
+    "properties": {
+      "role": "",
+      "shouldCapi": 289414860,
+      "stockPercent": 20.17
+    }
+  },
+  {
+    "id": "b1ad0f30f0b33dd9a7cc5bd0bb36cbb8",
+    "type": "INVEST",
+    "startNode": "5892018938184474233",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "",
+      "shouldCapi": 566034062,
+      "stockPercent": 20.37
+    }
+  },
+  {
+    "id": "bb2d06f2f2d9b8d7e5eee7d75ad68de2",
+    "type": "INVEST",
+    "startNode": "7392101269124777168",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "",
+      "shouldCapi": 123959344,
+      "stockPercent": 4.46
+    }
+  },
+  {
+    "id": "59188568ba5111901486b22b868168c7",
+    "type": "INVEST",
+    "startNode": "-1284599331870689317",
+    "endNode": "-4622051962270867120",
+    "properties": {
+      "role": "",
+      "shouldCapi": 140076768,
+      "stockPercent": 5.04
+    }
+  },
+  {
+    "id": "85f514d67a1fc1dceb108e3bf2bcbe59",
+    "type": "INVEST",
+    "startNode": "8240827738878156337",
+    "endNode": "-457565067431302060",
+    "properties": {
+      "role": "",
+      "shouldCapi": 4892110,
+      "stockPercent": 16.31
+    }
+  },
+  {
+    "id": "429d720efe2967dcd36e5d2cf840b367",
+    "type": "INVEST",
+    "startNode": "8243243782238664396",
+    "endNode": "3281986510822130767",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 10000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "e9772b61d0be04da5d91194efbdb7fea",
+    "type": "EMPLOY",
+    "startNode": "-8140963128910868661",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "24815dfde8b0ac216f392a8e092b5944",
+    "type": "EMPLOY",
+    "startNode": "-3423190016053817224",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "ae94d0b964fcdda2ad27687556ab72c6",
+    "type": "EMPLOY",
+    "startNode": "-4567949131004903031",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "045be5451de3d378a971021fb9cc5966",
+    "type": "EMPLOY",
+    "startNode": "-5576725613780640340",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "董事长兼总经理"
+    }
+  },
+  {
+    "id": "1d80d96bbb7b71e29abb398ca55c67a1",
+    "type": "EMPLOY",
+    "startNode": "5878470143858858964",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7ffb9afbfc0c0296551ea36d45c9fefe",
+    "type": "LEGAL",
+    "startNode": "-5576725613780640340",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "724efb867c22099d638412afb750f858",
+    "type": "INVEST",
+    "startNode": "3850598742859660329",
+    "endNode": "-51872173015980789",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 450,
+      "stockPercent": 90
+    }
+  },
+  {
+    "id": "776f2a604b3f2e6f2c5082663fb74139",
+    "type": "INVEST",
+    "startNode": "3850598742859660329",
+    "endNode": "-7113960258028568741",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 28000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "e17786b4ca2bd8d7f089a8d25c6ff6fe",
+    "type": "INVEST",
+    "startNode": "-3423190016053817224",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 47.2222,
+      "stockPercent": 3.9525
+    }
+  },
+  {
+    "id": "7d337ffc296e4238838c7d29863b98f8",
+    "type": "INVEST",
+    "startNode": "-4567949131004903031",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 20,
+      "stockPercent": 1.674
+    }
+  },
+  {
+    "id": "7ce15ad3087464180748bf475175fdce",
+    "type": "INVEST",
+    "startNode": "-5576725613780640340",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 300.7778,
+      "stockPercent": 25.1751
+    }
+  },
+  {
+    "id": "2ebbb44d040172f0c9f5bbc6f932fbeb",
+    "type": "INVEST",
+    "startNode": "5878470143858858964",
+    "endNode": "3850598742859660329",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 33.3333,
+      "stockPercent": 2.79
+    }
+  },
+  {
+    "id": "dc05b8c2050071b47493415cdaf5f45b",
+    "type": "INVEST",
+    "startNode": "2438316245269010567",
+    "endNode": "-2213168782056386947",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 102.1021,
+      "stockPercent": 3.1574
+    }
+  },
+  {
+    "id": "7cefba1670e1839194437bd0a84d2d20",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "-5610640537354448227",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b1848fa4bf2f568ef9cc94ddc37c7fb3",
+    "type": "EMPLOY",
+    "startNode": "-1208710931153112794",
+    "endNode": "-5610640537354448227",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "9a6b70e6ac9bf9f4e2f6897e3dc7d810",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "4549114032927961865",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7a53e1f675d253c0fb69a595d23c6c8a",
+    "type": "EMPLOY",
+    "startNode": "1357900497320765961",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "4fc767de878f1f75d6bcece1c15bc73d",
+    "type": "EMPLOY",
+    "startNode": "-1443472759375091910",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "caf816dc0a46f24d2d91d3992b62b7b4",
+    "type": "EMPLOY",
+    "startNode": "-1139006156564273315",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "032e6e207c567928c798fd33eb3a56ff",
+    "type": "EMPLOY",
+    "startNode": "1059745971010268312",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7182acb62976df55b9da3410a34e8384",
+    "type": "INVEST",
+    "startNode": "-3655835987090761485",
+    "endNode": "-1432818261127633571",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 250,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "4ded44b54fa678a72a270bca51157d6f",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "a5da4b983bfb13a4b7c7c7efb427d4c7",
+    "type": "EMPLOY",
+    "startNode": "8093157618910190672",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "18ae9cefc8d24447797dc7a367d47bcb",
+    "type": "EMPLOY",
+    "startNode": "-2944143319634380185",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "董事长,经理,董事"
+    }
+  },
+  {
+    "id": "7acddce643fb3e66daeafe60d60bcd2b",
+    "type": "LEGAL",
+    "startNode": "-2944143319634380185",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "0ec9339cd19380b55bfa2af13b0872a5",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "8119157769578058804",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "1d6c665c00043432ab705881f10e4bfe",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "2820527781704372039",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "346443b2da254ecea6a28e31525c0f4b",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "-3999330076927134388",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "508d2e6bb79f363337d64f7e5fffab69",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "-596398228276386988",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "0228d8a85ffce6c6161e41d2035af9d2",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "-1865862768826295889",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "8311bee1a5b2f6bd01bb15771631523d",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "5568105610621044144",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "bd008bf4fdad9a5e8366e1e34a76fe90",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "-675253236108222255",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "9854fbe950ebb0f7fbb23008a3c5fba6",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "-5491919946322097177",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "4afc37a4bdd7c45c6d4e4b964dba3ba3",
+    "type": "INVEST",
+    "startNode": "-2351030753357945711",
+    "endNode": "1733688714915530751",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "a4fde1f0c7a52011f7b18ace76fc4cf5",
+    "type": "INVEST",
+    "startNode": "580750717445122350",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 71,
+      "stockPercent": 4.8882
+    }
+  },
+  {
+    "id": "28bc47e5a79834282f6fdd54b009bbd9",
+    "type": "INVEST",
+    "startNode": "8855888573770262353",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 56.6,
+      "stockPercent": 3.8968
+    }
+  },
+  {
+    "id": "09dac28d42fa333ca42c610d1a2c402c",
+    "type": "INVEST",
+    "startNode": "-2944143319634380185",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 74,
+      "stockPercent": 5.0947
+    }
+  },
+  {
+    "id": "f5e1f37524e108e493c820e5b28f1a94",
+    "type": "INVEST",
+    "startNode": "-1849157202337059654",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 918.1168,
+      "stockPercent": 63.2103
+    }
+  },
+  {
+    "id": "70f4c9257db06b13c3f155fe783c529a",
+    "type": "INVEST",
+    "startNode": "3079655308424123606",
+    "endNode": "-2351030753357945711",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 100,
+      "stockPercent": 6.8848
+    }
+  },
+  {
+    "id": "a838a055f3e726b04f018b85ba3ed9f3",
+    "type": "EMPLOY",
+    "startNode": "-4774715679489100991",
+    "endNode": "-8271902334474418152",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "bcb5d418fc17da9e87b7608cb7cf1013",
+    "type": "INVEST",
+    "startNode": "-4774715679489100991",
+    "endNode": "-8271902334474418152",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 990,
+      "stockPercent": 99
+    }
+  },
+  {
+    "id": "86bcd77414b813e981e79e5558668320",
+    "type": "INVEST",
+    "startNode": "-4774715679489100991",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 125.7146,
+      "stockPercent": 11.4286
+    }
+  },
+  {
+    "id": "947c4cfc474958924a15f87f90ed131a",
+    "type": "LEGAL",
+    "startNode": "-4774715679489100991",
+    "endNode": "-8271902334474418152",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "96df2dd7e61f2cc0aba6b40b73d0f526",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "-5739773443537074897",
+    "properties": {
+      "role": "董事长,总经理"
+    }
+  },
+  {
+    "id": "effe48948929ee487f26d180dd73e1cf",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "-65926694951756210",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "528acb622a2700113625d58d21a599e8",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "122bfbc2e5a0d387f2f6b1c0cbcf0c09",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "6313645236153111965",
+    "properties": {
+      "role": "董事长兼总经理"
+    }
+  },
+  {
+    "id": "6b1966570b09d7904f9b61b9bef6d857",
+    "type": "EMPLOY",
+    "startNode": "2430528472436943153",
+    "endNode": "5473793697314335394",
+    "properties": {
+      "role": "董事长兼总经理"
+    }
+  },
+  {
+    "id": "31e2825004cf4fcc2c0b1aeb87f3bddd",
+    "type": "INVEST",
+    "startNode": "2430528472436943153",
+    "endNode": "-8265367942312512481",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 500,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "ff027878c30efbd643478354d7561732",
+    "type": "LEGAL",
+    "startNode": "2430528472436943153",
+    "endNode": "-5739773443537074897",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "1ec52ca4bb6060b7de62a884a20a331b",
+    "type": "LEGAL",
+    "startNode": "2430528472436943153",
+    "endNode": "6313645236153111965",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "dd2225d852a54be28be9d23359d8b642",
+    "type": "LEGAL",
+    "startNode": "2430528472436943153",
+    "endNode": "5473793697314335394",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "18addf2e0cb1b4d9865e98edb8823aa9",
+    "type": "EMPLOY",
+    "startNode": "-9137802051865978368",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "d9c6d2df529f08afecb4ae78ad14d2a9",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "4bb1441e1bebf1659c66abe6271880be",
+    "type": "EMPLOY",
+    "startNode": "2772071886581304210",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "41a8372f68d0e835ace17ef93fc2888c",
+    "type": "EMPLOY",
+    "startNode": "-7254977514271777282",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "e6b36c25606d950b7da549045b15d17d",
+    "type": "LEGAL",
+    "startNode": "-9137802051865978368",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "49b00495c08f5e4f17b61c444590ca82",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "-403990049376168951",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 800,
+      "stockPercent": 80
+    }
+  },
+  {
+    "id": "ab5c5ef49b7c82f02bd7b68c20079d93",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "-5163290896195262901",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 18,
+      "stockPercent": 6
+    }
+  },
+  {
+    "id": "52984d9d013a407cd117e622c4296def",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "-8320394050194740881",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 30,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "c87f0ab5f15c55bee17e745a5ece46fe",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "8059963027837017290",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "86d66e98fab1413e5d85d3303aa27f42",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "-2065535903075227407",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 550,
+      "stockPercent": 55
+    }
+  },
+  {
+    "id": "599474caec38fe4840e3ee1bc9a111da",
+    "type": "INVEST",
+    "startNode": "148597920649108143",
+    "endNode": "-5095023674731422988",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 800,
+      "stockPercent": 80
+    }
+  },
+  {
+    "id": "7533d30f9e30ac803e5f434feed953ff",
+    "type": "INVEST",
+    "startNode": "-9137802051865978368",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "",
+      "shouldCapi": 27,
+      "stockPercent": 0.15
+    }
+  },
+  {
+    "id": "dd406933d49bac81caa3d57ac0a041dc",
+    "type": "INVEST",
+    "startNode": "-6734219602381443787",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "",
+      "shouldCapi": 1683,
+      "stockPercent": 9.35
+    }
+  },
+  {
+    "id": "a7045fd314dd9ab6a5eac902ec496fa3",
+    "type": "INVEST",
+    "startNode": "4230700073716498772",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "",
+      "shouldCapi": 9072,
+      "stockPercent": 50.4
+    }
+  },
+  {
+    "id": "25685f839f8ffe971745f2cd19118f01",
+    "type": "INVEST",
+    "startNode": "2772071886581304210",
+    "endNode": "148597920649108143",
+    "properties": {
+      "role": "",
+      "shouldCapi": 90,
+      "stockPercent": 0.5
+    }
+  },
+  {
+    "id": "da94d9548d7ab2318d85a973bd43665b",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "36596d2d27b5ffac51124172897b63d5",
+    "type": "EMPLOY",
+    "startNode": "3916321010289760310",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "b94024bd38d87da7b5c925fca6f8e715",
+    "type": "EMPLOY",
+    "startNode": "-8869519598359681380",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "fe0f44bfc16d94908df5f59529e560e7",
+    "type": "LEGAL",
+    "startNode": "3916321010289760310",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "142cf91d21b997def501478b7d1949cd",
+    "type": "INVEST",
+    "startNode": "-2754328414371331709",
+    "endNode": "-4727295612100508473",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5000,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "3471dbe4454079998522e31cc7c88819",
+    "type": "EMPLOY",
+    "startNode": "6884695640949779487",
+    "endNode": "-4093122865739831833",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "33482b177fb008b28ebb510c15d2a838",
+    "type": "LEGAL",
+    "startNode": "6884695640949779487",
+    "endNode": "-4093122865739831833",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "49f2ebec7701507d5394d2dd897c9159",
+    "type": "INVEST",
+    "startNode": "-4093122865739831833",
+    "endNode": "2577213504620258658",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "9d7244c13640e934fdbec6959239cbd6",
+    "type": "INVEST",
+    "startNode": "-2754328414371331709",
+    "endNode": "-4093122865739831833",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 50,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "c24682e66009b150c8ea5bbe83b86b35",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "f5781d50b8f5d5216d2c5e6dac8b1d7e",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "40684802bee3777b8c236a57104f04f6",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "07d7acba90bd905e016029a9a05809ad",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "92326be046b65d7d8238d5e20050ff87",
+    "type": "LEGAL",
+    "startNode": "-2712254628327599746",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "f59b2ea0e0fac5b8bda08be8e0f1767c",
+    "type": "INVEST",
+    "startNode": "-1174771949317744153",
+    "endNode": "3477530934377724430",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 3000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "4843fa691b17d4b924034b2a9611544c",
+    "type": "INVEST",
+    "startNode": "-1174771949317744153",
+    "endNode": "-8885132026775697549",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "c0fd3ea0009ae2bf95b17971a8bb636e",
+    "type": "INVEST",
+    "startNode": "-2754328414371331709",
+    "endNode": "-1174771949317744153",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 710710,
+      "stockPercent": 71
+    }
+  },
+  {
+    "id": "980898fa2f665117daf7e69451e8a6a8",
+    "type": "EMPLOY",
+    "startNode": "2760330002843917208",
+    "endNode": "-8965531027033388518",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "6581d427103646bd958ba36d9518a08f",
+    "type": "EMPLOY",
+    "startNode": "2760330002843917208",
+    "endNode": "-65926694951756210",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "ea1efd8ffb7892f68fbd1488764ef5a1",
+    "type": "EMPLOY",
+    "startNode": "2760330002843917208",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "总经理,董事"
+    }
+  },
+  {
+    "id": "711006a2612855fe7b8224ccb8638999",
+    "type": "EMPLOY",
+    "startNode": "2760330002843917208",
+    "endNode": "4174345817396794518",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "ce91bf4a08edad6f833342a2d85e0681",
+    "type": "INVEST",
+    "startNode": "2760330002843917208",
+    "endNode": "-4121788175307125148",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 5,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "170d911b0fab39aa19640a05fae16560",
+    "type": "INVEST",
+    "startNode": "2760330002843917208",
+    "endNode": "783803818238145229",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 5,
+      "stockPercent": 5
+    }
+  },
+  {
+    "id": "36e6ce2a6b3fead6b8288f19670e30a0",
+    "type": "LEGAL",
+    "startNode": "2760330002843917208",
+    "endNode": "-8965531027033388518",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "937d8ca31641e09b87db0d754de5cd5f",
+    "type": "LEGAL",
+    "startNode": "2760330002843917208",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "48e20138bea6bdfcbf59fdf1b63d0e98",
+    "type": "LEGAL",
+    "startNode": "2760330002843917208",
+    "endNode": "4174345817396794518",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "06e471a45138c8314f431cf5ff93eef6",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "-5770203854769869048",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "9c3d9a5fba4143d4f82308063c1b3944",
+    "type": "EMPLOY",
+    "startNode": "6884695640949779487",
+    "endNode": "-5770203854769869048",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "3cde4156c419c587656bfe1162cf199b",
+    "type": "EMPLOY",
+    "startNode": "-1121325543669633356",
+    "endNode": "-5770203854769869048",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "953a522b14731f37beb5cd47136fef08",
+    "type": "LEGAL",
+    "startNode": "6884695640949779487",
+    "endNode": "-5770203854769869048",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "2be04122a7a7c8551317ea54a68e06e2",
+    "type": "EMPLOY",
+    "startNode": "8549758325029346058",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "39262552ae02d4843ad2412cdee6ca47",
+    "type": "EMPLOY",
+    "startNode": "-119201868426569364",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "经理,董事"
+    }
+  },
+  {
+    "id": "2444aa53318ea430b92a0ae5ca067cc6",
+    "type": "EMPLOY",
+    "startNode": "4046503685440938929",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "监事会主席"
+    }
+  },
+  {
+    "id": "d1565f6b73179630e86eb040da788d40",
+    "type": "EMPLOY",
+    "startNode": "-7830179959424055321",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "ef499d5df9a36afd31fc3c22c79e4279",
+    "type": "LEGAL",
+    "startNode": "8549758325029346058",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "76977bdb7c9c43785b40668adc964d27",
+    "type": "INVEST",
+    "startNode": "-8152192477197517538",
+    "endNode": "-332191816600425054",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 500,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "dbdf1d6a9fe9c7acc9770d98f394424b",
+    "type": "INVEST",
+    "startNode": "-8152192477197517538",
+    "endNode": "-2576447472594311999",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 750,
+      "stockPercent": 30
+    }
+  },
+  {
+    "id": "8ff9f71c81f17e6002e9c6f0f55745cd",
+    "type": "INVEST",
+    "startNode": "8549758325029346058",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 191.8164,
+      "stockPercent": 40.3601
+    }
+  },
+  {
+    "id": "65f783a8039832952e412d211111db67",
+    "type": "INVEST",
+    "startNode": "-6469105914055364331",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 2021.2501,
+      "stockPercent": 5.7539
+    }
+  },
+  {
+    "id": "2e2c66b966c8c6b316517a371bdf5915",
+    "type": "INVEST",
+    "startNode": "-4368483713207103712",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 4007.5701,
+      "stockPercent": 11.4084
+    }
+  },
+  {
+    "id": "9e29e548d2091b5deac7233860bff4ce",
+    "type": "INVEST",
+    "startNode": "-8246127691902711748",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 2281.0117,
+      "stockPercent": 6.4934
+    }
+  },
+  {
+    "id": "95e5ac64a8e86afa7b0e09cb02bbf313",
+    "type": "INVEST",
+    "startNode": "4696345451631660860",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 1527.6391,
+      "stockPercent": 4.3487
+    }
+  },
+  {
+    "id": "f2479a782d36cff1cba5119a5003b622",
+    "type": "INVEST",
+    "startNode": "-119201868426569364",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 1303.8882,
+      "stockPercent": 3.7118
+    }
+  },
+  {
+    "id": "41208f99ab19c42a19af9029bc2149f3",
+    "type": "INVEST",
+    "startNode": "-8954728764282929922",
+    "endNode": "-8152192477197517538",
+    "properties": {
+      "role": "",
+      "shouldCapi": 743.7695,
+      "stockPercent": 2.1173
+    }
+  },
+  {
+    "id": "f34087fa9e6f348342d2a1192d4887eb",
+    "type": "EMPLOY",
+    "startNode": "7736484187299254921",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "9967942cac0ba60f1a49c88033950dc3",
+    "type": "EMPLOY",
+    "startNode": "-8403169919697378146",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "970722ddbfffbd07c7f7acd7fae0b15d",
+    "type": "EMPLOY",
+    "startNode": "2342572722010571698",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "67af8ef50545cb4e59295541f0c4eff0",
+    "type": "LEGAL",
+    "startNode": "7736484187299254921",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "795af8f84d3403be7e9f3ef8bf0efcc2",
+    "type": "INVEST",
+    "startNode": "-1228104557597917356",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 310.17,
+      "stockPercent": 15.0001
+    }
+  },
+  {
+    "id": "c0c796969409591e2d61dce6a18eb9b4",
+    "type": "INVEST",
+    "startNode": "7736484187299254921",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 331.11,
+      "stockPercent": 16.0127
+    }
+  },
+  {
+    "id": "272e8bb5dcd8812d12aa7d802719615f",
+    "type": "INVEST",
+    "startNode": "-8403169919697378146",
+    "endNode": "-4956157819219459425",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 331.11,
+      "stockPercent": 16.0127
+    }
+  },
+  {
+    "id": "05c8f1e68480a51856d61eba7866b365",
+    "type": "EMPLOY",
+    "startNode": "8104047094778913423",
+    "endNode": "985696802792380861",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0138873a3d04ee2e7bc1ca63fc7b3647",
+    "type": "EMPLOY",
+    "startNode": "-5088187913928385841",
+    "endNode": "985696802792380861",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "c100f3f1ad853d27d6742a9b22547a7d",
+    "type": "INVEST",
+    "startNode": "3590110242125040188",
+    "endNode": "985696802792380861",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 43.9714,
+      "stockPercent": 35.0838
+    }
+  },
+  {
+    "id": "38d857385646fa2916fc5c75b822f376",
+    "type": "EMPLOY",
+    "startNode": "3916321010289760310",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "55ee05f971a967d132dc80fae24faee3",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "46d1c42b2cb638083318cc584a934856",
+    "type": "EMPLOY",
+    "startNode": "-8869519598359681380",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "ade0b47e8894501296552dabb6512c9c",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "4662ca12d2594e6c8161044ab6af9839",
+    "type": "LEGAL",
+    "startNode": "3916321010289760310",
+    "endNode": "2318847783911811310",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "fd4b01acd67d5902cc8e53f55736ba86",
+    "type": "INVEST",
+    "startNode": "2318847783911811310",
+    "endNode": "5687626167642731121",
+    "properties": {
+      "role": "",
+      "shouldCapi": 720.5557,
+      "stockPercent": 8.9213
+    }
+  },
+  {
+    "id": "b01b8b5459e05340b3d7ff70311a25d2",
+    "type": "INVEST",
+    "startNode": "-8954728764282929922",
+    "endNode": "-2637417964483754777",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 3500,
+      "stockPercent": 53.3455
+    }
+  },
+  {
+    "id": "d8f29cb59704230cae8511904aaacd7c",
+    "type": "INVEST",
+    "startNode": "5351489093764698208",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 3000,
+      "stockPercent": 3
+    }
+  },
+  {
+    "id": "61072cd2d53f3af0ee81c2142694def9",
+    "type": "INVEST",
+    "startNode": "5748485167374217351",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 9600,
+      "stockPercent": 9.6
+    }
+  },
+  {
+    "id": "07bc891e98471bec694997159aa20783",
+    "type": "INVEST",
+    "startNode": "-6808607688838348408",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 15000,
+      "stockPercent": 15
+    }
+  },
+  {
+    "id": "ca2ad4504ed0d4a74bafb49147f3cbe2",
+    "type": "INVEST",
+    "startNode": "-6882609122265907048",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 1000,
+      "stockPercent": 1
+    }
+  },
+  {
+    "id": "26e5b6dfbbf4ce2e1e1821a6cbeff506",
+    "type": "INVEST",
+    "startNode": "-3898322981271130430",
+    "endNode": "-8954728764282929922",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 18000,
+      "stockPercent": 18
+    }
+  },
+  {
+    "id": "eab8fdbfd1d91fc618cf05ef12efb9f1",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "3477530934377724430",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b49cf47aa62fe9be67bbb1f372e0fa75",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "8240827738878156337",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "9a34457e4e69da04dbf65344ac3a9fdb",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b82f46118e70a6ec12d586987d7a4019",
+    "type": "EMPLOY",
+    "startNode": "-2712254628327599746",
+    "endNode": "-8885132026775697549",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "26b3776cacf800ad969520d62e07dd3f",
+    "type": "EMPLOY",
+    "startNode": "9149416274567512650",
+    "endNode": "7324760077327119009",
+    "properties": {
+      "role": "董事长兼总经理"
+    }
+  },
+  {
+    "id": "e585833ce453de4660401a04139655a9",
+    "type": "LEGAL",
+    "startNode": "9149416274567512650",
+    "endNode": "7324760077327119009",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "48832fc3475caff11b313d3815836f1b",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "8119157769578058804",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "a5b50a4863c8d583afe36a623cfeaa1f",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "2820527781704372039",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "314238c18ce11c11490fdbaf783dfabd",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-3999330076927134388",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "267e631a14faeceb9a63f732c73e40fc",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-596398228276386988",
+    "properties": {
+      "role": "经理,执行董事"
+    }
+  },
+  {
+    "id": "fc642e8e9c2629bf383d01f9b7a18d83",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-1865862768826295889",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "a3900713d8c6fb3338edd1e8da66dadc",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "5568105610621044144",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "19c87630db9a3a4cc391ef62974ee69f",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-675253236108222255",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "4bdb6057880d8a1a4882b90dc835ad25",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "-5491919946322097177",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "6c5d8e7f3a563d4c9094646dbd550964",
+    "type": "EMPLOY",
+    "startNode": "580750717445122350",
+    "endNode": "1733688714915530751",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "03818fa0c3081de0ebff1bb4edbeed3e",
+    "type": "INVEST",
+    "startNode": "580750717445122350",
+    "endNode": "3079655308424123606",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 21.7376,
+      "stockPercent": 21.7376
+    }
+  },
+  {
+    "id": "32b17cb0c63b8113eeb514d7b88cb2d0",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "8119157769578058804",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "71bb0805e11b308bcfed6e0e327338fc",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "-3999330076927134388",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "3df1eeb5b483e6bcf13216d64e98cbaa",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "-596398228276386988",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "5e322f601cf96e1b6f8898e2353736d9",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "-1865862768826295889",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "8c17976eeb6dd862b6771b47294cd34f",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "-5491919946322097177",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "1cb926dcea39bb3158ce31161aaa5eaf",
+    "type": "LEGAL",
+    "startNode": "580750717445122350",
+    "endNode": "1733688714915530751",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "fae7660a19dbd163d7bec56b93116665",
+    "type": "EMPLOY",
+    "startNode": "2772071886581304210",
+    "endNode": "-403990049376168951",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "665a597d939f9793c09906bec0b38433",
+    "type": "EMPLOY",
+    "startNode": "2772071886581304210",
+    "endNode": "-5163290896195262901",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "fda745695ea8c5a5c225108675cd0325",
+    "type": "EMPLOY",
+    "startNode": "2772071886581304210",
+    "endNode": "8059963027837017290",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "a51462b75c3f7432f1c0a099c72782fd",
+    "type": "EMPLOY",
+    "startNode": "2772071886581304210",
+    "endNode": "-2065535903075227407",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "382fee83b6ac8f99023f4bc1466b4b10",
+    "type": "INVEST",
+    "startNode": "2772071886581304210",
+    "endNode": "-6734219602381443787",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 519.83,
+      "stockPercent": 16.0207
+    }
+  },
+  {
+    "id": "e94759c1667c3bb9b36b8152c488a958",
+    "type": "INVEST",
+    "startNode": "-4121788175307125148",
+    "endNode": "7090777125426767893",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 1000000,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "9b40b376e3ed548a68bb76e01d75e1d4",
+    "type": "INVEST",
+    "startNode": "783803818238145229",
+    "endNode": "7090777125426767893",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 1000000,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "970f56ea8b521f33bfc672907b722732",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "8119157769578058804",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "111aaa7758cc9f46d9e99a32f0034028",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "2820527781704372039",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "bcf2be501825ffa1136f3c32e66877b4",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "-3999330076927134388",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "a887b0ae6359af78d817ce7724f9c99e",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "-596398228276386988",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "db93c7fcdd514dcdd7238b7275b7a779",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "-1865862768826295889",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "ba82432910210ed53ee240555eb04773",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "5568105610621044144",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "8e771d0337241e17e4d95483549d5782",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "-675253236108222255",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "c5969681076436694921745dab4afa1b",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "-5491919946322097177",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "fd7da640d329983defa2b5fdde9032f5",
+    "type": "EMPLOY",
+    "startNode": "8855888573770262353",
+    "endNode": "1733688714915530751",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "4f7758df04b76717abd99c89089c3b97",
+    "type": "LEGAL",
+    "startNode": "8855888573770262353",
+    "endNode": "2820527781704372039",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "898c08432ca0b495b3a1b29a94aa2c8a",
+    "type": "LEGAL",
+    "startNode": "8855888573770262353",
+    "endNode": "5568105610621044144",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "95143eb1044f89a821dd7db30ffbb91d",
+    "type": "LEGAL",
+    "startNode": "8855888573770262353",
+    "endNode": "-675253236108222255",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "6f09a0813ec059e94473d83023ab35e6",
+    "type": "LEGAL",
+    "startNode": "7197862588799233321",
+    "endNode": "-2671660396140166925",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "d8d241b8d5c3e45e07a80549cb2a1a21",
+    "type": "INVEST",
+    "startNode": "8149191424216387354",
+    "endNode": "-2671660396140166925",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 107.52,
+      "stockPercent": 8.96
+    }
+  },
+  {
+    "id": "b093357a54dd27041264b7a479f433ef",
+    "type": "INVEST",
+    "startNode": "7197862588799233321",
+    "endNode": "-2671660396140166925",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 389.76,
+      "stockPercent": 32.48
+    }
+  },
+  {
+    "id": "605ccc078145ac87ec62af133745912f",
+    "type": "INVEST",
+    "startNode": "-179151158690171082",
+    "endNode": "-2671660396140166925",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 81.6,
+      "stockPercent": 6.8
+    }
+  },
+  {
+    "id": "aa217221302ef63515686ec440012535",
+    "type": "INVEST",
+    "startNode": "-2845295099646275379",
+    "endNode": "-2671660396140166925",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 85.44,
+      "stockPercent": 7.12
+    }
+  },
+  {
+    "id": "fa0d8524fc624913e87d5b5d8668fd38",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "4313757892100088881",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "1d9dd84b062ac7833a096238338980d0",
+    "type": "LEGAL",
+    "startNode": "-1284599331870689317",
+    "endNode": "4313757892100088881",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "c5259b3bf5be7b0a1e505f347c38ab9c",
+    "type": "EMPLOY",
+    "startNode": "-1208710931153112794",
+    "endNode": "-8460116386898997170",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "0b795ccea699c4d2ee8a02c70c4008db",
+    "type": "EMPLOY",
+    "startNode": "-1208710931153112794",
+    "endNode": "2981678093840102346",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "db7e36507419739adf122c2227677ed4",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "2631270612276130172",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b19e46879ca02008baaebafe21909ef6",
+    "type": "EMPLOY",
+    "startNode": "-1121325543669633356",
+    "endNode": "2631270612276130172",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "6d56067015751e5220914ae475997dcc",
+    "type": "INVEST",
+    "startNode": "-8246127691902711748",
+    "endNode": "2631270612276130172",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 460.3261,
+      "stockPercent": 6.7694
+    }
+  },
+  {
+    "id": "03b2418c3434eced8410a0aba80055d6",
+    "type": "EMPLOY",
+    "startNode": "8093157618910190672",
+    "endNode": "-8265367942312512481",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "7191d91dd4120b0f8a2f08f3ed1a2b9f",
+    "type": "EMPLOY",
+    "startNode": "8093157618910190672",
+    "endNode": "5687626167642731121",
+    "properties": {
+      "role": "监事会主席"
+    }
+  },
+  {
+    "id": "33bcdc7885fd36c78b2cd7c2a347fe53",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "-403990049376168951",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "396ced287b261b11a1f12583f08d82e8",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "-5163290896195262901",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "c5bb0bbcf78454da6d4024615ff155ef",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "8059963027837017290",
+    "properties": {
+      "role": "经理,执行董事"
+    }
+  },
+  {
+    "id": "194aa2547ac82d6a64ad588acf9d8388",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "-2065535903075227407",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "d99b757e3865fde0229fdaf66308091b",
+    "type": "EMPLOY",
+    "startNode": "4230700073716498772",
+    "endNode": "-5095023674731422988",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "e44498cee2b2840de64fcf9b2033243e",
+    "type": "INVEST",
+    "startNode": "4230700073716498772",
+    "endNode": "-6734219602381443787",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 795.02,
+      "stockPercent": 24.5018
+    }
+  },
+  {
+    "id": "60d67bb5e391b7299d624cbafb1c2d7f",
+    "type": "LEGAL",
+    "startNode": "4230700073716498772",
+    "endNode": "-6734219602381443787",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "afb96a7acb074f7a33e4cc056760f7cd",
+    "type": "LEGAL",
+    "startNode": "4230700073716498772",
+    "endNode": "8059963027837017290",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "f6fd01d274749f9726078e95fc3d0368",
+    "type": "INVEST",
+    "startNode": "-7676455602893909134",
+    "endNode": "4696345451631660860",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 2000,
+      "stockPercent": 2
+    }
+  },
+  {
+    "id": "b2a30b522ff05857ff990a15916fbc51",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "-724022732823795340",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "0cec173a2366c7f281beb3cff05dbc58",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "4174345817396794518",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b1a59396df9336b65da5f823b3b4ad79",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "5683617943603075013",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "838250949c2e9b67268e3f5f79f33178",
+    "type": "EMPLOY",
+    "startNode": "8901311872486343952",
+    "endNode": "2703960481907304430",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "58bc7055dd695dd050f830540209d58e",
+    "type": "EMPLOY",
+    "startNode": "-8900733712771758980",
+    "endNode": "-7096634453600302474",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "f7ebdd14b6542834cd54c7d237343887",
+    "type": "INVEST",
+    "startNode": "-682392161819094541",
+    "endNode": "-7096634453600302474",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 60.866,
+      "stockPercent": 3.1004
+    }
+  },
+  {
+    "id": "acd9ca8e525cccb8ee5544034214fd04",
+    "type": "EMPLOY",
+    "startNode": "-8403169919697378146",
+    "endNode": "2316266390088799122",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "a46c78127b2ce417a6f0477b6d4b4089",
+    "type": "EMPLOY",
+    "startNode": "2342572722010571698",
+    "endNode": "2316266390088799122",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "4861978beadcdaf4d105b34b9070aace",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "2316266390088799122",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "61f858b50e027e4164ff7f12c8a5506a",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "-5026536966470860689",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "1cdf90637021df4c57edb667e044cb1d",
+    "type": "EMPLOY",
+    "startNode": "-1121325543669633356",
+    "endNode": "-5026536966470860689",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "7fb11f7848c0b0fadf122d760cd49fdf",
+    "type": "EMPLOY",
+    "startNode": "-8869519598359681380",
+    "endNode": "-8885132026775697549",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "cc1218925c2abd9809835edfca709a9e",
+    "type": "EMPLOY",
+    "startNode": "-2845295099646275379",
+    "endNode": "6160258050239943487",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "6a74b71097789a10f1f0996061c64762",
+    "type": "EMPLOY",
+    "startNode": "-2845295099646275379",
+    "endNode": "-7433141701805445923",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "d58e6e788c8b7373f1d2f266624b8d81",
+    "type": "EMPLOY",
+    "startNode": "-2845295099646275379",
+    "endNode": "-5457524403869794315",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "534d8b7a12488745d37dbe30af62490f",
+    "type": "EMPLOY",
+    "startNode": "7197862588799233321",
+    "endNode": "6160258050239943487",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "c495dc89b515489e19de6cd107d8e983",
+    "type": "LEGAL",
+    "startNode": "7197862588799233321",
+    "endNode": "6160258050239943487",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "fea87e19e4fba11d6736d7f3d2c93651",
+    "type": "INVEST",
+    "startNode": "8149191424216387354",
+    "endNode": "6160258050239943487",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 14.982,
+      "stockPercent": 4.54
+    }
+  },
+  {
+    "id": "77d10f4d64092ee5b3ba1306d9131e68",
+    "type": "INVEST",
+    "startNode": "7197862588799233321",
+    "endNode": "6160258050239943487",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 90,
+      "stockPercent": 27.2727
+    }
+  },
+  {
+    "id": "e0a16e0cd54cc550522098f92038ff37",
+    "type": "EMPLOY",
+    "startNode": "1028954762111316238",
+    "endNode": "-7823624141536517439",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "857294fa93075739924eecb6d1a59ea6",
+    "type": "INVEST",
+    "startNode": "-7823624141536517439",
+    "endNode": "-3604663723552833438",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 30.5938,
+      "stockPercent": 18.0822
+    }
+  },
+  {
+    "id": "33347fbc2ba02276ce82d0f6ccef042a",
+    "type": "INVEST",
+    "startNode": "1028954762111316238",
+    "endNode": "-7823624141536517439",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 1885.7143,
+      "stockPercent": 53.8776
+    }
+  },
+  {
+    "id": "e3b557b318fd4f6881cf7c139a60f32d",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "8240827738878156337",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "57483530a1387fc4944dc6d6a65753c2",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "8240827738878156337",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "e764c2394176aef426bd4fae3ac3dd9d",
+    "type": "INVEST",
+    "startNode": "8240827738878156337",
+    "endNode": "6430918209934489346",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1840,
+      "stockPercent": 23
+    }
+  },
+  {
+    "id": "5be138e4ea3ce22202375ed87b44951b",
+    "type": "INVEST",
+    "startNode": "8240827738878156337",
+    "endNode": "3182611888651147949",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 72500,
+      "stockPercent": 28.9421
+    }
+  },
+  {
+    "id": "e45e39838512d4124cc09f7f13b2dfc3",
+    "type": "INVEST",
+    "startNode": "8240827738878156337",
+    "endNode": "4357717603990730484",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 195400,
+      "stockPercent": 42.4783
+    }
+  },
+  {
+    "id": "46fdda06291a3252aa96cfc623400426",
+    "type": "EMPLOY",
+    "startNode": "5878470143858858964",
+    "endNode": "-51872173015980789",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "c2bb79995d83f75fff2e4a9db98d4e1e",
+    "type": "LEGAL",
+    "startNode": "5878470143858858964",
+    "endNode": "-51872173015980789",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "fcbf78ed6df6502674f26cacc8733a92",
+    "type": "INVEST",
+    "startNode": "-7646571702777908912",
+    "endNode": "1825103480285550069",
+    "properties": {
+      "role": "",
+      "shouldCapi": 98930770,
+      "stockPercent": 6.89
+    }
+  },
+  {
+    "id": "cf5923fc939bd1de47c496835674c2de",
+    "type": "INVEST",
+    "startNode": "-3898322981271130430",
+    "endNode": "-7646571702777908912",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 30000,
+      "stockPercent": 5.5204
+    }
+  },
+  {
+    "id": "dbb0a9abeca51daab0389487f2b46261",
+    "type": "INVEST",
+    "startNode": "-8077425708000173372",
+    "endNode": "5683617943603075013",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "3d4fc4d78cf56df79e63a039be0a39ea",
+    "type": "INVEST",
+    "startNode": "-4121788175307125148",
+    "endNode": "-8077425708000173372",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 50,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "8637880cacedfe390e5a82720cf33f5a",
+    "type": "INVEST",
+    "startNode": "783803818238145229",
+    "endNode": "-8077425708000173372",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 50,
+      "stockPercent": 50
+    }
+  },
+  {
+    "id": "9cc4fc161e665a40cb4be63ac0fbb109",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "7635355297186988813",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "a6d240ccf7c6dfab6d46b3e1f6e00b94",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "-4046934207369412843",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "565d5e3abccc96c6fd4101a7a74a2aee",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "-2754328414371331709",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "de0089388f1101dbd1a79cb8fc0bd990",
+    "type": "EMPLOY",
+    "startNode": "-7200193241585587859",
+    "endNode": "6121425202683766976",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "5359eb5c62f1cb0bb25bae2db00921d5",
+    "type": "EMPLOY",
+    "startNode": "-8403169919697378146",
+    "endNode": "-3785774714495117729",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "73dcfcdf117d92fdee4a0560dd12f42f",
+    "type": "EMPLOY",
+    "startNode": "2342572722010571698",
+    "endNode": "-3785774714495117729",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "65e23769343264fe5d8320775b439860",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "-3785774714495117729",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "7fc958ddcd9aafe07dc22e35eedf7b0d",
+    "type": "EMPLOY",
+    "startNode": "8549758325029346058",
+    "endNode": "-2576447472594311999",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "e1162726f642ee0e552bf32f62ef8b8f",
+    "type": "EMPLOY",
+    "startNode": "-119201868426569364",
+    "endNode": "-2576447472594311999",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "24ff8928a86ac03fb61a89c5f60af120",
+    "type": "EMPLOY",
+    "startNode": "-5305811277499905984",
+    "endNode": "7635355297186988813",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "76710afe37e8dca6facdc5e2dbeca03c",
+    "type": "INVEST",
+    "startNode": "-5305811277499905984",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 12500,
+      "stockPercent": 25
+    }
+  },
+  {
+    "id": "1650535a09ddce625477ea17bb770692",
+    "type": "INVEST",
+    "startNode": "7392101269124777168",
+    "endNode": "-1849157202337059654",
+    "properties": {
+      "role": "",
+      "shouldCapi": 170637446,
+      "stockPercent": 5.82
+    }
+  },
+  {
+    "id": "c44bc7e0da619f375f242a7b0b1bcf09",
+    "type": "INVEST",
+    "startNode": "-119201868426569364",
+    "endNode": "-4368483713207103712",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 27.095,
+      "stockPercent": 16.3287
+    }
+  },
+  {
+    "id": "38aca4189d803e304f30b8560b91b303",
+    "type": "EMPLOY",
+    "startNode": "8549758325029346058",
+    "endNode": "-332191816600425054",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "3a2a6853c4b4ddb3ab248cef0fbbb2c4",
+    "type": "EMPLOY",
+    "startNode": "4046503685440938929",
+    "endNode": "-332191816600425054",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "cac818eebb0adbf32b69d0beb13f96b2",
+    "type": "EMPLOY",
+    "startNode": "-7830179959424055321",
+    "endNode": "-332191816600425054",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "45f16710929c8dd60ca21e7ea23859dc",
+    "type": "LEGAL",
+    "startNode": "8549758325029346058",
+    "endNode": "-332191816600425054",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "e5184d7a665353b77adb930d964068b4",
+    "type": "EMPLOY",
+    "startNode": "7932072609052565925",
+    "endNode": "-8460116386898997170",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "8eb8b0e886928cd3978076884e33cc95",
+    "type": "EMPLOY",
+    "startNode": "7932072609052565925",
+    "endNode": "2981678093840102346",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "90f4f4c6aef1a7caefc1df001c624a55",
+    "type": "LEGAL",
+    "startNode": "7932072609052565925",
+    "endNode": "2981678093840102346",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "cb3e47dd1d4da9f6b7e224a40f859d0c",
+    "type": "EMPLOY",
+    "startNode": "-9137802051865978368",
+    "endNode": "-8320394050194740881",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "dc15ed12ffa767d3d3d542b8bcc988e2",
+    "type": "EMPLOY",
+    "startNode": "3916321010289760310",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "6be27e285181c3293b98eb0dfb050831",
+    "type": "EMPLOY",
+    "startNode": "3916321010289760310",
+    "endNode": "3298801505521677276",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b5fec2d2ced218c135d85106b907d7da",
+    "type": "LEGAL",
+    "startNode": "3916321010289760310",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "d898364d2be67b50390d31a2ef3a300d",
+    "type": "EMPLOY",
+    "startNode": "-1121325543669633356",
+    "endNode": "2577213504620258658",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "dcfb785eae1c5eba896be2b0cbb7646b",
+    "type": "LEGAL",
+    "startNode": "-1121325543669633356",
+    "endNode": "2577213504620258658",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "08911afcd9935beccdf36f36ccb7d61c",
+    "type": "EMPLOY",
+    "startNode": "-8403169919697378146",
+    "endNode": "6861919267702666838",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "1ca065059fed951efa23573a632176c7",
+    "type": "INVEST",
+    "startNode": "-8403169919697378146",
+    "endNode": "-1228104557597917356",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 0.0001,
+      "stockPercent": 0.01
+    }
+  },
+  {
+    "id": "852f3e4c37d2d75a368123b24db68da1",
+    "type": "INVEST",
+    "startNode": "-8403169919697378146",
+    "endNode": "4557575421484417651",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 0.0001,
+      "stockPercent": 0.01
+    }
+  },
+  {
+    "id": "cea1db0e3e3d9038803a365a6e17c4a0",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "-1228104557597917356",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "965387a4b31e81c0f7cc915123c03cb0",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "6861919267702666838",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "4e934abc817c5a2b60251c96378a1158",
+    "type": "LEGAL",
+    "startNode": "-8403169919697378146",
+    "endNode": "4557575421484417651",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "1fb9477523839c74ea8c94a4b1a1e7a7",
+    "type": "INVEST",
+    "startNode": "-6808607688838348408",
+    "endNode": "4696345451631660860",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 15000,
+      "stockPercent": 15
+    }
+  },
+  {
+    "id": "1f096cb343b967f7c9c0aaf721dfc47e",
+    "type": "INVEST",
+    "startNode": "-6882609122265907048",
+    "endNode": "4696345451631660860",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 12000,
+      "stockPercent": 12
+    }
+  },
+  {
+    "id": "cc07c550f32520c6a093441990038040",
+    "type": "EMPLOY",
+    "startNode": "-179151158690171082",
+    "endNode": "-5457524403869794315",
+    "properties": {
+      "role": "执行董事兼总经理"
+    }
+  },
+  {
+    "id": "2dde5823fcdfedf3c021eadfbd9de4b5",
+    "type": "LEGAL",
+    "startNode": "-179151158690171082",
+    "endNode": "-5457524403869794315",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "a17c5c3d1bc7b53081306a07cde0b7bc",
+    "type": "EMPLOY",
+    "startNode": "4095365143317507616",
+    "endNode": "5687626167642731121",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "0545bc75291f41807af5fef695501fd2",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "5687626167642731121",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "78db91c21300eed316d6caab3f018ef4",
+    "type": "INVEST",
+    "startNode": "-8246127691902711748",
+    "endNode": "5687626167642731121",
+    "properties": {
+      "role": "",
+      "shouldCapi": 1746.1326,
+      "stockPercent": 21.6191
+    }
+  },
+  {
+    "id": "a8019bf9b1b681b9decdea9a2293f758",
+    "type": "EMPLOY",
+    "startNode": "1179664342722513024",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "总经理"
+    }
+  },
+  {
+    "id": "e4fa81f25567d791ac008920b76b3fc3",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "-8246127691902711748",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "031ef65d6878e919605885440c19a5af",
+    "type": "INVEST",
+    "startNode": "-8246127691902711748",
+    "endNode": "-3604663723552833438",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 16.3499,
+      "stockPercent": 9.6635
+    }
+  },
+  {
+    "id": "82ac126dddbcc6c5fe2c9f68f332fad2",
+    "type": "INVEST",
+    "startNode": "-65926694951756210",
+    "endNode": "-8965531027033388518",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 100000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "09b53a42da3347e5b43daa8c31975579",
+    "type": "EMPLOY",
+    "startNode": "-9137802051865978368",
+    "endNode": "-5095023674731422988",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "6b634d90ec5a51f737451dae7a64c54f",
+    "type": "EMPLOY",
+    "startNode": "-7254977514271777282",
+    "endNode": "-5095023674731422988",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "7ef842c54b175e8e252e713ad217c0e5",
+    "type": "LEGAL",
+    "startNode": "-7254977514271777282",
+    "endNode": "-5095023674731422988",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "da58aa4b4dff4989b9db301fbdd5cd39",
+    "type": "EMPLOY",
+    "startNode": "-5088187913928385841",
+    "endNode": "2577213504620258658",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "2ef885530b485515a411e8380d2b760e",
+    "type": "INVEST",
+    "startNode": "8549758325029346058",
+    "endNode": "-4368483713207103712",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 87.838,
+      "stockPercent": 52.9352
+    }
+  },
+  {
+    "id": "444bc9b44677f84074e3974261a31c37",
+    "type": "LEGAL",
+    "startNode": "8549758325029346058",
+    "endNode": "-4368483713207103712",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "9e3226dd8a475435cf74c4fc977e9a07",
+    "type": "EMPLOY",
+    "startNode": "-8140963128910868661",
+    "endNode": "631252636279707474",
+    "properties": {
+      "role": "经理,董事"
+    }
+  },
+  {
+    "id": "699159209d24529fac8d88b931b58662",
+    "type": "EMPLOY",
+    "startNode": "-8140963128910868661",
+    "endNode": "1825103480285550069",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "4d311e78351669c18ac8143baa27e4bb",
+    "type": "INVEST",
+    "startNode": "-7830179959424055321",
+    "endNode": "-4368483713207103712",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 27.095,
+      "stockPercent": 16.3287
+    }
+  },
+  {
+    "id": "dae2e3ec96b85d57552a3098362b5dfe",
+    "type": "INVEST",
+    "startNode": "-3898322981271130430",
+    "endNode": "-6469105914055364331",
+    "properties": {
+      "role": "",
+      "shouldCapi": 20000,
+      "stockPercent": 5.5073
+    }
+  },
+  {
+    "id": "29b76fd8d550f1c810d520eef726b968",
+    "type": "INVEST",
+    "startNode": "-5739773443537074897",
+    "endNode": "2703960481907304430",
+    "properties": {
+      "role": "企业法人",
+      "shouldCapi": 5000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "9a62fe0f9e7f6394a64642197ebcf0bf",
+    "type": "LEGAL",
+    "startNode": "7635267020626628701",
+    "endNode": "783803818238145229",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "c0b6dad4e000d666b1795f7e2d752e2f",
+    "type": "INVEST",
+    "startNode": "7635267020626628701",
+    "endNode": "783803818238145229",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 75,
+      "stockPercent": 75
+    }
+  },
+  {
+    "id": "277ee8330c42974dba9f54ef10029ae3",
+    "type": "EMPLOY",
+    "startNode": "8131236035392823579",
+    "endNode": "4357717603990730484",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "bc029095a4fdd55d6150be392d1a5794",
+    "type": "INVEST",
+    "startNode": "5351489093764698208",
+    "endNode": "3182611888651147949",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 36250,
+      "stockPercent": 14.4711
+    }
+  },
+  {
+    "id": "b651405ad4e0cbbf0fb3593996b3d76d",
+    "type": "INVEST",
+    "startNode": "5748485167374217351",
+    "endNode": "-2637417964483754777",
+    "properties": {
+      "role": "合伙企业",
+      "shouldCapi": 147.34,
+      "stockPercent": 2.2457
+    }
+  },
+  {
+    "id": "fe19dcbefd9436c4ba0a848fc633d870",
+    "type": "LEGAL",
+    "startNode": "7635267020626628701",
+    "endNode": "-4121788175307125148",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "8778e3c30dba50e23429a95f018fdcc4",
+    "type": "INVEST",
+    "startNode": "7635267020626628701",
+    "endNode": "-4121788175307125148",
+    "properties": {
+      "role": "其他投资者",
+      "shouldCapi": 75,
+      "stockPercent": 75
+    }
+  },
+  {
+    "id": "8873ed368a34d0a64cd60445e81b1dff",
+    "type": "EMPLOY",
+    "startNode": "1028954762111316238",
+    "endNode": "-3604663723552833438",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "b2ab256cd420df4f0282698cef2a04fb",
+    "type": "EMPLOY",
+    "startNode": "2342572722010571698",
+    "endNode": "6861919267702666838",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "3520642f64bac4c086cff10d8916b41b",
+    "type": "INVEST",
+    "startNode": "2342572722010571698",
+    "endNode": "-1228104557597917356",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 0.9999,
+      "stockPercent": 99.99
+    }
+  },
+  {
+    "id": "8bd2e45b6efd15873f4039456e4f50ef",
+    "type": "INVEST",
+    "startNode": "2342572722010571698",
+    "endNode": "4557575421484417651",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 0.9999,
+      "stockPercent": 99.99
+    }
+  },
+  {
+    "id": "74b6cb9f4d9498d744ebc06c47f496e9",
+    "type": "EMPLOY",
+    "startNode": "4095365143317507616",
+    "endNode": "-4046934207369412843",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "e39689217c767fd2f844a150a533a065",
+    "type": "LEGAL",
+    "startNode": "4095365143317507616",
+    "endNode": "-4046934207369412843",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "5b62a088ef67825b75ec15aac7b52566",
+    "type": "EMPLOY",
+    "startNode": "-8869519598359681380",
+    "endNode": "3298801505521677276",
+    "properties": {
+      "role": "监事"
+    }
+  },
+  {
+    "id": "106fab6942c307e7be2a9386627a4238",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "7635355297186988813",
+    "properties": {
+      "role": "董事长,经理"
+    }
+  },
+  {
+    "id": "db90971d8b1df9d52ca1afc91e0aa4da",
+    "type": "LEGAL",
+    "startNode": "-8631997536608111497",
+    "endNode": "7635355297186988813",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "51efa56a95a4543cda0e3df0db1169ca",
+    "type": "EMPLOY",
+    "startNode": "7197862588799233321",
+    "endNode": "-7433141701805445923",
+    "properties": {
+      "role": "总经理,执行董事"
+    }
+  },
+  {
+    "id": "744a68339d5b8f4e84e87a9fed51385d",
+    "type": "LEGAL",
+    "startNode": "7197862588799233321",
+    "endNode": "-7433141701805445923",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "6bedb1974605aeca322cd8d2703a2a7f",
+    "type": "EMPLOY",
+    "startNode": "5892018938184474233",
+    "endNode": "631252636279707474",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "d83eb7f9774cf5e977c43131f0db51b7",
+    "type": "EMPLOY",
+    "startNode": "5892018938184474233",
+    "endNode": "-1472781759251434507",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "68d3315c470766c37efdf4f7b5bc3447",
+    "type": "LEGAL",
+    "startNode": "5892018938184474233",
+    "endNode": "-1472781759251434507",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "664187c4802fb2dd270274ba84bfe8b6",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "631252636279707474",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "877103f988a199293950f68ceb1979af",
+    "type": "LEGAL",
+    "startNode": "-1284599331870689317",
+    "endNode": "631252636279707474",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "7cee33d35ef7da181fa9f03cd30c38a6",
+    "type": "EMPLOY",
+    "startNode": "5878470143858858964",
+    "endNode": "-7113960258028568741",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "ff1cb5bac428e91146110ba2fedd34e0",
+    "type": "INVEST",
+    "startNode": "-7254977514271777282",
+    "endNode": "-6734219602381443787",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 96.92,
+      "stockPercent": 2.987
+    }
+  },
+  {
+    "id": "45e4fba1b1dd9ebe94cdfc5bd8ee67c8",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "6430918209934489346",
+    "properties": {
+      "role": "董事"
+    }
+  },
+  {
+    "id": "58757044c6951c094b69069943278306",
+    "type": "EMPLOY",
+    "startNode": "-8631997536608111497",
+    "endNode": "6121425202683766976",
+    "properties": {
+      "role": "董事长"
+    }
+  },
+  {
+    "id": "f0bebc5bdc4dd6f24f959dfdba04f082",
+    "type": "LEGAL",
+    "startNode": "-8631997536608111497",
+    "endNode": "6121425202683766976",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "3917cd4bb0041da54e7eeb85b97106ea",
+    "type": "INVEST",
+    "startNode": "-65926694951756210",
+    "endNode": "-724022732823795340",
+    "properties": {
+      "role": "法人股东",
+      "shouldCapi": 1000,
+      "stockPercent": 100
+    }
+  },
+  {
+    "id": "ed709d42d881c45450487a7ec454a5d9",
+    "type": "LEGAL",
+    "startNode": "-2944143319634380185",
+    "endNode": "3079655308424123606",
+    "properties": {
+      "role": "执行事务合伙人"
+    }
+  },
+  {
+    "id": "43c8f90be79401c268a81dd2d49da208",
+    "type": "INVEST",
+    "startNode": "-2944143319634380185",
+    "endNode": "3079655308424123606",
+    "properties": {
+      "role": "自然人股东",
+      "shouldCapi": 56.4752,
+      "stockPercent": 56.4752
+    }
+  },
+  {
+    "id": "9dda87ea991a701762470dae7b61ac4c",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "-8272569621783134831",
+    "properties": {
+      "role": "经理,执行董事"
+    }
+  },
+  {
+    "id": "98286d44533e5a10dfbbbea50dedf98c",
+    "type": "LEGAL",
+    "startNode": "-1284599331870689317",
+    "endNode": "-8272569621783134831",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "6cae5b4ab6335071b977788e5fc73de8",
+    "type": "EMPLOY",
+    "startNode": "-5576725613780640340",
+    "endNode": "-7113960258028568741",
+    "properties": {
+      "role": "执行董事"
+    }
+  },
+  {
+    "id": "3d157b456efd15c94ea2d67a38920f8c",
+    "type": "LEGAL",
+    "startNode": "-5576725613780640340",
+    "endNode": "-7113960258028568741",
+    "properties": {
+      "role": "法定代表人"
+    }
+  },
+  {
+    "id": "9de7e59d322eb6b33678255f1de424a4",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "-1472781759251434507",
+    "properties": {
+      "role": "经理"
+    }
+  },
+  {
+    "id": "afca7045d65d452a4d8d29e715ef002b",
+    "type": "EMPLOY",
+    "startNode": "-1284599331870689317",
+    "endNode": "1825103480285550069",
+    "properties": {
+      "role": "副董事长,董事"
+    }
+  },
+  {
+    "id": "75c23a1df7b4cf0cf722567487856d30",
+    "type": "EMPLOY",
+    "startNode": "-4247689182970967616",
+    "endNode": "3477530934377724430",
+    "properties": {
+      "role": "董事"
+    }
+  }
+]

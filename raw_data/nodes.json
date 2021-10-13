@@ -1,0 +1,2675 @@
+[
+  {
+    "id": "-5741122156295563541",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f1c5372005e04ba99175d5fd3db7b8fc",
+      "name": "深圳市腾讯计算机系统有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "6500.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "1057964412715869013",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c45094f42874de1aeaacedf1085746db",
+      "name": "浙江腾讯影业有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-4693578375813579616",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b67164361bf488390fbd5ee5f3f13f9d",
+      "name": "腾讯影业文化传播有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "1825771353268940102",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "42f05ac3802bad67a7100d53fbbb346e",
+      "name": "杭州红杉合远股权投资合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "185000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "6838105846107869197",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5a67c9602345b5f0e864b5038ddffc32",
+      "name": "苏州钟鼎创业二号投资中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "50000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "8016741592804059522",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ae371bcb03ce8e96375aadf9a3b74ed9",
+      "name": "腾讯医疗健康（深圳）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "90000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-1468244835085712134",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "497417a5f8bae92749059589eabb9143",
+      "name": "未来电视有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "20000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-1426423880495498991",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "84bc85a6ee5bd75b23f0ed9b1f59d843",
+      "name": "国铁吉讯科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "25000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "8666113787506962378",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p1208623ba0f87c3c4c4f1adf6202859",
+      "name": "许晨晔",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-189177785393238748",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ea2903d021320c37ece385752591f93e",
+      "name": "腾讯征信有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-2300404092124080347",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f24c7c973dff8630029c82d9b7247357",
+      "name": "北京搜狗信息服务有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "2000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "7653983947832937359",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "cad144d92032ac2f7906d4e97c89430d",
+      "name": "广东腾南网络信息科技有限公司",
+      "hasImage": true,
+      "status": "在业",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "323514726392255359",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "61d0e1372252852d376b63a1fcff9812",
+      "name": "深圳市腾讯动漫有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "40000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-283304318481687871",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p578fcab79a97996ff8a0c8e382283ee",
+      "name": "周昭钦",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "706486848410112675",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "565f751b6171a56d2bc01a42cf850392",
+      "name": "深圳市世纪彩讯科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-8831616643025141851",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c47bad4f3b7d950873c4552d83cf4ee4",
+      "name": "湖南腾湘科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "314429395564108190",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "365b4e5aa6244c622a7934c2d5946b2d",
+      "name": "浙江腾越网络科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "3369830060368214297",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pf534fe35ca98b7a437023d9bef45b34",
+      "name": "黄秋华",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "2712864977975726087",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "01c774cca57a2a243c089ceb281a3490",
+      "name": "益盟股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "44300.000",
+      "econKind": "股份有限公司（非上市、自然人投资或控股）"
+    }
+  },
+  {
+    "id": "6279438746478378377",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "e08fdd4969f717445c04e072fffc9a5e",
+      "name": "北京腾新科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-2881185469482322908",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ae6a6b76b1a06619c97d7f4dd390f070",
+      "name": "星创互联（北京）科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "50.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-8435212847802098088",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "affe7d2e7a5582b299a2bb472d42f7db",
+      "name": "河北雄安新区腾讯计算机系统有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "2000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-247588997318157810",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr6f210a179ade5716b068ab2bf36188",
+      "name": "刘华",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "8655065259751070236",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p03cf330a686332cfe9cb8f36a8f3ab8",
+      "name": "马化腾",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-84737635762637310",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a73fd462d4691237cb3e9e9a08c1ec17",
+      "name": "深圳市泰捷软件技术有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "7977536890229279386",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "389a5d96f5ce5fe46c6c9c15251856dd",
+      "name": "北京驿码神通信息技术有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "143460.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "4574175196955600296",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f8fc1bad000772d3d3cc056073226495",
+      "name": "众安在线财产保险股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "146981.290",
+      "econKind": "股份有限公司（中外合资、上市）"
+    }
+  },
+  {
+    "id": "-259941928593273360",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "2471192649a9d2a775531994f448fe3f",
+      "name": "北京魔方无限科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "1257345010913242076",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ac73c7547805224adfb40ecd7f6081d5",
+      "name": "辽宁腾辽科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-993619252547304832",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "125410a73bc75d2eca81cdcbe5f2a4af",
+      "name": "上海腾闻网络科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-8328012559775954452",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9e315c6467164f7960933241fe0eb9f6",
+      "name": "深圳高灯计算机科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "945.519",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-4049482018722294139",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "1c6172cd0514230a80ffa077559285e7",
+      "name": "河南腾河网络科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-4622051962270867120",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a5a0ba522ce994fb2a8de3a7625534e1",
+      "name": "华谊兄弟传媒股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "277925.492",
+      "econKind": "股份有限公司（上市、自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-457565067431302060",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5622d6a874f1f2e560ce7b7b58f5cd02",
+      "name": "北京像素软件科技股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "3000.000",
+      "econKind": "股份有限公司（非上市、自然人投资或控股）"
+    }
+  },
+  {
+    "id": "8243243782238664396",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "01b03920f42da1f54aaf338a19276840",
+      "name": "深圳市文娱华彩科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "3850598742859660329",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "27690033de0b5806f85502968f928874",
+      "name": "广州银汉科技有限公司",
+      "hasImage": true,
+      "status": "在业",
+      "registCapi": "1194.743",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-2213168782056386947",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c1b2a4c3bff63db16292f7a27350fc33",
+      "name": "广州市擎天柱网络科技有限公司",
+      "hasImage": true,
+      "status": "在业",
+      "registCapi": "3233.749",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-5610640537354448227",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "906ab35b08635e67bb764b9e9cfcf121",
+      "name": "腾讯大地通途（北京）科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "6000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "4549114032927961865",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9d2516e942ae9354c460bdabab8bd117",
+      "name": "深圳市创海数码有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-1432818261127633571",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "e8097a1b09ff2e12297d1fe77dcb3db0",
+      "name": "湖北腾楚网络科技有限责任公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-2351030753357945711",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "40fd004c5340a716592a6202d7804605",
+      "name": "浙江齐聚科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1452.479",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-4774715679489100991",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p378393157ad2059ed7330b45aa40382",
+      "name": "陈一丹",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "2430528472436943153",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pd81cb0a673a8b9ad7156403e7662780",
+      "name": "奚丹",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "148597920649108143",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "602902f0e1d5754ab19b800482e440fd",
+      "name": "优扬文化传媒股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "18000.000",
+      "econKind": "股份有限公司（非上市、自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-4727295612100508473",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c34bd2aa34e8ff3a21263936eb070c25",
+      "name": "财付通支付科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "100000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-4093122865739831833",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "bc23082abd25e8b7a9236b81ae3a08a0",
+      "name": "上海腾讯企鹅影视文化传播有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-1174771949317744153",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9e09d8f1a78bf8e671fa06e35284df36",
+      "name": "深圳市腾讯网域计算机网络有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1001000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "2760330002843917208",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p1f05aa67cc68fa068f97cbd330e225b",
+      "name": "卢山",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-5770203854769869048",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a40d4b905891f5fb59ee6eb794eeeaee",
+      "name": "深圳市世纪腾华信息技术有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "2000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8152192477197517538",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "d041a30d709d22487ef310b9c77d37a5",
+      "name": "北京醋溜网络科技股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "35128.257",
+      "econKind": "其他股份有限公司（非上市）"
+    }
+  },
+  {
+    "id": "-4956157819219459425",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a666e8b8fec759fa0efafc9d83bda03c",
+      "name": "北京网罗天下生活科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "2067.790",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "985696802792380861",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "56741286aea747a202580519f941ada9",
+      "name": "武汉鲨鱼网络直播技术有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "125.332",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "2318847783911811310",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "29adeae7d5d8dc7a40d2fdf26aca61f2",
+      "name": "北京英克必成科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "121650.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8954728764282929922",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "0d045e35ade536d678d396e56cf675b8",
+      "name": "苏州钟鼎三号创业投资中心（有限合伙）",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "100000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-2712254628327599746",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p9499130f5f393a972edaaab31f205e1",
+      "name": "冯明杰",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-5615897991033883936",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p0788f1958b6a5c6930556e6550cd907",
+      "name": "王小川",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "9149416274567512650",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p6238970eecaa0f061c01da5866ce92b",
+      "name": "沈丹",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "580750717445122350",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pa55f82999a9639d8b06d50f47634efa",
+      "name": "王永强",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "2772071886581304210",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pbeff0fcc2cf89f365e1e9b6c7794160",
+      "name": "游志坚",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "7090777125426767893",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "6e12311f56dc768f0ce7fac0ae2fb09e",
+      "name": "深圳市腾讯科融企业管理有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "2000000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "8855888573770262353",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p1fbfdd9c1bc199f77896f19895bc9c6",
+      "name": "王国良",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-1139006156564273315",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p148c417d0859d7f9b21e91f1ebcbd02",
+      "name": "栾娜",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-2671660396140166925",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c1bcffa5f6d6bc2216aaa217aefbf810",
+      "name": "南通君晓企业管理咨询合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1200.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "7736484187299254921",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p8fda3b8c2d3e87be977f56d048b2725",
+      "name": "金超",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "4313757892100088881",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c0c9ea25b26453cdbd8086e2184febbe",
+      "name": "北京华谊兄弟音乐有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "596.939",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-1208710931153112794",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr0683fa329036748599d34986b0b707",
+      "name": "王鸣宇",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "1059745971010268312",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr4135462748b6ce7c94c6c3a2695bf8",
+      "name": "易海燕",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "2631270612276130172",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "6b4c59135178dd4caaa10d612f9f49fc",
+      "name": "广州酷狗计算机科技有限公司",
+      "hasImage": true,
+      "status": "在业",
+      "registCapi": "6800.0892万元人民币",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "8093157618910190672",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p4e184b25b8423828eb40166e5bdecf0",
+      "name": "彭丹",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "4230700073716498772",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p85de425b70033508b86ce1a1a3b60e4",
+      "name": "仇伟华",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-7676455602893909134",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c8163fbc28c8fe0b189c74518485dbd9",
+      "name": "上海益都实业有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（外商投资、非独资）"
+    }
+  },
+  {
+    "id": "8901311872486343952",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "paa01e8bfced6a3dd20f3574a5f61559",
+      "name": "谢兰芳",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-7096634453600302474",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "cef9da0ea6c6ff44fef616c7917d7378",
+      "name": "海南阿凡题科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1963.167",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "2316266390088799122",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9d202bb1672384484b61f5f8ab7480e1",
+      "name": "安徽高灯微行科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-3423190016053817224",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p4be4ff0e1e75fc9ee8fa6aada65fc2d",
+      "name": "苏龙德",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-5026536966470860689",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f2bb6cba244b46fbdddd79eba3b3d1b2",
+      "name": "北京酷我科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "2606.882",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-8885132026775697549",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "8fc971cfc2544c8d7902e08cf6ed3aea",
+      "name": "深圳市财付通网络金融小额贷款有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "500000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-2845295099646275379",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pc12506ad99227d3dcf913a39fb4ba07",
+      "name": "杨军",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "6160258050239943487",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "2013ba82cd26c6f3e49704b36f5620f4",
+      "name": "上海益盟数码科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "330.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-7823624141536517439",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "fb95a7479ae69887703a6985e30fd354",
+      "name": "北京创新方舟科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "3500.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "8240827738878156337",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "7ecedd2a89a50b859304a7e9cce6567a",
+      "name": "林芝腾讯科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "3281986510822130767",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "65b42a1e2b3d925e351088b2869f4127",
+      "name": "深圳市文娱华章科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-51872173015980789",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "92f327030d4262ae6faa16a955ab4b2d",
+      "name": "海南银汉科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-1865862768826295889",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "2fe3fee56d5d18fb945835cc1587c3cf",
+      "name": "浙江滨语科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-7646571702777908912",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b289a7ddee87d322784bc37fddb19805",
+      "name": "北京红杉信远股权投资中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "543440.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-8077425708000173372",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "84f0984261998d8414e78e03e681b405",
+      "name": "深圳市腾讯企业管理有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "5473793697314335394",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "4f8d83e52bc00d66ef5b43e6e3efb67f",
+      "name": "腾讯科技（成都）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "22000.000",
+      "econKind": "有限责任公司（港澳台法人独资）"
+    }
+  },
+  {
+    "id": "-7200193241585587859",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pdcf5846f95c2ca539de63f2b9eed675",
+      "name": "周颂",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-2754328414371331709",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "fd59ede48dc721de456f8ff97a400181",
+      "name": "深圳市世纪凯旋科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1100.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "2438316245269010567",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "e335f7fd81af117930a9afb0ffc2debf",
+      "name": "深圳市世纪凯华投资基金有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "2559701728733724587",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "571a591a068c15c94d29bcd675327b55",
+      "name": "众安信息技术服务有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "500000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-3785774714495117729",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c1959671271cecde068e675736134ba4",
+      "name": "安徽高灯微税科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-2576447472594311999",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "03c24d88c098174e3fe65e2d197f8382",
+      "name": "锦九时尚（北京）科技有限公司",
+      "hasImage": false,
+      "status": "在业",
+      "registCapi": "2500.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-5305811277499905984",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p31d972f13079277921bcd42198d8bfe",
+      "name": "陈菲",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-1849157202337059654",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5602135acdc60cd54daf58cffbc24367",
+      "name": "北京光线传媒股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "293360.843",
+      "econKind": "其他股份有限公司（上市）"
+    }
+  },
+  {
+    "id": "-119201868426569364",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p55b5e03b6e0ebdb27f12ea4aff7a57e",
+      "name": "薄俊辰",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-332191816600425054",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5590f28a1034c11576260afeec4f60d4",
+      "name": "天津百川共创科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司(法人独资)"
+    }
+  },
+  {
+    "id": "7932072609052565925",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr56a026276391818496bc8c05fe25bb",
+      "name": "王少君",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-682392161819094541",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f37bbffa58c81ff76ac86aefa056e8be",
+      "name": "深圳市创新投资集团有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-8265367942312512481",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "8d17357baf909546a79e4c3784488dd7",
+      "name": "深圳市世纪天游科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-8320394050194740881",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "69d44061c2c7eae987c995923c5e9141",
+      "name": "优加（天津）文化发展有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "30.000",
+      "econKind": "有限责任公司(法人独资)"
+    }
+  },
+  {
+    "id": "3916321010289760310",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p7caa82e8280daed2fe89bca66b77b95",
+      "name": "林海峰",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-1121325543669633356",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pbee2c413eeabe71fca3ff53447c9070",
+      "name": "王娟",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-8403169919697378146",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pd49446d62ec8b0b3675785ca9985e5d",
+      "name": "张民遐",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "8059963027837017290",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a1dab009342a67104ba9d826ed7f114f",
+      "name": "优扬（天津）动漫文化传媒有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "4696345451631660860",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c7f10d1209b075d7e2943df4b2bb97cc",
+      "name": "苏州纪源源星股权投资合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "1357900497320765961",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr0b4581529dcfa5f9518a14892385c7",
+      "name": "艾兰",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-5457524403869794315",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "25d663e5e40eb22e5c7c3ca6c63526c7",
+      "name": "上海益盟财富管理有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "1733688714915530751",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "90d02d218eac5ccbd7c55f86b9bb8113",
+      "name": "金华齐齐网络科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "5687626167642731121",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ce4f84b2ba89e7c189f903ce3309d817",
+      "name": "北京知道创宇信息技术股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "8076.817",
+      "econKind": "其他股份有限公司（非上市）"
+    }
+  },
+  {
+    "id": "-6882609122265907048",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ade93fad31db3c6399ee19e60d7d5ba7",
+      "name": "上海歌斐信熙投资中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "134150.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-6808607688838348408",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c5cee00608746638fbb41853aeb51453",
+      "name": "国创元禾创业投资基金（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "301000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-8246127691902711748",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "6343b83ea3ca4ac14a9f8f914a79ee40",
+      "name": "深圳市利通产业投资基金有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "50000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-8965531027033388518",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "78668b40a82cd573c904c8891786102d",
+      "name": "重庆腾讯信息技术有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100000.000",
+      "econKind": "有限责任公司（法人独资）（外商投资企业投资）"
+    }
+  },
+  {
+    "id": "-3999330076927134388",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5f9026eb0de331fdb0bfa5e38f7e6fdf",
+      "name": "金华呱呱科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-596398228276386988",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "4b200b3a4c7a77a0a61b4c902b82b317",
+      "name": "金华聚秀科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-5095023674731422988",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "95207a8587c57e525d1251a00fe8b641",
+      "name": "天津宝贝家科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "2577213504620258658",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "e38ade91d76953a3244afa38727346a0",
+      "name": "海南周天娱乐有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "4174345817396794518",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "1ead5c4a03b99ce402b5b3b97ca68963",
+      "name": "腾讯数码（广东深汕特别合作区）有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "2000.000",
+      "econKind": "有限责任公司（台港澳法人独资）"
+    }
+  },
+  {
+    "id": "8549758325029346058",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p277705ed827582daafc1ab7efae147b",
+      "name": "吕晋杰",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-8140963128910868661",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p16b6ed37991a2769503e733a6cafd39",
+      "name": "王夫也",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-4567949131004903031",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p361f391d6f0233816e17c5bbaa7703e",
+      "name": "邝小翚",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-403990049376168951",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c66896bda5c430bc19b83796df7d3657",
+      "name": "北京优趣时光文化科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "其他有限责任公司"
+    }
+  },
+  {
+    "id": "-5163290896195262901",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a83e27ed1fe14543f6914e5bb971fb5f",
+      "name": "北京呀米文化传媒有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "300.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "-7830179959424055321",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pc2d6db25f12440ae80ce339f5104c3e",
+      "name": "白世盛",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-6469105914055364331",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ed8b48ad4489153380c2441caca6df45",
+      "name": "天津君睿祺股权投资合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "363151.515",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-5739773443537074897",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a999f5bc8422df2fdd3f5a23bfb81a7e",
+      "name": "腾讯科技（北京）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "160.000",
+      "econKind": "有限责任公司（台港澳法人独资）"
+    }
+  },
+  {
+    "id": "783803818238145229",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "e7c502e4dea2c85842954b0aaf6eacbe",
+      "name": "深圳市藤绿企业管理合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-2065535903075227407",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "4c5ed8409744c80795a44d2e290d5aea",
+      "name": "优趣乐学（天津）科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "8131236035392823579",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pfd606dad542d340826871b177aeac1e",
+      "name": "潘鲲",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-2419723055084472947",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr8c673c40307c1f46841bc25cfd6b04",
+      "name": "马小燕",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "3182611888651147949",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "f702e40d76674ccf840d60248b73cfe8",
+      "name": "深圳市腾讯普和有限合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "250500.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "2820527781704372039",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "61316e74be051d7f34387711ec8dd6e4",
+      "name": "浙江聚聊科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-5491919946322097177",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "8bb2bcf2a6e2eb15d3173c0fa5d2ea95",
+      "name": "浙江雅米科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "4046503685440938929",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p0284a144c8b26f03cdd73e445628bad",
+      "name": "柳桂珍",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-2637417964483754777",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "dfbbab07f640229a09573fab039ac9a7",
+      "name": "上海鼎羿创业投资中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "6561.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "2617655890293105297",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "deacc977e764482659a57604dbe98f14",
+      "name": "上海钟鼎创业投资中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "10000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "6884695640949779487",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr17598344bad49902a45c1ae163334f",
+      "name": "孙忠怀",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "4801216600955464017",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "777beb80d682b1454e4c327528958c0c",
+      "name": "百行征信有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "100000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-4121788175307125148",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "17e8c8c99514f431107f9e35f31313cd",
+      "name": "深圳市藤远企业管理合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-3604663723552833438",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "1d98b81c83b86adcc570d447158ab4b6",
+      "name": "北京智者天下科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "169.193",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "1028954762111316238",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p789b96b8ec2285c512ee5bb69985415",
+      "name": "汪华",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "5351489093764698208",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c4bb552b44d4ac3eb4335faee18e209e",
+      "name": "江苏京东邦能投资管理有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "8000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "2342572722010571698",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pb695818bb8578c82819b64725b5f9b0",
+      "name": "胡丽丽",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-9137802051865978368",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p171dfd8c0b81309f8d118b5f9b762e6",
+      "name": "杨国光",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "4095365143317507616",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p388ac8bf19e88a08ef66cfd6521d65c",
+      "name": "丁珂",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-1443472759375091910",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr06bfee89baf5098bbf1db7d764a24c",
+      "name": "潘静波",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-8869519598359681380",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pab3c1eaf630ba4b7f61065cacbb37fa",
+      "name": "刘雪琴",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "7635355297186988813",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9ac91d4e69348cfbb57d529b4be35e8b",
+      "name": "北京腾讯影业有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "300.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8063140173239646533",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p144e486e9c4373f9f894d6fa00f7436",
+      "name": "李壮",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "5683617943603075013",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "257a1b09e6f729d8b50882bfd462e2c1",
+      "name": "深圳市腾讯商业管理有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-7433141701805445923",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9c88dc5486ebe61fbcba55a60d673a54",
+      "name": "上海果彤软件技术有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "4600.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "5892018938184474233",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p978989c01e93131c12993d545f2a805",
+      "name": "王忠军",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "1179664342722513024",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p50aef79a7ee959c9d39ab1851d57a6f",
+      "name": "湛炜标",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-1151308313798218642",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "ee5eb8e341fb44d980c0fcb6d2324f2b",
+      "name": "北京魔格科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "4357717603990730484",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "3f2ab7ff6e538b1e42ae9746481ca2c8",
+      "name": "上海丙晟科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "460000.000",
+      "econKind": "有限责任公司（外商投资企业与内资合资）"
+    }
+  },
+  {
+    "id": "631252636279707474",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "23a8e3625b0fbef7e22ab8a7e6e1850a",
+      "name": "北京华谊兄弟创星娱乐科技股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "7200.000",
+      "econKind": "其他股份有限公司（非上市）"
+    }
+  },
+  {
+    "id": "5878470143858858964",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p66ab0f77a68d47b7dc3fd50c4265d92",
+      "name": "钟林",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "8119157769578058804",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a53075bba4f5d98938b1b2ed8a064ffc",
+      "name": "浙江够范科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "5568105610621044144",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "67cf648f1785d0486ebbe0338c2f9b5f",
+      "name": "浙江逗果科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-7254977514271777282",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p05c20d2cdbc536ede568f2913ad2402",
+      "name": "任飞",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-4368483713207103712",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "bde8a6bcd638744591d7715ad85d94f8",
+      "name": "天津楚楚网络科技中心（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "165.935",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "6430918209934489346",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "8de694155c6264c0b674beedd0f838c0",
+      "name": "苍穹互娱（天津）文化传播有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "8000.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "6121425202683766976",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "3fd0373e28d6dff91bbbd4940d2763ab",
+      "name": "腾讯影视发行有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-8460116386898997170",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "04a122c416205d9023c105c21dfa360b",
+      "name": "腾云医信科技（深圳）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1200.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8900733712771758980",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pr1937bc61f462cfcf855c26b8e8cccb",
+      "name": "许静芳",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-65926694951756210",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "181e23a3c35a6fc18450f03cc13bb03b",
+      "name": "腾讯科技（深圳）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "200.000",
+      "econKind": "有限责任公司（台港澳法人独资）"
+    }
+  },
+  {
+    "id": "-8506360532308447130",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "bcd464752917ba72c317e1623478bebe",
+      "name": "湖南潇湘晨报传媒经营有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "3900.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "3079655308424123606",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b307cb7c143a9c254a2ed10884af1c59",
+      "name": "金华宏伟环保科技合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-3898322981271130430",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "5c549e01bf369830c1ccf00e5934b843",
+      "name": "国创开元股权投资基金（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-4046934207369412843",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b3414645ea9f472498c8cefd7bca0a9e",
+      "name": "腾讯医疗健康（海南）有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "8104047094778913423",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p5fcb5ab825d5bd9488d480b994862ea",
+      "name": "朱鹏",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "6313645236153111965",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b7ceadc0cd6772eef9b9748959f40416",
+      "name": "腾讯科技（上海）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（港澳台法人独资）"
+    }
+  },
+  {
+    "id": "-5088187913928385841",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "pbe337cb88d710919058cadf91474762",
+      "name": "苗壮昌",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-8272569621783134831",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "d4fd2e97e30990bce4c403bbd814b976",
+      "name": "华谊兄弟点睛动画影业有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "20000.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-7113960258028568741",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c2aa3a06835db599c687e5e609be0b8f",
+      "name": "广州泳泳信息科技有限公司",
+      "hasImage": false,
+      "status": "在业",
+      "registCapi": "28000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8631997536608111497",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p278bd2aa00a843abbba99c3abdc834f",
+      "name": "程武",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "7324760077327119009",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "050dad9713c05b6a886f6cf57254688e",
+      "name": "腾讯科技（武汉）有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "3000.000",
+      "econKind": "有限责任公司（港澳台法人独资）"
+    }
+  },
+  {
+    "id": "-1284599331870689317",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p96fe6a8b395b31912ecb7e1f41f23b0",
+      "name": "王忠磊",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-1472781759251434507",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "1edf5b7b18adfcc0b9b3af247a4c7c41",
+      "name": "华谊兄弟影院投资有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "17966.320",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "1825103480285550069",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b8e0b6ef16dde1b1e3c5a8180cd7ae18",
+      "name": "英雄互娱科技股份有限公司",
+      "hasImage": true,
+      "status": "在业",
+      "registCapi": "143487.479",
+      "econKind": "其他股份有限公司（非上市）"
+    }
+  },
+  {
+    "id": "-6734219602381443787",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "8bcdc534eac59e62611dc90206c1f042",
+      "name": "天津久佳企业管理合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "3244.7404万元人民币",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "2981678093840102346",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "c68ac99d6066cfc51f275fabd89c0d3e",
+      "name": "腾讯医疗健康（长沙）有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "500.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-724022732823795340",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "2715ff33e86247b4d86a29e4cbaecba9",
+      "name": "深圳市腾讯网络信息技术有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "3298801505521677276",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "1bb8a1f57ecfd8670caeb7b18e3dff89",
+      "name": "深圳腾富博投资有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "74640.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "-5576725613780640340",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p834f190c0546b0537399061f401566e",
+      "name": "刘勇",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "5748485167374217351",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "de4dd305ed7c7da59d14ff92d5646d56",
+      "name": "宁波鼎莎创业投资合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "3000.000",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "7635267020626628701",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "070fe98262e2fdec4dd4ea4ed41eccc5",
+      "name": "深圳市藤青企业管理有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "100.000",
+      "econKind": "有限责任公司"
+    }
+  },
+  {
+    "id": "7197862588799233321",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p6c010efbc2532fa700f275585fc597e",
+      "name": "曾山",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "4557575421484417651",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9f9a588b387f123e494e124dba40404c",
+      "name": "深圳帕米尔山科技合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1万元人民币",
+      "econKind": "有限合伙企业"
+    }
+  },
+  {
+    "id": "-3655835987090761485",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "99d3c0ed877d7cf91f94c9e35938bf45",
+      "name": "湖北荆楚网络科技股份有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "8000.000",
+      "econKind": "其他股份有限公司（非上市）"
+    }
+  },
+  {
+    "id": "-2944143319634380185",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p879a982bc5a41155c2ef3d8cd0ffbab",
+      "name": "汪海滨",
+      "hasImage": true
+    }
+  },
+  {
+    "id": "-675253236108222255",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "0c4d61015b518ab5627b3790c877b7f8",
+      "name": "浙江一唯科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-4247689182970967616",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p6fa5fa3024ae2333b9ef5aaf799121e",
+      "name": "田丽",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "2703960481907304430",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "9b1504710629a780c9b21a80b77d2d92",
+      "name": "怀来腾讯数码有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "5000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "3477530934377724430",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "3a49574505c795ed7a8820957f45cb40",
+      "name": "上海腾富金融信息服务有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "3000.000",
+      "econKind": "有限责任公司（自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "-1228104557597917356",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "50a864beab7172674ddbbd0e5ad2eeb2",
+      "name": "深圳雅拉达泽科技合伙企业（有限合伙）",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1.000",
+      "econKind": "合伙企业"
+    }
+  },
+  {
+    "id": "8149191424216387354",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p7a945684afed7ced7773d0c79eadb9f",
+      "name": "束建平",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "-179151158690171082",
+    "labels": [
+      "Person"
+    ],
+    "properties": {
+      "keyNo": "p6285a76aad582d9e8b4c02e0dbe6460",
+      "name": "俞湧",
+      "hasImage": false
+    }
+  },
+  {
+    "id": "8070148483105559284",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "a47bd6807ae0808888d83f1031fca8be",
+      "name": "北京艺动创新科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "1320.732",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "-8271902334474418152",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "da0717cba6de05fabba71d0690c3de94",
+      "name": "武汉丹书教育科技有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（自然人投资或控股）"
+    }
+  },
+  {
+    "id": "6861919267702666838",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "36e77d58be920051833a62ec0f9f3494",
+      "name": "深圳高灯科技信息有限公司",
+      "hasImage": false,
+      "status": "存续",
+      "registCapi": "1000.000",
+      "econKind": "有限责任公司（法人独资）"
+    }
+  },
+  {
+    "id": "7392101269124777168",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "b92ed34f1eee4ef806397552cdb4ecd5",
+      "name": "杭州阿里创业投资有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "26000.000",
+      "econKind": "有限责任公司（非自然人投资或控股的法人独资）"
+    }
+  },
+  {
+    "id": "3590110242125040188",
+    "labels": [
+      "Company"
+    ],
+    "properties": {
+      "keyNo": "d88ec8a0c30e832330f679992aa92f80",
+      "name": "武汉斗鱼网络科技有限公司",
+      "hasImage": true,
+      "status": "存续",
+      "registCapi": "2234.155",
+      "econKind": "其他有限责任公司"
+    }
+  }
+]

@@ -2,6 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import util
 
 # 读取数据
 relation = pd.read_csv("data/result.csv")
@@ -31,12 +32,16 @@ print("clustering of G node 0:", clustering[0])
 print("clustering of G node 0:", nx.clustering(G, nodes=0))
 print("average clustering of G:", nx.average_clustering(G))
 print("average shortest path length:", nx.average_shortest_path_length(G))
-# nx.draw(G2)
-degree = G.degree[0]
-# 去除节点
+print("degree of 0:", G.degree[0])
+print(nx.number_connected_components(G))
+print(util.get_degree_distribution(G))
 G.remove_node(0)
-print("degree of 0:", degree)
+print(nx.number_connected_components(G))
 print("number of nodes:", G.number_of_nodes(), "number_of_edges:", G.number_of_edges())
-
-
+print(util.get_degree_distribution(G))
+components = nx.connected_components(G)
+for component in components:
+    print(component)
+components = max(nx.connected_components(G), key=len)
+print(len(components))
 plt.show()

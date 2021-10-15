@@ -1,0 +1,15 @@
+.logo-text {
+    display: inline;
+    margin-left: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #566374;
+}
+
+#user-name{
+    margin-right: 20px;
+}
+
+#wrapper .main{
+    width: 100%;
+}

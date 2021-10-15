@@ -1,0 +1,27 @@
+.span-title {
+    font-size: 35px;
+}
+
+.panel .panel-heading button {
+    padding: 6px 22px;
+    border: 1px solid #ccc;
+}
+
+.panel-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.embed-responsive-16by9{
+    padding-bottom: 38%;
+}
+
+tr td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.embed-responsive-item{
+    overflow: auto;
+}

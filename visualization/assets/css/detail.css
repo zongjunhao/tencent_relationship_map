@@ -1,0 +1,50 @@
+.detail-row {
+    margin-bottom: 30px;
+}
+
+.detail-row p {
+    margin: 10px;
+}
+
+.panel .table > thead > tr > th:first-child,
+.panel .table > thead > tr > th:last-child,
+.panel .table > tbody > tr > th:first-child,
+.panel .table > tbody > tr > th:last-child {
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+}
+
+.panel {
+    margin-bottom: 0;
+}
+
+.link-prediction {
+    width: 30%;
+    border-radius: 6px;
+    background: #53d192;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    line-height: 30px;
+    margin-left: 280px;
+}
+
+.panel .panel-heading button i {
+    font-size: 30px;
+}
+
+.panel .panel-heading button {
+    margin: 10px 20px;
+}
+
+.panel .panel-heading {
+    display: flex;
+    padding-left: 0;
+}
+
+.node-attribute{
+    overflow-x: auto;
+}

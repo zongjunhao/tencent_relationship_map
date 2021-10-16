@@ -1,3 +1,5 @@
+import json
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -38,7 +40,10 @@ print(util.get_degree_distribution(G))
 G.remove_node(0)
 print(nx.number_connected_components(G))
 print("number of nodes:", G.number_of_nodes(), "number_of_edges:", G.number_of_edges())
+degree_distribution = util.get_degree_distribution(G)
+degree_distribution_json = json.dumps(degree_distribution)
 print(util.get_degree_distribution(G))
+print(degree_distribution_json)
 components = nx.connected_components(G)
 for component in components:
     print(component)

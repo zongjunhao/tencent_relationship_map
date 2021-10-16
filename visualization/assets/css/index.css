@@ -6,10 +6,21 @@
     color: #566374;
 }
 
-#user-name{
+#user-name {
     margin-right: 20px;
 }
 
-#wrapper .main{
+#wrapper .main {
     width: 100%;
+}
+
+body {
+    background-color: #F3F5F8;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 15px;
+    color: #676a6d;
+}
+
+.detail-row{
+    padding-bottom: 20px;
 }

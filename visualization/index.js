@@ -3,6 +3,10 @@ console.log("test")
 let relation_chart = echarts.init(document.getElementById('relation-chart'));
 relation_chart.showLoading();
 $.getJSON('http://127.0.0.1:5000/get_init_data', function (graph) {
+    console.log(graph)
+    console.log(graph.categories)
+    nodes = graph.nodes
+    links = graph.links
     relation_chart.hideLoading();
     option = {
         tooltip: {},
@@ -13,17 +17,18 @@ $.getJSON('http://127.0.0.1:5000/get_init_data', function (graph) {
                 })
             }
         ],
+        animation: false,
         series: [
             {
                 name: 'Les Miserables',
                 type: 'graph',
-                layout: 'none',
+                layout: 'force',
                 data: graph.nodes,
                 links: graph.links,
                 categories: graph.categories,
                 roam: true,
                 label: {
-                    show: true,
+                    show: false,
                     position: 'right',
                     formatter: '{b}'
                 },
@@ -43,7 +48,10 @@ $.getJSON('http://127.0.0.1:5000/get_init_data', function (graph) {
                 },
                 lineStyle: {
                     color: 'source',
-                    curveness: 0.1
+                    curveness: 0.0
+                },
+                force: {
+                    repulsion: 100
                 }
             }
         ]
@@ -83,7 +91,6 @@ $.getJSON('http://127.0.0.1:5000/get_node_distribution', function (json) {
         ],
         series: [
             {
-                name: 'Evaporation',
                 type: 'bar',
                 data: result[2]
             },

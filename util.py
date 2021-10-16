@@ -1,4 +1,5 @@
 import json
+import math
 
 import networkx as nx
 import numpy as np
@@ -87,12 +88,34 @@ def get_size_of_the_largest_graph(G: nx.Graph) -> int:
 
 
 def load_raw_relation() -> nx.Graph:
+    nodes = pd.read_csv("data/nodes.csv")
+    nodes_info = nodes[["nodes_id", "labels", "name", "registCapi"]]
     relation = pd.read_csv("data/result.csv")
     edge = relation[["startNode", "endNode"]]
     edge_array = np.array(edge)
+    edge_list = edge_array.tolist()
     G = nx.Graph()
-    G.add_edges_from(edge_array)
+    for index, row in nodes_info.iterrows():
+        registCapi = None
+        if math.isnan(row["registCapi"]):
+            registCapi = 10
+        else:
+            registCapi = math.log(float(row["registCapi"])) + 1
+        category = 0
+        if row["labels"] == "Company":
+            category = 0
+        else:
+            category = 1
+        G.add_node(row["nodes_id"], category=category, name=row["name"], registCapi=registCapi, symbolSize=registCapi)
+    G.add_edges_from(edge_list)
     return G
+
+
+def generate_response_data() -> str:
+    G = load_raw_relation()
+    json_result = nx.json_graph.node_link_data(G)
+    json_result['categories'] = [{"name": "Company"}, {"name": "Person"}]
+    return json.dumps(json_result, ensure_ascii=False)
 
 
 def generate_graph_from_json() -> nx.Graph:

@@ -111,11 +111,34 @@ def load_raw_relation() -> nx.Graph:
     return G
 
 
-def generate_response_data() -> str:
-    G = load_raw_relation()
+def generate_graph_data(G: nx.Graph) -> str:
     json_result = nx.json_graph.node_link_data(G)
     json_result['categories'] = [{"name": "Company"}, {"name": "Person"}]
     return json.dumps(json_result, ensure_ascii=False)
+
+
+def generate_raw_data() -> str:
+    G = load_raw_relation()
+    graph_data = generate_graph_data(G)
+    average_degree = get_average_degree(G)
+    degree_of_node_0 = get_degree_of_node(G, 0)
+    degree_distribution = get_degree_distribution(G)
+    average_shortest_path_length = get_average_shortest_path_length(G)
+    average_clustering = get_average_clustering(G)
+    clustering_of_node_0 = get_clustering_of_node(G, 0)
+    coreness = get_coreness(G)
+    core_of_node_0 = get_core_of_node(G, 0)
+    result_dict = dict()
+    result_dict["graph_data"] = graph_data
+    result_dict["average_degree"] = average_degree
+    result_dict["degree_of_node_0"] = degree_of_node_0
+    result_dict["degree_distribution"] = degree_distribution
+    result_dict["average_shortest_path_length"] = average_shortest_path_length
+    result_dict["average_clustering"] = average_clustering
+    result_dict["clustering_of_node_0"] = clustering_of_node_0
+    result_dict["coreness"] = coreness
+    result_dict["core_of_node_0"] = core_of_node_0
+    return json.dumps(result_dict)
 
 
 def generate_graph_from_json() -> nx.Graph:

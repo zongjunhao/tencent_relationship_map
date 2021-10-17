@@ -38,38 +38,175 @@
 
                 <div class="panel panel-headline">
                     <div class="panel-heading">
-                        <!--                        <h3 class="panel-title">Weekly Overview</h3>-->
+                        <h3 class="panel-title">Raw Relationship</h3>
                         <!--                        <p class="panel-subtitle">Period: Oct 14, 2016 - Oct 21, 2016</p>-->
                     </div>
                     <div class="panel-body">
                         <div class="col-md-8">
-                            <div class="embed-responsive embed-responsive-4by3">
+                            <div class="embed-responsive embed-responsive-16by9">
                                 <div id="relation-chart" class="embed-responsive-item"></div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="degree detail-row">
                                 <h3>Degree :</h3>
-                                <p>average degree :<span id="average-degree"></span></p>
-                                <p>degree of node <select></select>:<span id="degree-of-node"></span></p>
-                                <p>degree distribution :</p>
+                                <p>average degree :&nbsp;<span id="average-degree"></span></p>
+                                <p class="node-row">degree of node
+                                    &nbsp;<select id="degree-node-id"></select>&nbsp;:&nbsp;
+                                    <span id="degree-of-node" style="width: 50px"></span>
+                                    <span id="degree-of-node-btn" class="label label-default">Query</span>
+                                </p>
+                                <p>degree distribution : &nbsp;</p>
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <div id="node-degree-chart" class="embed-responsive-item"></div>
                                 </div>
                             </div>
                             <div class="average-shortest-path-length detail-row">
-                                <h3>Average shortest path length :<span id="average-shortest-path-length"></span></h3>
+                                <h3>Average shortest path length : &nbsp;<span id="average-shortest-path-length"></span>
+                                </h3>
                             </div>
                             <div class="node-classification detail-row">
                                 <h3>Clustering coefficient :</h3>
-                                <p>average clustering coefficient :<span id="average-clustering-coefficient"></span></p>
-                                <p>clustering coefficient of node <select></select>:<span
-                                        id="clustering-coefficient"></span></p>
+                                <p>average clustering coefficient : &nbsp;<span
+                                        id="average-clustering-coefficient"></span></p>
+                                <p class="node-row">clustering coefficient of node
+                                    &nbsp;<select id="clustering-node-id"></select>&nbsp;:&nbsp;
+                                    <span id="clustering-coefficient" style="width: 50px"></span>
+                                    <span id="clustering-coefficient-btn" class="label label-default">Query</span>
+                                </p>
                             </div>
                             <div class="coreness detail-row">
                                 <h3>Coreness :</h3>
-                                <p>coreness of the graph :<span id="coreness-of-graph"></span></p>
-                                <p>core of node <select></select>:<span id="core-of-node"></span></p>
+                                <p>coreness of the graph :&nbsp;<span id="coreness-of-graph"></span></p>
+                                <p class="node-row">core of node
+                                    &nbsp;<select id="core-node-id"></select>&nbsp;:&nbsp;
+                                    <span id="core-of-node" style="width: 50px"></span>
+                                    <span id="core-of-node-btn" class="label label-default">Query</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-headline">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Intentional Attack</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="col-md-7">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <div id="intentional-attack-chart" class="embed-responsive-item"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="detail-row">
+                                <div class="col-md-6">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <div id="intentional-path-length-chart" class="embed-responsive-item"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <div id="intentional-subgraph-chart" class="embed-responsive-item"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="degree detail-row">
+                                <h3>Average Degree :&nbsp;<span id="intentional-average-degree"></span></h3>
+                            </div>
+                            <div class="average-shortest-path-length detail-row">
+                                <h3>Average shortest path length : &nbsp;
+                                    <span id="intentional-average-shortest-path-length"></span>
+                                </h3>
+                            </div>
+                            <div class="node-classification detail-row">
+                                <h3>Average clustering coefficient : &nbsp;
+                                    <span id="intentional-average-clustering-coefficient"></span>
+                                </h3>
+                            </div>
+                            <div class="coreness detail-row">
+                                <h3>Coreness of graph :&nbsp;<span id="intentional-coreness-of-graph"></span></h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of connected components:&nbsp;
+                                    <span id="intentional-connected-components"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Size of the largest subgraph:&nbsp;
+                                    <span id="intentional-largest-subgraph"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of nodes:&nbsp;
+                                    <span id="intentional-number-of-nodes"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of edges:&nbsp;
+                                    <span id="intentional-number-of-edges"></span>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-headline">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Random Attack</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="col-md-7">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <div id="random-attack-chart" class="embed-responsive-item"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="detail-row">
+                                <div class="col-md-6">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <div id="random-path-length-chart" class="embed-responsive-item"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <div id="random-subgraph-chart" class="embed-responsive-item"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="degree detail-row">
+                                <h3>Average Degree :&nbsp;<span id="random-average-degree"></span></h3>
+                            </div>
+                            <div class="average-shortest-path-length detail-row">
+                                <h3>Average shortest path length : &nbsp;
+                                    <span id="random-average-shortest-path-length"></span>
+                                </h3>
+                            </div>
+                            <div class="node-classification detail-row">
+                                <h3>Average clustering coefficient : &nbsp;
+                                    <span id="random-average-clustering-coefficient"></span>
+                                </h3>
+                            </div>
+                            <div class="coreness detail-row">
+                                <h3>Coreness of graph :&nbsp;<span id="random-coreness-of-graph"></span></h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of connected components:&nbsp;
+                                    <span id="random-connected-components"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Size of the largest subgraph:&nbsp;
+                                    <span id="random-largest-subgraph"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of nodes:&nbsp;
+                                    <span id="random-number-of-nodes"></span>
+                                </h3>
+                            </div>
+                            <div class="detail-row">
+                                <h3>Number of edges:&nbsp;
+                                    <span id="random-number-of-edges"></span>
+                                </h3>
                             </div>
                         </div>
                     </div>

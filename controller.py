@@ -1771,7 +1771,12 @@ def login():
 
 @app.route('/get_init_data')
 def get_init_data():
-    return util.generate_response_data()
+    return util.generate_graph_data()
+
+
+@app.route('/get_raw_data')
+def get_raw_data():
+    return util.generate_raw_data()
 
 
 @app.route('/get_node_distribution')
@@ -1779,6 +1784,27 @@ def get_node_distribution():
     G = util.load_raw_relation()
     degree_distribution = util.get_degree_distribution(G)
     return degree_distribution
+
+
+@app.route('/get_degree_of_node')
+def get_degree_of_node():
+    node_id = request.args.get("node_id")
+    G = util.load_raw_relation()
+    return str(util.get_degree_of_node(G, int(node_id)))
+
+
+@app.route('/get_clustering_of_node')
+def get_clustering_of_node():
+    node_id = request.args.get("node_id")
+    G = util.load_raw_relation()
+    return str(util.get_clustering_of_node(G, int(node_id)))
+
+
+@app.route('/get_core_of_node')
+def get_core_of_node():
+    node_id = request.args.get("node_id")
+    G = util.load_raw_relation()
+    return str(util.get_core_of_node(G, int(node_id)))
 
 
 if __name__ == '__main__':

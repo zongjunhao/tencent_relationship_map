@@ -1807,5 +1807,12 @@ def get_core_of_node():
     return str(util.get_core_of_node(G, int(node_id)))
 
 
+@app.route('/attack_graph', methods=['POST'])
+def attack_graph():
+    node_id = request.form['node_id']
+    graph = request.form['graph']
+    return util.attack_graph(graph, node_id)
+
+
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)

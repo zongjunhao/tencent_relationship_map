@@ -1,3193 +1,3201 @@
 {
-  "directed": false,
-  "multigraph": false,
-  "graph": {},
-  "nodes": [
-    {
-      "category": "Company",
-      "name": "深圳市腾讯计算机系统有限公司",
-      "registCapi": 6500,
-      "symbolSize": 6500,
-      "id": 0
-    },
-    {
-      "category": "Company",
-      "name": "浙江腾讯影业有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 1
-    },
-    {
-      "category": "Company",
-      "name": "腾讯影业文化传播有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 2
-    },
-    {
-      "category": "Company",
-      "name": "杭州红杉合远股权投资合伙企业（有限合伙）",
-      "registCapi": 185000,
-      "symbolSize": 185000,
-      "id": 3
-    },
-    {
-      "category": "Company",
-      "name": "苏州钟鼎创业二号投资中心（有限合伙）",
-      "registCapi": 50000,
-      "symbolSize": 50000,
-      "id": 4
-    },
-    {
-      "category": "Company",
-      "name": "腾讯医疗健康（深圳）有限公司",
-      "registCapi": 90000,
-      "symbolSize": 90000,
-      "id": 5
-    },
-    {
-      "category": "Company",
-      "name": "未来电视有限公司",
-      "registCapi": 20000,
-      "symbolSize": 20000,
-      "id": 6
-    },
-    {
-      "category": "Company",
-      "name": "国铁吉讯科技有限公司",
-      "registCapi": 25000,
-      "symbolSize": 25000,
-      "id": 7
-    },
-    {
-      "category": "Person",
-      "name": "许晨晔",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 8
-    },
-    {
-      "category": "Company",
-      "name": "腾讯征信有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 9
-    },
-    {
-      "category": "Company",
-      "name": "北京搜狗信息服务有限公司",
-      "registCapi": 2000,
-      "symbolSize": 2000,
-      "id": 10
-    },
-    {
-      "category": "Company",
-      "name": "广东腾南网络信息科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 11
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯动漫有限公司",
-      "registCapi": 40000,
-      "symbolSize": 40000,
-      "id": 12
-    },
-    {
-      "category": "Person",
-      "name": "周昭钦",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 13
-    },
-    {
-      "category": "Company",
-      "name": "深圳市世纪彩讯科技有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 14
-    },
-    {
-      "category": "Company",
-      "name": "湖南腾湘科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 15
-    },
-    {
-      "category": "Company",
-      "name": "浙江腾越网络科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 16
-    },
-    {
-      "category": "Person",
-      "name": "黄秋华",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 17
-    },
-    {
-      "category": "Company",
-      "name": "益盟股份有限公司",
-      "registCapi": 44300,
-      "symbolSize": 44300,
-      "id": 18
-    },
-    {
-      "category": "Company",
-      "name": "北京腾新科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 19
-    },
-    {
-      "category": "Company",
-      "name": "星创互联（北京）科技有限公司",
-      "registCapi": 50,
-      "symbolSize": 50,
-      "id": 20
-    },
-    {
-      "category": "Company",
-      "name": "河北雄安新区腾讯计算机系统有限公司",
-      "registCapi": 2000,
-      "symbolSize": 2000,
-      "id": 21
-    },
-    {
-      "category": "Person",
-      "name": "刘华",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 22
-    },
-    {
-      "category": "Person",
-      "name": "马化腾",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 23
-    },
-    {
-      "category": "Company",
-      "name": "深圳市泰捷软件技术有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 24
-    },
-    {
-      "category": "Company",
-      "name": "北京驿码神通信息技术有限公司",
-      "registCapi": 143460,
-      "symbolSize": 143460,
-      "id": 25
-    },
-    {
-      "category": "Company",
-      "name": "众安在线财产保险股份有限公司",
-      "registCapi": 146981,
-      "symbolSize": 146981,
-      "id": 26
-    },
-    {
-      "category": "Company",
-      "name": "北京魔方无限科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 27
-    },
-    {
-      "category": "Company",
-      "name": "辽宁腾辽科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 28
-    },
-    {
-      "category": "Company",
-      "name": "上海腾闻网络科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 29
-    },
-    {
-      "category": "Company",
-      "name": "深圳高灯计算机科技有限公司",
-      "registCapi": 945,
-      "symbolSize": 945,
-      "id": 30
-    },
-    {
-      "category": "Company",
-      "name": "河南腾河网络科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 31
-    },
-    {
-      "category": "Company",
-      "name": "华谊兄弟传媒股份有限公司",
-      "registCapi": 277925,
-      "symbolSize": 277925,
-      "id": 32
-    },
-    {
-      "category": "Company",
-      "name": "北京像素软件科技股份有限公司",
-      "registCapi": 3000,
-      "symbolSize": 3000,
-      "id": 33
-    },
-    {
-      "category": "Company",
-      "name": "深圳市文娱华彩科技有限公司",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 34
-    },
-    {
-      "category": "Company",
-      "name": "广州银汉科技有限公司",
-      "registCapi": 1194,
-      "symbolSize": 1194,
-      "id": 35
-    },
-    {
-      "category": "Company",
-      "name": "广州市擎天柱网络科技有限公司",
-      "registCapi": 3233,
-      "symbolSize": 3233,
-      "id": 36
-    },
-    {
-      "category": "Company",
-      "name": "腾讯大地通途（北京）科技有限公司",
-      "registCapi": 6000,
-      "symbolSize": 6000,
-      "id": 37
-    },
-    {
-      "category": "Company",
-      "name": "深圳市创海数码有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 38
-    },
-    {
-      "category": "Company",
-      "name": "湖北腾楚网络科技有限责任公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 39
-    },
-    {
-      "category": "Company",
-      "name": "浙江齐聚科技有限公司",
-      "registCapi": 1452,
-      "symbolSize": 1452,
-      "id": 40
-    },
-    {
-      "category": "Person",
-      "name": "陈一丹",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 41
-    },
-    {
-      "category": "Person",
-      "name": "奚丹",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 42
-    },
-    {
-      "category": "Company",
-      "name": "优扬文化传媒股份有限公司",
-      "registCapi": 18000,
-      "symbolSize": 18000,
-      "id": 43
-    },
-    {
-      "category": "Company",
-      "name": "财付通支付科技有限公司",
-      "registCapi": 100000,
-      "symbolSize": 100000,
-      "id": 44
-    },
-    {
-      "category": "Company",
-      "name": "上海腾讯企鹅影视文化传播有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 45
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯网域计算机网络有限公司",
-      "registCapi": 1001000,
-      "symbolSize": 1001000,
-      "id": 46
-    },
-    {
-      "category": "Person",
-      "name": "卢山",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 47
-    },
-    {
-      "category": "Company",
-      "name": "深圳市世纪腾华信息技术有限公司",
-      "registCapi": 2000,
-      "symbolSize": 2000,
-      "id": 48
-    },
-    {
-      "category": "Company",
-      "name": "北京醋溜网络科技股份有限公司",
-      "registCapi": 35128,
-      "symbolSize": 35128,
-      "id": 49
-    },
-    {
-      "category": "Company",
-      "name": "北京网罗天下生活科技有限公司",
-      "registCapi": 2067,
-      "symbolSize": 2067,
-      "id": 50
-    },
-    {
-      "category": "Company",
-      "name": "武汉鲨鱼网络直播技术有限公司",
-      "registCapi": 125,
-      "symbolSize": 125,
-      "id": 51
-    },
-    {
-      "category": "Company",
-      "name": "北京英克必成科技有限公司",
-      "registCapi": 121650,
-      "symbolSize": 121650,
-      "id": 52
-    },
-    {
-      "category": "Company",
-      "name": "苏州钟鼎三号创业投资中心（有限合伙）",
-      "registCapi": 100000,
-      "symbolSize": 100000,
-      "id": 53
-    },
-    {
-      "category": "Person",
-      "name": "冯明杰",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 54
-    },
-    {
-      "category": "Person",
-      "name": "王小川",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 55
-    },
-    {
-      "category": "Person",
-      "name": "沈丹",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 56
-    },
-    {
-      "category": "Person",
-      "name": "王永强",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 57
-    },
-    {
-      "category": "Person",
-      "name": "游志坚",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 58
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯科融企业管理有限公司",
-      "registCapi": 2000000,
-      "symbolSize": 2000000,
-      "id": 59
-    },
-    {
-      "category": "Person",
-      "name": "王国良",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 60
-    },
-    {
-      "category": "Person",
-      "name": "栾娜",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 61
-    },
-    {
-      "category": "Company",
-      "name": "南通君晓企业管理咨询合伙企业（有限合伙）",
-      "registCapi": 1200,
-      "symbolSize": 1200,
-      "id": 62
-    },
-    {
-      "category": "Person",
-      "name": "金超",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 63
-    },
-    {
-      "category": "Company",
-      "name": "北京华谊兄弟音乐有限公司",
-      "registCapi": 596,
-      "symbolSize": 596,
-      "id": 64
-    },
-    {
-      "category": "Person",
-      "name": "王鸣宇",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 65
-    },
-    {
-      "category": "Person",
-      "name": "易海燕",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 66
-    },
-    {
-      "category": "Company",
-      "name": "广州酷狗计算机科技有限公司",
-      "registCapi": 6800,
-      "symbolSize": 6800,
-      "id": 67
-    },
-    {
-      "category": "Person",
-      "name": "彭丹",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 68
-    },
-    {
-      "category": "Person",
-      "name": "仇伟华",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 69
-    },
-    {
-      "category": "Company",
-      "name": "上海益都实业有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 70
-    },
-    {
-      "category": "Person",
-      "name": "谢兰芳",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 71
-    },
-    {
-      "category": "Company",
-      "name": "海南阿凡题科技有限公司",
-      "registCapi": 1963,
-      "symbolSize": 1963,
-      "id": 72
-    },
-    {
-      "category": "Company",
-      "name": "安徽高灯微行科技有限公司",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 73
-    },
-    {
-      "category": "Person",
-      "name": "苏龙德",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 74
-    },
-    {
-      "category": "Company",
-      "name": "北京酷我科技有限公司",
-      "registCapi": 2606,
-      "symbolSize": 2606,
-      "id": 75
-    },
-    {
-      "category": "Company",
-      "name": "深圳市财付通网络金融小额贷款有限公司",
-      "registCapi": 500000,
-      "symbolSize": 500000,
-      "id": 76
-    },
-    {
-      "category": "Person",
-      "name": "杨军",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 77
-    },
-    {
-      "category": "Company",
-      "name": "上海益盟数码科技有限公司",
-      "registCapi": 330,
-      "symbolSize": 330,
-      "id": 78
-    },
-    {
-      "category": "Company",
-      "name": "北京创新方舟科技有限公司",
-      "registCapi": 3500,
-      "symbolSize": 3500,
-      "id": 79
-    },
-    {
-      "category": "Company",
-      "name": "林芝腾讯科技有限公司",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 80
-    },
-    {
-      "category": "Company",
-      "name": "深圳市文娱华章科技有限公司",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 81
-    },
-    {
-      "category": "Company",
-      "name": "海南银汉科技有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 82
-    },
-    {
-      "category": "Company",
-      "name": "浙江滨语科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 83
-    },
-    {
-      "category": "Company",
-      "name": "北京红杉信远股权投资中心（有限合伙）",
-      "registCapi": 543440,
-      "symbolSize": 543440,
-      "id": 84
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯企业管理有限公司",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 85
-    },
-    {
-      "category": "Company",
-      "name": "腾讯科技（成都）有限公司",
-      "registCapi": 22000,
-      "symbolSize": 22000,
-      "id": 86
-    },
-    {
-      "category": "Person",
-      "name": "周颂",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 87
-    },
-    {
-      "category": "Company",
-      "name": "深圳市世纪凯旋科技有限公司",
-      "registCapi": 1100,
-      "symbolSize": 1100,
-      "id": 88
-    },
-    {
-      "category": "Company",
-      "name": "深圳市世纪凯华投资基金有限公司",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 89
-    },
-    {
-      "category": "Company",
-      "name": "众安信息技术服务有限公司",
-      "registCapi": 500000,
-      "symbolSize": 500000,
-      "id": 90
-    },
-    {
-      "category": "Company",
-      "name": "安徽高灯微税科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 91
-    },
-    {
-      "category": "Company",
-      "name": "锦九时尚（北京）科技有限公司",
-      "registCapi": 2500,
-      "symbolSize": 2500,
-      "id": 92
-    },
-    {
-      "category": "Person",
-      "name": "陈菲",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 93
-    },
-    {
-      "category": "Company",
-      "name": "北京光线传媒股份有限公司",
-      "registCapi": 293360,
-      "symbolSize": 293360,
-      "id": 94
-    },
-    {
-      "category": "Person",
-      "name": "薄俊辰",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 95
-    },
-    {
-      "category": "Company",
-      "name": "天津百川共创科技有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 96
-    },
-    {
-      "category": "Person",
-      "name": "王少君",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 97
-    },
-    {
-      "category": "Company",
-      "name": "深圳市创新投资集团有限公司",
-      "registCapi": 1000000,
-      "symbolSize": 1000000,
-      "id": 98
-    },
-    {
-      "category": "Company",
-      "name": "深圳市世纪天游科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 99
-    },
-    {
-      "category": "Company",
-      "name": "优加（天津）文化发展有限公司",
-      "registCapi": 30,
-      "symbolSize": 30,
-      "id": 100
-    },
-    {
-      "category": "Person",
-      "name": "林海峰",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 101
-    },
-    {
-      "category": "Person",
-      "name": "王娟",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 102
-    },
-    {
-      "category": "Person",
-      "name": "张民遐",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 103
-    },
-    {
-      "category": "Company",
-      "name": "优扬（天津）动漫文化传媒有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 104
-    },
-    {
-      "category": "Company",
-      "name": "苏州纪源源星股权投资合伙企业（有限合伙）",
-      "registCapi": 100000,
-      "symbolSize": 100000,
-      "id": 105
-    },
-    {
-      "category": "Person",
-      "name": "艾兰",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 106
-    },
-    {
-      "category": "Company",
-      "name": "上海益盟财富管理有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 107
-    },
-    {
-      "category": "Company",
-      "name": "金华齐齐网络科技有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 108
-    },
-    {
-      "category": "Company",
-      "name": "北京知道创宇信息技术股份有限公司",
-      "registCapi": 8076,
-      "symbolSize": 8076,
-      "id": 109
-    },
-    {
-      "category": "Company",
-      "name": "上海歌斐信熙投资中心（有限合伙）",
-      "registCapi": 134150,
-      "symbolSize": 134150,
-      "id": 110
-    },
-    {
-      "category": "Company",
-      "name": "国创元禾创业投资基金（有限合伙）",
-      "registCapi": 301000,
-      "symbolSize": 301000,
-      "id": 111
-    },
-    {
-      "category": "Company",
-      "name": "深圳市利通产业投资基金有限公司",
-      "registCapi": 50000,
-      "symbolSize": 50000,
-      "id": 112
-    },
-    {
-      "category": "Company",
-      "name": "重庆腾讯信息技术有限公司",
-      "registCapi": 100000,
-      "symbolSize": 100000,
-      "id": 113
-    },
-    {
-      "category": "Company",
-      "name": "金华呱呱科技有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 114
-    },
-    {
-      "category": "Company",
-      "name": "金华聚秀科技有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 115
-    },
-    {
-      "category": "Company",
-      "name": "天津宝贝家科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 116
-    },
-    {
-      "category": "Company",
-      "name": "海南周天娱乐有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 117
-    },
-    {
-      "category": "Company",
-      "name": "腾讯数码（广东深汕特别合作区）有限公司",
-      "registCapi": 2000,
-      "symbolSize": 2000,
-      "id": 118
-    },
-    {
-      "category": "Person",
-      "name": "吕晋杰",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 119
-    },
-    {
-      "category": "Person",
-      "name": "王夫也",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 120
-    },
-    {
-      "category": "Person",
-      "name": "邝小翚",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 121
-    },
-    {
-      "category": "Company",
-      "name": "北京优趣时光文化科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 122
-    },
-    {
-      "category": "Company",
-      "name": "北京呀米文化传媒有限公司",
-      "registCapi": 300,
-      "symbolSize": 300,
-      "id": 123
-    },
-    {
-      "category": "Person",
-      "name": "白世盛",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 124
-    },
-    {
-      "category": "Company",
-      "name": "天津君睿祺股权投资合伙企业（有限合伙）",
-      "registCapi": 363151,
-      "symbolSize": 363151,
-      "id": 125
-    },
-    {
-      "category": "Company",
-      "name": "腾讯科技（北京）有限公司",
-      "registCapi": 160,
-      "symbolSize": 160,
-      "id": 126
-    },
-    {
-      "category": "Company",
-      "name": "深圳市藤绿企业管理合伙企业（有限合伙）",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 127
-    },
-    {
-      "category": "Company",
-      "name": "优趣乐学（天津）科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 128
-    },
-    {
-      "category": "Person",
-      "name": "潘鲲",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 129
-    },
-    {
-      "category": "Person",
-      "name": "马小燕",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 130
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯普和有限合伙企业（有限合伙）",
-      "registCapi": 250500,
-      "symbolSize": 250500,
-      "id": 131
-    },
-    {
-      "category": "Company",
-      "name": "浙江聚聊科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 132
-    },
-    {
-      "category": "Company",
-      "name": "浙江雅米科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 133
-    },
-    {
-      "category": "Person",
-      "name": "柳桂珍",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 134
-    },
-    {
-      "category": "Company",
-      "name": "上海鼎羿创业投资中心（有限合伙）",
-      "registCapi": 6561,
-      "symbolSize": 6561,
-      "id": 135
-    },
-    {
-      "category": "Company",
-      "name": "上海钟鼎创业投资中心（有限合伙）",
-      "registCapi": 10000,
-      "symbolSize": 10000,
-      "id": 136
-    },
-    {
-      "category": "Person",
-      "name": "孙忠怀",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 137
-    },
-    {
-      "category": "Company",
-      "name": "百行征信有限公司",
-      "registCapi": 100000,
-      "symbolSize": 100000,
-      "id": 138
-    },
-    {
-      "category": "Company",
-      "name": "深圳市藤远企业管理合伙企业（有限合伙）",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 139
-    },
-    {
-      "category": "Company",
-      "name": "北京智者天下科技有限公司",
-      "registCapi": 169,
-      "symbolSize": 169,
-      "id": 140
-    },
-    {
-      "category": "Person",
-      "name": "汪华",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 141
-    },
-    {
-      "category": "Company",
-      "name": "江苏京东邦能投资管理有限公司",
-      "registCapi": 8000,
-      "symbolSize": 8000,
-      "id": 142
-    },
-    {
-      "category": "Person",
-      "name": "胡丽丽",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 143
-    },
-    {
-      "category": "Person",
-      "name": "杨国光",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 144
-    },
-    {
-      "category": "Person",
-      "name": "丁珂",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 145
-    },
-    {
-      "category": "Person",
-      "name": "潘静波",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 146
-    },
-    {
-      "category": "Person",
-      "name": "刘雪琴",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 147
-    },
-    {
-      "category": "Company",
-      "name": "北京腾讯影业有限公司",
-      "registCapi": 300,
-      "symbolSize": 300,
-      "id": 148
-    },
-    {
-      "category": "Person",
-      "name": "李壮",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 149
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯商业管理有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 150
-    },
-    {
-      "category": "Company",
-      "name": "上海果彤软件技术有限公司",
-      "registCapi": 4600,
-      "symbolSize": 4600,
-      "id": 151
-    },
-    {
-      "category": "Person",
-      "name": "王忠军",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 152
-    },
-    {
-      "category": "Person",
-      "name": "湛炜标",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 153
-    },
-    {
-      "category": "Company",
-      "name": "北京魔格科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 154
-    },
-    {
-      "category": "Company",
-      "name": "上海丙晟科技有限公司",
-      "registCapi": 460000,
-      "symbolSize": 460000,
-      "id": 155
-    },
-    {
-      "category": "Company",
-      "name": "北京华谊兄弟创星娱乐科技股份有限公司",
-      "registCapi": 7200,
-      "symbolSize": 7200,
-      "id": 156
-    },
-    {
-      "category": "Person",
-      "name": "钟林",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 157
-    },
-    {
-      "category": "Company",
-      "name": "浙江够范科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 158
-    },
-    {
-      "category": "Company",
-      "name": "浙江逗果科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 159
-    },
-    {
-      "category": "Person",
-      "name": "任飞",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 160
-    },
-    {
-      "category": "Company",
-      "name": "天津楚楚网络科技中心（有限合伙）",
-      "registCapi": 165,
-      "symbolSize": 165,
-      "id": 161
-    },
-    {
-      "category": "Company",
-      "name": "苍穹互娱（天津）文化传播有限公司",
-      "registCapi": 8000,
-      "symbolSize": 8000,
-      "id": 162
-    },
-    {
-      "category": "Company",
-      "name": "腾讯影视发行有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 163
-    },
-    {
-      "category": "Company",
-      "name": "腾云医信科技（深圳）有限公司",
-      "registCapi": 1200,
-      "symbolSize": 1200,
-      "id": 164
-    },
-    {
-      "category": "Person",
-      "name": "许静芳",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 165
-    },
-    {
-      "category": "Company",
-      "name": "腾讯科技（深圳）有限公司",
-      "registCapi": 200,
-      "symbolSize": 200,
-      "id": 166
-    },
-    {
-      "category": "Company",
-      "name": "湖南潇湘晨报传媒经营有限公司",
-      "registCapi": 3900,
-      "symbolSize": 3900,
-      "id": 167
-    },
-    {
-      "category": "Company",
-      "name": "金华宏伟环保科技合伙企业（有限合伙）",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 168
-    },
-    {
-      "category": "Company",
-      "name": "国创开元股权投资基金（有限合伙）",
-      "registCapi": 1000000,
-      "symbolSize": 1000000,
-      "id": 169
-    },
-    {
-      "category": "Company",
-      "name": "腾讯医疗健康（海南）有限公司",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 170
-    },
-    {
-      "category": "Person",
-      "name": "朱鹏",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 171
-    },
-    {
-      "category": "Company",
-      "name": "腾讯科技（上海）有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 172
-    },
-    {
-      "category": "Person",
-      "name": "苗壮昌",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 173
-    },
-    {
-      "category": "Company",
-      "name": "华谊兄弟点睛动画影业有限公司",
-      "registCapi": 20000,
-      "symbolSize": 20000,
-      "id": 174
-    },
-    {
-      "category": "Company",
-      "name": "广州泳泳信息科技有限公司",
-      "registCapi": 28000,
-      "symbolSize": 28000,
-      "id": 175
-    },
-    {
-      "category": "Person",
-      "name": "程武",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 176
-    },
-    {
-      "category": "Company",
-      "name": "腾讯科技（武汉）有限公司",
-      "registCapi": 3000,
-      "symbolSize": 3000,
-      "id": 177
-    },
-    {
-      "category": "Person",
-      "name": "王忠磊",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 178
-    },
-    {
-      "category": "Company",
-      "name": "华谊兄弟影院投资有限公司",
-      "registCapi": 17966,
-      "symbolSize": 17966,
-      "id": 179
-    },
-    {
-      "category": "Company",
-      "name": "英雄互娱科技股份有限公司",
-      "registCapi": 143487,
-      "symbolSize": 143487,
-      "id": 180
-    },
-    {
-      "category": "Company",
-      "name": "天津久佳企业管理合伙企业（有限合伙）",
-      "registCapi": 3244,
-      "symbolSize": 3244,
-      "id": 181
-    },
-    {
-      "category": "Company",
-      "name": "腾讯医疗健康（长沙）有限公司",
-      "registCapi": 500,
-      "symbolSize": 500,
-      "id": 182
-    },
-    {
-      "category": "Company",
-      "name": "深圳市腾讯网络信息技术有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 183
-    },
-    {
-      "category": "Company",
-      "name": "深圳腾富博投资有限公司",
-      "registCapi": 74640,
-      "symbolSize": 74640,
-      "id": 184
-    },
-    {
-      "category": "Person",
-      "name": "刘勇",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 185
-    },
-    {
-      "category": "Company",
-      "name": "宁波鼎莎创业投资合伙企业（有限合伙）",
-      "registCapi": 3000,
-      "symbolSize": 3000,
-      "id": 186
-    },
-    {
-      "category": "Company",
-      "name": "深圳市藤青企业管理有限公司",
-      "registCapi": 100,
-      "symbolSize": 100,
-      "id": 187
-    },
-    {
-      "category": "Person",
-      "name": "曾山",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 188
-    },
-    {
-      "category": "Company",
-      "name": "深圳帕米尔山科技合伙企业（有限合伙）",
-      "registCapi": 1,
-      "symbolSize": 1,
-      "id": 189
-    },
-    {
-      "category": "Company",
-      "name": "湖北荆楚网络科技股份有限公司",
-      "registCapi": 8000,
-      "symbolSize": 8000,
-      "id": 190
-    },
-    {
-      "category": "Person",
-      "name": "汪海滨",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 191
-    },
-    {
-      "category": "Company",
-      "name": "浙江一唯科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 192
-    },
-    {
-      "category": "Person",
-      "name": "田丽",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 193
-    },
-    {
-      "category": "Company",
-      "name": "怀来腾讯数码有限公司",
-      "registCapi": 5000,
-      "symbolSize": 5000,
-      "id": 194
-    },
-    {
-      "category": "Company",
-      "name": "上海腾富金融信息服务有限公司",
-      "registCapi": 3000,
-      "symbolSize": 3000,
-      "id": 195
-    },
-    {
-      "category": "Company",
-      "name": "深圳雅拉达泽科技合伙企业（有限合伙）",
-      "registCapi": 1,
-      "symbolSize": 1,
-      "id": 196
-    },
-    {
-      "category": "Person",
-      "name": "束建平",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 197
-    },
-    {
-      "category": "Person",
-      "name": "俞湧",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 198
-    },
-    {
-      "category": "Company",
-      "name": "北京艺动创新科技有限公司",
-      "registCapi": 1320,
-      "symbolSize": 1320,
-      "id": 199
-    },
-    {
-      "category": "Company",
-      "name": "武汉丹书教育科技有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 200
-    },
-    {
-      "category": "Company",
-      "name": "深圳高灯科技信息有限公司",
-      "registCapi": 1000,
-      "symbolSize": 1000,
-      "id": 201
-    },
-    {
-      "category": "Company",
-      "name": "杭州阿里创业投资有限公司",
-      "registCapi": 26000,
-      "symbolSize": 26000,
-      "id": 202
-    },
-    {
-      "category": "Company",
-      "name": "武汉斗鱼网络科技有限公司",
-      "registCapi": 2234,
-      "symbolSize": 2234,
-      "id": 203
-    }
-  ],
-  "links": [
-    {
-      "source": 0,
-      "target": 53
-    },
-    {
-      "source": 0,
-      "target": 15
-    },
-    {
-      "source": 0,
-      "target": 21
-    },
-    {
-      "source": 0,
-      "target": 30
-    },
-    {
-      "source": 0,
-      "target": 49
-    },
-    {
-      "source": 0,
-      "target": 48
-    },
-    {
-      "source": 0,
-      "target": 41
-    },
-    {
-      "source": 0,
-      "target": 13
-    },
-    {
-      "source": 0,
-      "target": 22
-    },
-    {
-      "source": 0,
-      "target": 42
-    },
-    {
-      "source": 0,
-      "target": 47
-    },
-    {
-      "source": 0,
-      "target": 17
-    },
-    {
-      "source": 0,
-      "target": 23
-    },
-    {
-      "source": 0,
-      "target": 8
-    },
-    {
-      "source": 0,
-      "target": 37
-    },
-    {
-      "source": 0,
-      "target": 50
-    },
-    {
-      "source": 0,
-      "target": 44
-    },
-    {
-      "source": 0,
-      "target": 2
-    },
-    {
-      "source": 0,
-      "target": 32
-    },
-    {
-      "source": 0,
-      "target": 45
-    },
-    {
-      "source": 0,
-      "target": 31
-    },
-    {
-      "source": 0,
-      "target": 20
-    },
-    {
-      "source": 0,
-      "target": 40
-    },
-    {
-      "source": 0,
-      "target": 10
-    },
-    {
-      "source": 0,
-      "target": 36
-    },
-    {
-      "source": 0,
-      "target": 6
-    },
-    {
-      "source": 0,
-      "target": 39
-    },
-    {
-      "source": 0,
-      "target": 7
-    },
-    {
-      "source": 0,
-      "target": 46
-    },
-    {
-      "source": 0,
-      "target": 29
-    },
-    {
-      "source": 0,
-      "target": 33
-    },
-    {
-      "source": 0,
-      "target": 27
-    },
-    {
-      "source": 0,
-      "target": 9
-    },
-    {
-      "source": 0,
-      "target": 24
-    },
-    {
-      "source": 0,
-      "target": 43
-    },
-    {
-      "source": 0,
-      "target": 16
-    },
-    {
-      "source": 0,
-      "target": 12
-    },
-    {
-      "source": 0,
-      "target": 14
-    },
-    {
-      "source": 0,
-      "target": 51
-    },
-    {
-      "source": 0,
-      "target": 1
-    },
-    {
-      "source": 0,
-      "target": 28
-    },
-    {
-      "source": 0,
-      "target": 3
-    },
-    {
-      "source": 0,
-      "target": 52
-    },
-    {
-      "source": 0,
-      "target": 18
-    },
-    {
-      "source": 0,
-      "target": 35
-    },
-    {
-      "source": 0,
-      "target": 38
-    },
-    {
-      "source": 0,
-      "target": 26
-    },
-    {
-      "source": 0,
-      "target": 19
-    },
-    {
-      "source": 0,
-      "target": 4
-    },
-    {
-      "source": 0,
-      "target": 11
-    },
-    {
-      "source": 0,
-      "target": 25
-    },
-    {
-      "source": 0,
-      "target": 5
-    },
-    {
-      "source": 0,
-      "target": 34
-    },
-    {
-      "source": 1,
-      "target": 176
-    },
-    {
-      "source": 1,
-      "target": 87
-    },
-    {
-      "source": 1,
-      "target": 93
-    },
-    {
-      "source": 2,
-      "target": 176
-    },
-    {
-      "source": 2,
-      "target": 88
-    },
-    {
-      "source": 2,
-      "target": 163
-    },
-    {
-      "source": 2,
-      "target": 162
-    },
-    {
-      "source": 2,
-      "target": 148
-    },
-    {
-      "source": 3,
-      "target": 84
-    },
-    {
-      "source": 3,
-      "target": 70
-    },
-    {
-      "source": 3,
-      "target": 110
-    },
-    {
-      "source": 4,
-      "target": 111
-    },
-    {
-      "source": 4,
-      "target": 136
-    },
-    {
-      "source": 4,
-      "target": 186
-    },
-    {
-      "source": 5,
-      "target": 164
-    },
-    {
-      "source": 5,
-      "target": 170
-    },
-    {
-      "source": 5,
-      "target": 182
-    },
-    {
-      "source": 5,
-      "target": 65
-    },
-    {
-      "source": 5,
-      "target": 97
-    },
-    {
-      "source": 5,
-      "target": 71
-    },
-    {
-      "source": 6,
-      "target": 137
-    },
-    {
-      "source": 7,
-      "target": 145
-    },
-    {
-      "source": 7,
-      "target": 129
-    },
-    {
-      "source": 8,
-      "target": 85
-    },
-    {
-      "source": 8,
-      "target": 126
-    },
-    {
-      "source": 8,
-      "target": 139
-    },
-    {
-      "source": 8,
-      "target": 88
-    },
-    {
-      "source": 8,
-      "target": 127
-    },
-    {
-      "source": 8,
-      "target": 59
-    },
-    {
-      "source": 8,
-      "target": 177
-    },
-    {
-      "source": 8,
-      "target": 187
-    },
-    {
-      "source": 9,
-      "target": 193
-    },
-    {
-      "source": 9,
-      "target": 88
-    },
-    {
-      "source": 9,
-      "target": 54
-    },
-    {
-      "source": 9,
-      "target": 22
-    },
-    {
-      "source": 9,
-      "target": 101
-    },
-    {
-      "source": 9,
-      "target": 138
-    },
-    {
-      "source": 10,
-      "target": 72
-    },
-    {
-      "source": 10,
-      "target": 140
-    },
-    {
-      "source": 10,
-      "target": 165
-    },
-    {
-      "source": 10,
-      "target": 149
-    },
-    {
-      "source": 10,
-      "target": 55
-    },
-    {
-      "source": 11,
-      "target": 146
-    },
-    {
-      "source": 11,
-      "target": 61
-    },
-    {
-      "source": 11,
-      "target": 102
-    },
-    {
-      "source": 11,
-      "target": 66
-    },
-    {
-      "source": 11,
-      "target": 106
-    },
-    {
-      "source": 12,
-      "target": 176
-    },
-    {
-      "source": 12,
-      "target": 87
-    },
-    {
-      "source": 13,
-      "target": 76
-    },
-    {
-      "source": 13,
-      "target": 126
-    },
-    {
-      "source": 13,
-      "target": 75
-    },
-    {
-      "source": 13,
-      "target": 44
-    },
-    {
-      "source": 13,
-      "target": 88
-    },
-    {
-      "source": 13,
-      "target": 46
-    },
-    {
-      "source": 13,
-      "target": 183
-    },
-    {
-      "source": 13,
-      "target": 166
-    },
-    {
-      "source": 13,
-      "target": 89
-    },
-    {
-      "source": 13,
-      "target": 67
-    },
-    {
-      "source": 13,
-      "target": 194
-    },
-    {
-      "source": 13,
-      "target": 86
-    },
-    {
-      "source": 13,
-      "target": 150
-    },
-    {
-      "source": 13,
-      "target": 172
-    },
-    {
-      "source": 14,
-      "target": 112
-    },
-    {
-      "source": 15,
-      "target": 167
-    },
-    {
-      "source": 15,
-      "target": 173
-    },
-    {
-      "source": 16,
-      "target": 130
-    },
-    {
-      "source": 16,
-      "target": 146
-    },
-    {
-      "source": 16,
-      "target": 61
-    },
-    {
-      "source": 16,
-      "target": 66
-    },
-    {
-      "source": 16,
-      "target": 106
-    },
-    {
-      "source": 18,
-      "target": 151
-    },
-    {
-      "source": 18,
-      "target": 107
-    },
-    {
-      "source": 18,
-      "target": 77
-    },
-    {
-      "source": 18,
-      "target": 62
-    },
-    {
-      "source": 18,
-      "target": 198
-    },
-    {
-      "source": 18,
-      "target": 153
-    },
-    {
-      "source": 18,
-      "target": 78
-    },
-    {
-      "source": 18,
-      "target": 188
-    },
-    {
-      "source": 18,
-      "target": 197
-    },
-    {
-      "source": 18,
-      "target": 131
-    },
-    {
-      "source": 19,
-      "target": 146
-    },
-    {
-      "source": 19,
-      "target": 61
-    },
-    {
-      "source": 19,
-      "target": 106
-    },
-    {
-      "source": 20,
-      "target": 89
-    },
-    {
-      "source": 20,
-      "target": 199
-    },
-    {
-      "source": 21,
-      "target": 56
-    },
-    {
-      "source": 22,
-      "target": 113
-    },
-    {
-      "source": 23,
-      "target": 85
-    },
-    {
-      "source": 23,
-      "target": 88
-    },
-    {
-      "source": 23,
-      "target": 166
-    },
-    {
-      "source": 23,
-      "target": 86
-    },
-    {
-      "source": 23,
-      "target": 172
-    },
-    {
-      "source": 23,
-      "target": 59
-    },
-    {
-      "source": 23,
-      "target": 177
-    },
-    {
-      "source": 23,
-      "target": 187
-    },
-    {
-      "source": 24,
-      "target": 79
-    },
-    {
-      "source": 24,
-      "target": 141
-    },
-    {
-      "source": 24,
-      "target": 153
-    },
-    {
-      "source": 25,
-      "target": 184
-    },
-    {
-      "source": 25,
-      "target": 147
-    },
-    {
-      "source": 25,
-      "target": 193
-    },
-    {
-      "source": 25,
-      "target": 54
-    },
-    {
-      "source": 26,
-      "target": 90
-    },
-    {
-      "source": 26,
-      "target": 153
-    },
-    {
-      "source": 27,
-      "target": 154
-    },
-    {
-      "source": 27,
-      "target": 89
-    },
-    {
-      "source": 28,
-      "target": 137
-    },
-    {
-      "source": 29,
-      "target": 173
-    },
-    {
-      "source": 29,
-      "target": 130
-    },
-    {
-      "source": 29,
-      "target": 66
-    },
-    {
-      "source": 30,
-      "target": 103
-    },
-    {
-      "source": 30,
-      "target": 98
-    },
-    {
-      "source": 30,
-      "target": 143
-    },
-    {
-      "source": 30,
-      "target": 189
-    },
-    {
-      "source": 30,
-      "target": 63
-    },
-    {
-      "source": 30,
-      "target": 91
-    },
-    {
-      "source": 30,
-      "target": 73
-    },
-    {
-      "source": 30,
-      "target": 155
-    },
-    {
-      "source": 30,
-      "target": 201
-    },
-    {
-      "source": 31,
-      "target": 146
-    },
-    {
-      "source": 31,
-      "target": 61
-    },
-    {
-      "source": 31,
-      "target": 106
-    },
-    {
-      "source": 32,
-      "target": 174
-    },
-    {
-      "source": 32,
-      "target": 120
-    },
-    {
-      "source": 32,
-      "target": 178
-    },
-    {
-      "source": 32,
-      "target": 152
-    },
-    {
-      "source": 32,
-      "target": 202
-    },
-    {
-      "source": 32,
-      "target": 179
-    },
-    {
-      "source": 32,
-      "target": 156
-    },
-    {
-      "source": 32,
-      "target": 180
-    },
-    {
-      "source": 32,
-      "target": 35
-    },
-    {
-      "source": 32,
-      "target": 64
-    },
-    {
-      "source": 33,
-      "target": 80
-    },
-    {
-      "source": 34,
-      "target": 81
-    },
-    {
-      "source": 35,
-      "target": 175
-    },
-    {
-      "source": 35,
-      "target": 82
-    },
-    {
-      "source": 35,
-      "target": 120
-    },
-    {
-      "source": 35,
-      "target": 185
-    },
-    {
-      "source": 35,
-      "target": 121
-    },
-    {
-      "source": 35,
-      "target": 74
-    },
-    {
-      "source": 35,
-      "target": 157
-    },
-    {
-      "source": 36,
-      "target": 89
-    },
-    {
-      "source": 37,
-      "target": 65
-    },
-    {
-      "source": 37,
-      "target": 71
-    },
-    {
-      "source": 38,
-      "target": 193
-    },
-    {
-      "source": 39,
-      "target": 190
-    },
-    {
-      "source": 39,
-      "target": 146
-    },
-    {
-      "source": 39,
-      "target": 61
-    },
-    {
-      "source": 39,
-      "target": 66
-    },
-    {
-      "source": 39,
-      "target": 106
-    },
-    {
-      "source": 40,
-      "target": 133
-    },
-    {
-      "source": 40,
-      "target": 114
-    },
-    {
-      "source": 40,
-      "target": 191
-    },
-    {
-      "source": 40,
-      "target": 94
-    },
-    {
-      "source": 40,
-      "target": 57
-    },
-    {
-      "source": 40,
-      "target": 168
-    },
-    {
-      "source": 40,
-      "target": 68
-    },
-    {
-      "source": 40,
-      "target": 60
-    },
-    {
-      "source": 40,
-      "target": 83
-    },
-    {
-      "source": 40,
-      "target": 192
-    },
-    {
-      "source": 40,
-      "target": 115
-    },
-    {
-      "source": 40,
-      "target": 108
-    },
-    {
-      "source": 40,
-      "target": 132
-    },
-    {
-      "source": 40,
-      "target": 159
-    },
-    {
-      "source": 40,
-      "target": 158
-    },
-    {
-      "source": 41,
-      "target": 200
-    },
-    {
-      "source": 41,
-      "target": 88
-    },
-    {
-      "source": 42,
-      "target": 99
-    },
-    {
-      "source": 42,
-      "target": 126
-    },
-    {
-      "source": 42,
-      "target": 88
-    },
-    {
-      "source": 42,
-      "target": 166
-    },
-    {
-      "source": 42,
-      "target": 86
-    },
-    {
-      "source": 42,
-      "target": 172
-    },
-    {
-      "source": 43,
-      "target": 100
-    },
-    {
-      "source": 43,
-      "target": 123
-    },
-    {
-      "source": 43,
-      "target": 116
-    },
-    {
-      "source": 43,
-      "target": 128
-    },
-    {
-      "source": 43,
-      "target": 122
-    },
-    {
-      "source": 43,
-      "target": 144
-    },
-    {
-      "source": 43,
-      "target": 160
-    },
-    {
-      "source": 43,
-      "target": 181
-    },
-    {
-      "source": 43,
-      "target": 58
-    },
-    {
-      "source": 43,
-      "target": 69
-    },
-    {
-      "source": 43,
-      "target": 104
-    },
-    {
-      "source": 44,
-      "target": 147
-    },
-    {
-      "source": 44,
-      "target": 88
-    },
-    {
-      "source": 44,
-      "target": 101
-    },
-    {
-      "source": 44,
-      "target": 71
-    },
-    {
-      "source": 45,
-      "target": 88
-    },
-    {
-      "source": 45,
-      "target": 137
-    },
-    {
-      "source": 45,
-      "target": 117
-    },
-    {
-      "source": 46,
-      "target": 76
-    },
-    {
-      "source": 46,
-      "target": 193
-    },
-    {
-      "source": 46,
-      "target": 88
-    },
-    {
-      "source": 46,
-      "target": 54
-    },
-    {
-      "source": 46,
-      "target": 153
-    },
-    {
-      "source": 46,
-      "target": 71
-    },
-    {
-      "source": 46,
-      "target": 195
-    },
-    {
-      "source": 47,
-      "target": 113
-    },
-    {
-      "source": 47,
-      "target": 139
-    },
-    {
-      "source": 47,
-      "target": 88
-    },
-    {
-      "source": 47,
-      "target": 166
-    },
-    {
-      "source": 47,
-      "target": 127
-    },
-    {
-      "source": 47,
-      "target": 118
-    },
-    {
-      "source": 48,
-      "target": 102
-    },
-    {
-      "source": 48,
-      "target": 137
-    },
-    {
-      "source": 48,
-      "target": 71
-    },
-    {
-      "source": 49,
-      "target": 53
-    },
-    {
-      "source": 49,
-      "target": 112
-    },
-    {
-      "source": 49,
-      "target": 124
-    },
-    {
-      "source": 49,
-      "target": 125
-    },
-    {
-      "source": 49,
-      "target": 161
-    },
-    {
-      "source": 49,
-      "target": 95
-    },
-    {
-      "source": 49,
-      "target": 134
-    },
-    {
-      "source": 49,
-      "target": 105
-    },
-    {
-      "source": 49,
-      "target": 119
-    },
-    {
-      "source": 49,
-      "target": 92
-    },
-    {
-      "source": 49,
-      "target": 96
-    },
-    {
-      "source": 50,
-      "target": 103
-    },
-    {
-      "source": 50,
-      "target": 196
-    },
-    {
-      "source": 50,
-      "target": 143
-    },
-    {
-      "source": 50,
-      "target": 63
-    },
-    {
-      "source": 51,
-      "target": 173
-    },
-    {
-      "source": 51,
-      "target": 203
-    },
-    {
-      "source": 51,
-      "target": 171
-    },
-    {
-      "source": 52,
-      "target": 147
-    },
-    {
-      "source": 52,
-      "target": 193
-    },
-    {
-      "source": 52,
-      "target": 54
-    },
-    {
-      "source": 52,
-      "target": 101
-    },
-    {
-      "source": 52,
-      "target": 109
-    },
-    {
-      "source": 53,
-      "target": 110
-    },
-    {
-      "source": 53,
-      "target": 111
-    },
-    {
-      "source": 53,
-      "target": 169
-    },
-    {
-      "source": 53,
-      "target": 142
-    },
-    {
-      "source": 53,
-      "target": 186
-    },
-    {
-      "source": 53,
-      "target": 135
-    },
-    {
-      "source": 54,
-      "target": 76
-    },
-    {
-      "source": 54,
-      "target": 112
-    },
-    {
-      "source": 54,
-      "target": 195
-    },
-    {
-      "source": 54,
-      "target": 80
-    },
-    {
-      "source": 56,
-      "target": 177
-    },
-    {
-      "source": 57,
-      "target": 133
-    },
-    {
-      "source": 57,
-      "target": 114
-    },
-    {
-      "source": 57,
-      "target": 83
-    },
-    {
-      "source": 57,
-      "target": 192
-    },
-    {
-      "source": 57,
-      "target": 115
-    },
-    {
-      "source": 57,
-      "target": 108
-    },
-    {
-      "source": 57,
-      "target": 132
-    },
-    {
-      "source": 57,
-      "target": 168
-    },
-    {
-      "source": 57,
-      "target": 159
-    },
-    {
-      "source": 57,
-      "target": 158
-    },
-    {
-      "source": 58,
-      "target": 181
-    },
-    {
-      "source": 58,
-      "target": 123
-    },
-    {
-      "source": 58,
-      "target": 128
-    },
-    {
-      "source": 58,
-      "target": 122
-    },
-    {
-      "source": 58,
-      "target": 104
-    },
-    {
-      "source": 59,
-      "target": 139
-    },
-    {
-      "source": 59,
-      "target": 127
-    },
-    {
-      "source": 60,
-      "target": 133
-    },
-    {
-      "source": 60,
-      "target": 114
-    },
-    {
-      "source": 60,
-      "target": 83
-    },
-    {
-      "source": 60,
-      "target": 192
-    },
-    {
-      "source": 60,
-      "target": 115
-    },
-    {
-      "source": 60,
-      "target": 108
-    },
-    {
-      "source": 60,
-      "target": 132
-    },
-    {
-      "source": 60,
-      "target": 159
-    },
-    {
-      "source": 60,
-      "target": 158
-    },
-    {
-      "source": 62,
-      "target": 77
-    },
-    {
-      "source": 62,
-      "target": 198
-    },
-    {
-      "source": 62,
-      "target": 188
-    },
-    {
-      "source": 62,
-      "target": 197
-    },
-    {
-      "source": 64,
-      "target": 178
-    },
-    {
-      "source": 65,
-      "target": 164
-    },
-    {
-      "source": 65,
-      "target": 182
-    },
-    {
-      "source": 67,
-      "target": 176
-    },
-    {
-      "source": 67,
-      "target": 112
-    },
-    {
-      "source": 67,
-      "target": 102
-    },
-    {
-      "source": 68,
-      "target": 99
-    },
-    {
-      "source": 68,
-      "target": 109
-    },
-    {
-      "source": 69,
-      "target": 181
-    },
-    {
-      "source": 69,
-      "target": 123
-    },
-    {
-      "source": 69,
-      "target": 116
-    },
-    {
-      "source": 69,
-      "target": 128
-    },
-    {
-      "source": 69,
-      "target": 122
-    },
-    {
-      "source": 69,
-      "target": 104
-    },
-    {
-      "source": 70,
-      "target": 105
-    },
-    {
-      "source": 71,
-      "target": 183
-    },
-    {
-      "source": 71,
-      "target": 194
-    },
-    {
-      "source": 71,
-      "target": 118
-    },
-    {
-      "source": 71,
-      "target": 150
-    },
-    {
-      "source": 72,
-      "target": 165
-    },
-    {
-      "source": 72,
-      "target": 98
-    },
-    {
-      "source": 73,
-      "target": 103
-    },
-    {
-      "source": 73,
-      "target": 143
-    },
-    {
-      "source": 75,
-      "target": 176
-    },
-    {
-      "source": 75,
-      "target": 102
-    },
-    {
-      "source": 76,
-      "target": 147
-    },
-    {
-      "source": 77,
-      "target": 151
-    },
-    {
-      "source": 77,
-      "target": 107
-    },
-    {
-      "source": 77,
-      "target": 78
-    },
-    {
-      "source": 78,
-      "target": 188
-    },
-    {
-      "source": 78,
-      "target": 197
-    },
-    {
-      "source": 79,
-      "target": 141
-    },
-    {
-      "source": 79,
-      "target": 140
-    },
-    {
-      "source": 80,
-      "target": 131
-    },
-    {
-      "source": 80,
-      "target": 155
-    },
-    {
-      "source": 80,
-      "target": 162
-    },
-    {
-      "source": 80,
-      "target": 193
-    },
-    {
-      "source": 80,
-      "target": 153
-    },
-    {
-      "source": 82,
-      "target": 157
-    },
-    {
-      "source": 84,
-      "target": 169
-    },
-    {
-      "source": 84,
-      "target": 180
-    },
-    {
-      "source": 85,
-      "target": 139
-    },
-    {
-      "source": 85,
-      "target": 127
-    },
-    {
-      "source": 85,
-      "target": 150
-    },
-    {
-      "source": 87,
-      "target": 170
-    },
-    {
-      "source": 87,
-      "target": 88
-    },
-    {
-      "source": 87,
-      "target": 163
-    },
-    {
-      "source": 87,
-      "target": 148
-    },
-    {
-      "source": 91,
-      "target": 103
-    },
-    {
-      "source": 91,
-      "target": 143
-    },
-    {
-      "source": 92,
-      "target": 95
-    },
-    {
-      "source": 92,
-      "target": 119
-    },
-    {
-      "source": 93,
-      "target": 112
-    },
-    {
-      "source": 93,
-      "target": 148
-    },
-    {
-      "source": 94,
-      "target": 202
-    },
-    {
-      "source": 95,
-      "target": 161
-    },
-    {
-      "source": 96,
-      "target": 124
-    },
-    {
-      "source": 96,
-      "target": 134
-    },
-    {
-      "source": 96,
-      "target": 119
-    },
-    {
-      "source": 97,
-      "target": 164
-    },
-    {
-      "source": 97,
-      "target": 182
-    },
-    {
-      "source": 100,
-      "target": 144
-    },
-    {
-      "source": 101,
-      "target": 112
-    },
-    {
-      "source": 101,
-      "target": 184
-    },
-    {
-      "source": 102,
-      "target": 117
-    },
-    {
-      "source": 103,
-      "target": 196
-    },
-    {
-      "source": 103,
-      "target": 189
-    },
-    {
-      "source": 103,
-      "target": 201
-    },
-    {
-      "source": 105,
-      "target": 110
-    },
-    {
-      "source": 105,
-      "target": 111
-    },
-    {
-      "source": 107,
-      "target": 198
-    },
-    {
-      "source": 109,
-      "target": 112
-    },
-    {
-      "source": 109,
-      "target": 153
-    },
-    {
-      "source": 109,
-      "target": 145
-    },
-    {
-      "source": 112,
-      "target": 193
-    },
-    {
-      "source": 112,
-      "target": 153
-    },
-    {
-      "source": 112,
-      "target": 140
-    },
-    {
-      "source": 113,
-      "target": 166
-    },
-    {
-      "source": 116,
-      "target": 144
-    },
-    {
-      "source": 116,
-      "target": 160
-    },
-    {
-      "source": 117,
-      "target": 173
-    },
-    {
-      "source": 119,
-      "target": 161
-    },
-    {
-      "source": 120,
-      "target": 156
-    },
-    {
-      "source": 120,
-      "target": 180
-    },
-    {
-      "source": 124,
-      "target": 161
-    },
-    {
-      "source": 125,
-      "target": 169
-    },
-    {
-      "source": 126,
-      "target": 194
-    },
-    {
-      "source": 127,
-      "target": 187
-    },
-    {
-      "source": 129,
-      "target": 155
-    },
-    {
-      "source": 131,
-      "target": 142
-    },
-    {
-      "source": 135,
-      "target": 186
-    },
-    {
-      "source": 139,
-      "target": 187
-    },
-    {
-      "source": 140,
-      "target": 141
-    },
-    {
-      "source": 143,
-      "target": 196
-    },
-    {
-      "source": 143,
-      "target": 189
-    },
-    {
-      "source": 143,
-      "target": 201
-    },
-    {
-      "source": 145,
-      "target": 170
-    },
-    {
-      "source": 147,
-      "target": 184
-    },
-    {
-      "source": 148,
-      "target": 176
-    },
-    {
-      "source": 151,
-      "target": 188
-    },
-    {
-      "source": 152,
-      "target": 179
-    },
-    {
-      "source": 152,
-      "target": 156
-    },
-    {
-      "source": 156,
-      "target": 178
-    },
-    {
-      "source": 157,
-      "target": 175
-    },
-    {
-      "source": 160,
-      "target": 181
-    },
-    {
-      "source": 162,
-      "target": 176
-    },
-    {
-      "source": 163,
-      "target": 176
-    },
-    {
-      "source": 166,
-      "target": 183
-    },
-    {
-      "source": 168,
-      "target": 191
-    },
-    {
-      "source": 174,
-      "target": 178
-    },
-    {
-      "source": 175,
-      "target": 185
-    },
-    {
-      "source": 178,
-      "target": 179
-    },
-    {
-      "source": 178,
-      "target": 180
-    },
-    {
-      "source": 193,
-      "target": 195
-    }
-  ]
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "category": 0,
+            "name": "深圳市腾讯计算机系统有限公司",
+            "registCapi": 37.41057857181227,
+            "symbolSize": 37.41057857181227,
+            "id": 0
+        },
+        {
+            "category": 0,
+            "name": "浙江腾讯影业有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 1
+        },
+        {
+            "category": 0,
+            "name": "腾讯影业文化传播有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 2
+        },
+        {
+            "category": 0,
+            "name": "杭州红杉合远股权投资合伙企业（有限合伙）",
+            "registCapi": 13.128111104060462,
+            "symbolSize": 13.128111104060462,
+            "id": 3
+        },
+        {
+            "category": 0,
+            "name": "苏州钟鼎创业二号投资中心（有限合伙）",
+            "registCapi": 11.819778284410283,
+            "symbolSize": 11.819778284410283,
+            "id": 4
+        },
+        {
+            "category": 0,
+            "name": "腾讯医疗健康（深圳）有限公司",
+            "registCapi": 12.407564949312402,
+            "symbolSize": 12.407564949312402,
+            "id": 5
+        },
+        {
+            "category": 0,
+            "name": "未来电视有限公司",
+            "registCapi": 10.903487552536127,
+            "symbolSize": 10.903487552536127,
+            "id": 6
+        },
+        {
+            "category": 0,
+            "name": "国铁吉讯科技有限公司",
+            "registCapi": 11.126631103850338,
+            "symbolSize": 11.126631103850338,
+            "id": 7
+        },
+        {
+            "category": 1,
+            "name": "许晨晔",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 8
+        },
+        {
+            "category": 0,
+            "name": "腾讯征信有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 9
+        },
+        {
+            "category": 0,
+            "name": "北京搜狗信息服务有限公司",
+            "registCapi": 8.600902459542082,
+            "symbolSize": 8.600902459542082,
+            "id": 10
+        },
+        {
+            "category": 0,
+            "name": "广东腾南网络信息科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 11
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯动漫有限公司",
+            "registCapi": 11.596634733096073,
+            "symbolSize": 11.596634733096073,
+            "id": 12
+        },
+        {
+            "category": 1,
+            "name": "周昭钦",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 13
+        },
+        {
+            "category": 0,
+            "name": "深圳市世纪彩讯科技有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 14
+        },
+        {
+            "category": 0,
+            "name": "湖南腾湘科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 15
+        },
+        {
+            "category": 0,
+            "name": "浙江腾越网络科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 16
+        },
+        {
+            "category": 1,
+            "name": "黄秋华",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 17
+        },
+        {
+            "category": 0,
+            "name": "益盟股份有限公司",
+            "registCapi": 11.698739956033227,
+            "symbolSize": 11.698739956033227,
+            "id": 18
+        },
+        {
+            "category": 0,
+            "name": "北京腾新科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 19
+        },
+        {
+            "category": 0,
+            "name": "星创互联（北京）科技有限公司",
+            "registCapi": 4.912023005428146,
+            "symbolSize": 4.912023005428146,
+            "id": 20
+        },
+        {
+            "category": 0,
+            "name": "河北雄安新区腾讯计算机系统有限公司",
+            "registCapi": 8.600902459542082,
+            "symbolSize": 8.600902459542082,
+            "id": 21
+        },
+        {
+            "category": 1,
+            "name": "刘华",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 22
+        },
+        {
+            "category": 1,
+            "name": "马化腾",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 23
+        },
+        {
+            "category": 0,
+            "name": "深圳市泰捷软件技术有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 24
+        },
+        {
+            "category": 0,
+            "name": "北京驿码神通信息技术有限公司",
+            "registCapi": 12.873811529680426,
+            "symbolSize": 12.873811529680426,
+            "id": 25
+        },
+        {
+            "category": 0,
+            "name": "众安在线财产保险股份有限公司",
+            "registCapi": 12.89806057874866,
+            "symbolSize": 12.89806057874866,
+            "id": 26
+        },
+        {
+            "category": 0,
+            "name": "北京魔方无限科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 27
+        },
+        {
+            "category": 0,
+            "name": "辽宁腾辽科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 28
+        },
+        {
+            "category": 0,
+            "name": "上海腾闻网络科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 29
+        },
+        {
+            "category": 0,
+            "name": "深圳高灯计算机科技有限公司",
+            "registCapi": 7.851733983084338,
+            "symbolSize": 7.851733983084338,
+            "id": 30
+        },
+        {
+            "category": 0,
+            "name": "河南腾河网络科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 31
+        },
+        {
+            "category": 0,
+            "name": "华谊兄弟传媒股份有限公司",
+            "registCapi": 13.53510834236201,
+            "symbolSize": 13.53510834236201,
+            "id": 32
+        },
+        {
+            "category": 0,
+            "name": "北京像素软件科技股份有限公司",
+            "registCapi": 9.006367567650246,
+            "symbolSize": 9.006367567650246,
+            "id": 33
+        },
+        {
+            "category": 0,
+            "name": "深圳市文娱华彩科技有限公司",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 34
+        },
+        {
+            "category": 0,
+            "name": "广州银汉科技有限公司",
+            "registCapi": 8.085686378474794,
+            "symbolSize": 8.085686378474794,
+            "id": 35
+        },
+        {
+            "category": 0,
+            "name": "广州市擎天柱网络科技有限公司",
+            "registCapi": 9.081397424261691,
+            "symbolSize": 9.081397424261691,
+            "id": 36
+        },
+        {
+            "category": 0,
+            "name": "腾讯大地通途（北京）科技有限公司",
+            "registCapi": 9.699514748210191,
+            "symbolSize": 9.699514748210191,
+            "id": 37
+        },
+        {
+            "category": 0,
+            "name": "深圳市创海数码有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 38
+        },
+        {
+            "category": 0,
+            "name": "湖北腾楚网络科技有限责任公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 39
+        },
+        {
+            "category": 0,
+            "name": "浙江齐聚科技有限公司",
+            "registCapi": 8.281027030790225,
+            "symbolSize": 8.281027030790225,
+            "id": 40
+        },
+        {
+            "category": 1,
+            "name": "陈一丹",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 41
+        },
+        {
+            "category": 1,
+            "name": "奚丹",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 42
+        },
+        {
+            "category": 0,
+            "name": "优扬文化传媒股份有限公司",
+            "registCapi": 10.798127036878302,
+            "symbolSize": 10.798127036878302,
+            "id": 43
+        },
+        {
+            "category": 0,
+            "name": "财付通支付科技有限公司",
+            "registCapi": 12.512925464970229,
+            "symbolSize": 12.512925464970229,
+            "id": 44
+        },
+        {
+            "category": 0,
+            "name": "上海腾讯企鹅影视文化传播有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 45
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯网域计算机网络有限公司",
+            "registCapi": 14.816510058297357,
+            "symbolSize": 14.816510058297357,
+            "id": 46
+        },
+        {
+            "category": 1,
+            "name": "卢山",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 47
+        },
+        {
+            "category": 0,
+            "name": "深圳市世纪腾华信息技术有限公司",
+            "registCapi": 8.600902459542082,
+            "symbolSize": 8.600902459542082,
+            "id": 48
+        },
+        {
+            "category": 0,
+            "name": "北京醋溜网络科技股份有限公司",
+            "registCapi": 11.466761128315907,
+            "symbolSize": 11.466761128315907,
+            "id": 49
+        },
+        {
+            "category": 0,
+            "name": "北京网罗天下生活科技有限公司",
+            "registCapi": 8.634235683083254,
+            "symbolSize": 8.634235683083254,
+            "id": 50
+        },
+        {
+            "category": 0,
+            "name": "武汉鲨鱼网络直播技术有限公司",
+            "registCapi": 5.830966216367325,
+            "symbolSize": 5.830966216367325,
+            "id": 51
+        },
+        {
+            "category": 0,
+            "name": "北京英克必成科技有限公司",
+            "registCapi": 12.708903348211669,
+            "symbolSize": 12.708903348211669,
+            "id": 52
+        },
+        {
+            "category": 0,
+            "name": "苏州钟鼎三号创业投资中心（有限合伙）",
+            "registCapi": 12.512925464970229,
+            "symbolSize": 12.512925464970229,
+            "id": 53
+        },
+        {
+            "category": 1,
+            "name": "冯明杰",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 54
+        },
+        {
+            "category": 1,
+            "name": "王小川",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 55
+        },
+        {
+            "category": 1,
+            "name": "沈丹",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 56
+        },
+        {
+            "category": 1,
+            "name": "王永强",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 57
+        },
+        {
+            "category": 1,
+            "name": "游志坚",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 58
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯科融企业管理有限公司",
+            "registCapi": 15.508657738524219,
+            "symbolSize": 15.508657738524219,
+            "id": 59
+        },
+        {
+            "category": 1,
+            "name": "王国良",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 60
+        },
+        {
+            "category": 1,
+            "name": "栾娜",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 61
+        },
+        {
+            "category": 0,
+            "name": "南通君晓企业管理咨询合伙企业（有限合伙）",
+            "registCapi": 8.090076835776092,
+            "symbolSize": 8.090076835776092,
+            "id": 62
+        },
+        {
+            "category": 1,
+            "name": "金超",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 63
+        },
+        {
+            "category": 0,
+            "name": "北京华谊兄弟音乐有限公司",
+            "registCapi": 7.391814930617681,
+            "symbolSize": 7.391814930617681,
+            "id": 64
+        },
+        {
+            "category": 1,
+            "name": "王鸣宇",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 65
+        },
+        {
+            "category": 1,
+            "name": "易海燕",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 66
+        },
+        {
+            "category": 0,
+            "name": "广州酷狗计算机科技有限公司",
+            "registCapi": 9.824691008725221,
+            "symbolSize": 9.824691008725221,
+            "id": 67
+        },
+        {
+            "category": 1,
+            "name": "彭丹",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 68
+        },
+        {
+            "category": 1,
+            "name": "仇伟华",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 69
+        },
+        {
+            "category": 0,
+            "name": "上海益都实业有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 70
+        },
+        {
+            "category": 1,
+            "name": "谢兰芳",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 71
+        },
+        {
+            "category": 0,
+            "name": "海南阿凡题科技有限公司",
+            "registCapi": 8.582314264524417,
+            "symbolSize": 8.582314264524417,
+            "id": 72
+        },
+        {
+            "category": 0,
+            "name": "安徽高灯微行科技有限公司",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 73
+        },
+        {
+            "category": 1,
+            "name": "苏龙德",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 74
+        },
+        {
+            "category": 0,
+            "name": "北京酷我科技有限公司",
+            "registCapi": 8.865910150154988,
+            "symbolSize": 8.865910150154988,
+            "id": 75
+        },
+        {
+            "category": 0,
+            "name": "深圳市财付通网络金融小额贷款有限公司",
+            "registCapi": 14.122363377404328,
+            "symbolSize": 14.122363377404328,
+            "id": 76
+        },
+        {
+            "category": 1,
+            "name": "杨军",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 77
+        },
+        {
+            "category": 0,
+            "name": "上海益盟数码科技有限公司",
+            "registCapi": 6.799092654460526,
+            "symbolSize": 6.799092654460526,
+            "id": 78
+        },
+        {
+            "category": 0,
+            "name": "北京创新方舟科技有限公司",
+            "registCapi": 9.160518247477505,
+            "symbolSize": 9.160518247477505,
+            "id": 79
+        },
+        {
+            "category": 0,
+            "name": "林芝腾讯科技有限公司",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 80
+        },
+        {
+            "category": 0,
+            "name": "深圳市文娱华章科技有限公司",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 81
+        },
+        {
+            "category": 0,
+            "name": "海南银汉科技有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 82
+        },
+        {
+            "category": 0,
+            "name": "浙江滨语科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 83
+        },
+        {
+            "category": 0,
+            "name": "北京红杉信远股权投资中心（有限合伙）",
+            "registCapi": 14.205674583865184,
+            "symbolSize": 14.205674583865184,
+            "id": 84
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯企业管理有限公司",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 85
+        },
+        {
+            "category": 0,
+            "name": "腾讯科技（成都）有限公司",
+            "registCapi": 10.998797732340453,
+            "symbolSize": 10.998797732340453,
+            "id": 86
+        },
+        {
+            "category": 1,
+            "name": "周颂",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 87
+        },
+        {
+            "category": 0,
+            "name": "深圳市世纪凯旋科技有限公司",
+            "registCapi": 8.003065458786462,
+            "symbolSize": 8.003065458786462,
+            "id": 88
+        },
+        {
+            "category": 0,
+            "name": "深圳市世纪凯华投资基金有限公司",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 89
+        },
+        {
+            "category": 0,
+            "name": "众安信息技术服务有限公司",
+            "registCapi": 14.122363377404328,
+            "symbolSize": 14.122363377404328,
+            "id": 90
+        },
+        {
+            "category": 0,
+            "name": "安徽高灯微税科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 91
+        },
+        {
+            "category": 0,
+            "name": "锦九时尚（北京）科技有限公司",
+            "registCapi": 8.824046010856293,
+            "symbolSize": 8.824046010856293,
+            "id": 92
+        },
+        {
+            "category": 1,
+            "name": "陈菲",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 93
+        },
+        {
+            "category": 0,
+            "name": "北京光线传媒股份有限公司",
+            "registCapi": 13.589158676343478,
+            "symbolSize": 13.589158676343478,
+            "id": 94
+        },
+        {
+            "category": 1,
+            "name": "薄俊辰",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 95
+        },
+        {
+            "category": 0,
+            "name": "天津百川共创科技有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 96
+        },
+        {
+            "category": 1,
+            "name": "王少君",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 97
+        },
+        {
+            "category": 0,
+            "name": "深圳市创新投资集团有限公司",
+            "registCapi": 14.815510557964274,
+            "symbolSize": 14.815510557964274,
+            "id": 98
+        },
+        {
+            "category": 0,
+            "name": "深圳市世纪天游科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 99
+        },
+        {
+            "category": 0,
+            "name": "优加（天津）文化发展有限公司",
+            "registCapi": 4.401197381662156,
+            "symbolSize": 4.401197381662156,
+            "id": 100
+        },
+        {
+            "category": 1,
+            "name": "林海峰",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 101
+        },
+        {
+            "category": 1,
+            "name": "王娟",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 102
+        },
+        {
+            "category": 1,
+            "name": "张民遐",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 103
+        },
+        {
+            "category": 0,
+            "name": "优扬（天津）动漫文化传媒有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 104
+        },
+        {
+            "category": 0,
+            "name": "苏州纪源源星股权投资合伙企业（有限合伙）",
+            "registCapi": 12.512925464970229,
+            "symbolSize": 12.512925464970229,
+            "id": 105
+        },
+        {
+            "category": 1,
+            "name": "艾兰",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 106
+        },
+        {
+            "category": 0,
+            "name": "上海益盟财富管理有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 107
+        },
+        {
+            "category": 0,
+            "name": "金华齐齐网络科技有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 108
+        },
+        {
+            "category": 0,
+            "name": "北京知道创宇信息技术股份有限公司",
+            "registCapi": 9.996753138258548,
+            "symbolSize": 9.996753138258548,
+            "id": 109
+        },
+        {
+            "category": 0,
+            "name": "上海歌斐信熙投资中心（有限合伙）",
+            "registCapi": 12.80671385585377,
+            "symbolSize": 12.80671385585377,
+            "id": 110
+        },
+        {
+            "category": 0,
+            "name": "国创元禾创业投资基金（有限合伙）",
+            "registCapi": 13.614865543731012,
+            "symbolSize": 13.614865543731012,
+            "id": 111
+        },
+        {
+            "category": 0,
+            "name": "深圳市利通产业投资基金有限公司",
+            "registCapi": 11.819778284410283,
+            "symbolSize": 11.819778284410283,
+            "id": 112
+        },
+        {
+            "category": 0,
+            "name": "重庆腾讯信息技术有限公司",
+            "registCapi": 12.512925464970229,
+            "symbolSize": 12.512925464970229,
+            "id": 113
+        },
+        {
+            "category": 0,
+            "name": "金华呱呱科技有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 114
+        },
+        {
+            "category": 0,
+            "name": "金华聚秀科技有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 115
+        },
+        {
+            "category": 0,
+            "name": "天津宝贝家科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 116
+        },
+        {
+            "category": 0,
+            "name": "海南周天娱乐有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 117
+        },
+        {
+            "category": 0,
+            "name": "腾讯数码（广东深汕特别合作区）有限公司",
+            "registCapi": 8.600902459542082,
+            "symbolSize": 8.600902459542082,
+            "id": 118
+        },
+        {
+            "category": 1,
+            "name": "吕晋杰",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 119
+        },
+        {
+            "category": 1,
+            "name": "王夫也",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 120
+        },
+        {
+            "category": 1,
+            "name": "邝小翚",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 121
+        },
+        {
+            "category": 0,
+            "name": "北京优趣时光文化科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 122
+        },
+        {
+            "category": 0,
+            "name": "北京呀米文化传媒有限公司",
+            "registCapi": 6.703782474656201,
+            "symbolSize": 6.703782474656201,
+            "id": 123
+        },
+        {
+            "category": 1,
+            "name": "白世盛",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 124
+        },
+        {
+            "category": 0,
+            "name": "天津君睿祺股权投资合伙企业（有限合伙）",
+            "registCapi": 13.802575422855435,
+            "symbolSize": 13.802575422855435,
+            "id": 125
+        },
+        {
+            "category": 0,
+            "name": "腾讯科技（北京）有限公司",
+            "registCapi": 6.075173815233827,
+            "symbolSize": 6.075173815233827,
+            "id": 126
+        },
+        {
+            "category": 0,
+            "name": "深圳市藤绿企业管理合伙企业（有限合伙）",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 127
+        },
+        {
+            "category": 0,
+            "name": "优趣乐学（天津）科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 128
+        },
+        {
+            "category": 1,
+            "name": "潘鲲",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 129
+        },
+        {
+            "category": 1,
+            "name": "马小燕",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 130
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯普和有限合伙企业（有限合伙）",
+            "registCapi": 13.431214199507057,
+            "symbolSize": 13.431214199507057,
+            "id": 131
+        },
+        {
+            "category": 0,
+            "name": "浙江聚聊科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 132
+        },
+        {
+            "category": 0,
+            "name": "浙江雅米科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 133
+        },
+        {
+            "category": 1,
+            "name": "柳桂珍",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 134
+        },
+        {
+            "category": 0,
+            "name": "上海鼎羿创业投资中心（有限合伙）",
+            "registCapi": 9.788898309344878,
+            "symbolSize": 9.788898309344878,
+            "id": 135
+        },
+        {
+            "category": 0,
+            "name": "上海钟鼎创业投资中心（有限合伙）",
+            "registCapi": 10.210340371976184,
+            "symbolSize": 10.210340371976184,
+            "id": 136
+        },
+        {
+            "category": 1,
+            "name": "孙忠怀",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 137
+        },
+        {
+            "category": 0,
+            "name": "百行征信有限公司",
+            "registCapi": 12.512925464970229,
+            "symbolSize": 12.512925464970229,
+            "id": 138
+        },
+        {
+            "category": 0,
+            "name": "深圳市藤远企业管理合伙企业（有限合伙）",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 139
+        },
+        {
+            "category": 0,
+            "name": "北京智者天下科技有限公司",
+            "registCapi": 6.13104007515792,
+            "symbolSize": 6.13104007515792,
+            "id": 140
+        },
+        {
+            "category": 1,
+            "name": "汪华",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 141
+        },
+        {
+            "category": 0,
+            "name": "江苏京东邦能投资管理有限公司",
+            "registCapi": 9.987196820661973,
+            "symbolSize": 9.987196820661973,
+            "id": 142
+        },
+        {
+            "category": 1,
+            "name": "胡丽丽",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 143
+        },
+        {
+            "category": 1,
+            "name": "杨国光",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 144
+        },
+        {
+            "category": 1,
+            "name": "丁珂",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 145
+        },
+        {
+            "category": 1,
+            "name": "潘静波",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 146
+        },
+        {
+            "category": 1,
+            "name": "刘雪琴",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 147
+        },
+        {
+            "category": 0,
+            "name": "北京腾讯影业有限公司",
+            "registCapi": 6.703782474656201,
+            "symbolSize": 6.703782474656201,
+            "id": 148
+        },
+        {
+            "category": 1,
+            "name": "李壮",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 149
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯商业管理有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 150
+        },
+        {
+            "category": 0,
+            "name": "上海果彤软件技术有限公司",
+            "registCapi": 9.433811582477187,
+            "symbolSize": 9.433811582477187,
+            "id": 151
+        },
+        {
+            "category": 1,
+            "name": "王忠军",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 152
+        },
+        {
+            "category": 1,
+            "name": "湛炜标",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 153
+        },
+        {
+            "category": 0,
+            "name": "北京魔格科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 154
+        },
+        {
+            "category": 0,
+            "name": "上海丙晟科技有限公司",
+            "registCapi": 14.038981768465277,
+            "symbolSize": 14.038981768465277,
+            "id": 155
+        },
+        {
+            "category": 0,
+            "name": "北京华谊兄弟创星娱乐科技股份有限公司",
+            "registCapi": 9.881836305004146,
+            "symbolSize": 9.881836305004146,
+            "id": 156
+        },
+        {
+            "category": 1,
+            "name": "钟林",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 157
+        },
+        {
+            "category": 0,
+            "name": "浙江够范科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 158
+        },
+        {
+            "category": 0,
+            "name": "浙江逗果科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 159
+        },
+        {
+            "category": 1,
+            "name": "任飞",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 160
+        },
+        {
+            "category": 0,
+            "name": "天津楚楚网络科技中心（有限合伙）",
+            "registCapi": 6.111596145409395,
+            "symbolSize": 6.111596145409395,
+            "id": 161
+        },
+        {
+            "category": 0,
+            "name": "苍穹互娱（天津）文化传播有限公司",
+            "registCapi": 9.987196820661973,
+            "symbolSize": 9.987196820661973,
+            "id": 162
+        },
+        {
+            "category": 0,
+            "name": "腾讯影视发行有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 163
+        },
+        {
+            "category": 0,
+            "name": "腾云医信科技（深圳）有限公司",
+            "registCapi": 8.090076835776092,
+            "symbolSize": 8.090076835776092,
+            "id": 164
+        },
+        {
+            "category": 1,
+            "name": "许静芳",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 165
+        },
+        {
+            "category": 0,
+            "name": "腾讯科技（深圳）有限公司",
+            "registCapi": 6.298317366548036,
+            "symbolSize": 6.298317366548036,
+            "id": 166
+        },
+        {
+            "category": 0,
+            "name": "湖南潇湘晨报传媒经营有限公司",
+            "registCapi": 9.268731832117737,
+            "symbolSize": 9.268731832117737,
+            "id": 167
+        },
+        {
+            "category": 0,
+            "name": "金华宏伟环保科技合伙企业（有限合伙）",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 168
+        },
+        {
+            "category": 0,
+            "name": "国创开元股权投资基金（有限合伙）",
+            "registCapi": 14.815510557964274,
+            "symbolSize": 14.815510557964274,
+            "id": 169
+        },
+        {
+            "category": 0,
+            "name": "腾讯医疗健康（海南）有限公司",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 170
+        },
+        {
+            "category": 1,
+            "name": "朱鹏",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 171
+        },
+        {
+            "category": 0,
+            "name": "腾讯科技（上海）有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 172
+        },
+        {
+            "category": 1,
+            "name": "苗壮昌",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 173
+        },
+        {
+            "category": 0,
+            "name": "华谊兄弟点睛动画影业有限公司",
+            "registCapi": 10.903487552536127,
+            "symbolSize": 10.903487552536127,
+            "id": 174
+        },
+        {
+            "category": 0,
+            "name": "广州泳泳信息科技有限公司",
+            "registCapi": 11.239959789157341,
+            "symbolSize": 11.239959789157341,
+            "id": 175
+        },
+        {
+            "category": 1,
+            "name": "程武",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 176
+        },
+        {
+            "category": 0,
+            "name": "腾讯科技（武汉）有限公司",
+            "registCapi": 9.006367567650246,
+            "symbolSize": 9.006367567650246,
+            "id": 177
+        },
+        {
+            "category": 1,
+            "name": "王忠磊",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 178
+        },
+        {
+            "category": 0,
+            "name": "华谊兄弟影院投资有限公司",
+            "registCapi": 10.796254173052105,
+            "symbolSize": 10.796254173052105,
+            "id": 179
+        },
+        {
+            "category": 0,
+            "name": "英雄互娱科技股份有限公司",
+            "registCapi": 12.874003056019529,
+            "symbolSize": 12.874003056019529,
+            "id": 180
+        },
+        {
+            "category": 0,
+            "name": "天津久佳企业管理合伙企业（有限合伙）",
+            "registCapi": 9.08479062593802,
+            "symbolSize": 9.08479062593802,
+            "id": 181
+        },
+        {
+            "category": 0,
+            "name": "腾讯医疗健康（长沙）有限公司",
+            "registCapi": 7.214608098422191,
+            "symbolSize": 7.214608098422191,
+            "id": 182
+        },
+        {
+            "category": 0,
+            "name": "深圳市腾讯网络信息技术有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 183
+        },
+        {
+            "category": 0,
+            "name": "深圳腾富博投资有限公司",
+            "registCapi": 12.220431835521225,
+            "symbolSize": 12.220431835521225,
+            "id": 184
+        },
+        {
+            "category": 1,
+            "name": "刘勇",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 185
+        },
+        {
+            "category": 0,
+            "name": "宁波鼎莎创业投资合伙企业（有限合伙）",
+            "registCapi": 9.006367567650246,
+            "symbolSize": 9.006367567650246,
+            "id": 186
+        },
+        {
+            "category": 0,
+            "name": "深圳市藤青企业管理有限公司",
+            "registCapi": 5.605170185988092,
+            "symbolSize": 5.605170185988092,
+            "id": 187
+        },
+        {
+            "category": 1,
+            "name": "曾山",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 188
+        },
+        {
+            "category": 0,
+            "name": "深圳帕米尔山科技合伙企业（有限合伙）",
+            "registCapi": 1,
+            "symbolSize": 1,
+            "id": 189
+        },
+        {
+            "category": 0,
+            "name": "湖北荆楚网络科技股份有限公司",
+            "registCapi": 9.987196820661973,
+            "symbolSize": 9.987196820661973,
+            "id": 190
+        },
+        {
+            "category": 1,
+            "name": "汪海滨",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 191
+        },
+        {
+            "category": 0,
+            "name": "浙江一唯科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 192
+        },
+        {
+            "category": 1,
+            "name": "田丽",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 193
+        },
+        {
+            "category": 0,
+            "name": "怀来腾讯数码有限公司",
+            "registCapi": 9.517193191416238,
+            "symbolSize": 9.517193191416238,
+            "id": 194
+        },
+        {
+            "category": 0,
+            "name": "上海腾富金融信息服务有限公司",
+            "registCapi": 9.006367567650246,
+            "symbolSize": 9.006367567650246,
+            "id": 195
+        },
+        {
+            "category": 0,
+            "name": "深圳雅拉达泽科技合伙企业（有限合伙）",
+            "registCapi": 1,
+            "symbolSize": 1,
+            "id": 196
+        },
+        {
+            "category": 1,
+            "name": "束建平",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 197
+        },
+        {
+            "category": 1,
+            "name": "俞湧",
+            "registCapi": 10,
+            "symbolSize": 10,
+            "id": 198
+        },
+        {
+            "category": 0,
+            "name": "北京艺动创新科技有限公司",
+            "registCapi": 8.185941407331452,
+            "symbolSize": 8.185941407331452,
+            "id": 199
+        },
+        {
+            "category": 0,
+            "name": "武汉丹书教育科技有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 200
+        },
+        {
+            "category": 0,
+            "name": "深圳高灯科技信息有限公司",
+            "registCapi": 7.907755278982137,
+            "symbolSize": 7.907755278982137,
+            "id": 201
+        },
+        {
+            "category": 0,
+            "name": "杭州阿里创业投资有限公司",
+            "registCapi": 11.165851817003619,
+            "symbolSize": 11.165851817003619,
+            "id": 202
+        },
+        {
+            "category": 0,
+            "name": "武汉斗鱼网络科技有限公司",
+            "registCapi": 8.711618359496256,
+            "symbolSize": 8.711618359496256,
+            "id": 203
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 53
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 30
+        },
+        {
+            "source": 0,
+            "target": 49
+        },
+        {
+            "source": 0,
+            "target": 48
+        },
+        {
+            "source": 0,
+            "target": 41
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 22
+        },
+        {
+            "source": 0,
+            "target": 42
+        },
+        {
+            "source": 0,
+            "target": 47
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 37
+        },
+        {
+            "source": 0,
+            "target": 50
+        },
+        {
+            "source": 0,
+            "target": 44
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 32
+        },
+        {
+            "source": 0,
+            "target": 45
+        },
+        {
+            "source": 0,
+            "target": 31
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 40
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 36
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 39
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 46
+        },
+        {
+            "source": 0,
+            "target": 29
+        },
+        {
+            "source": 0,
+            "target": 33
+        },
+        {
+            "source": 0,
+            "target": 27
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 24
+        },
+        {
+            "source": 0,
+            "target": 43
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 51
+        },
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 28
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 52
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 35
+        },
+        {
+            "source": 0,
+            "target": 38
+        },
+        {
+            "source": 0,
+            "target": 26
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 25
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 34
+        },
+        {
+            "source": 1,
+            "target": 176
+        },
+        {
+            "source": 1,
+            "target": 87
+        },
+        {
+            "source": 1,
+            "target": 93
+        },
+        {
+            "source": 2,
+            "target": 176
+        },
+        {
+            "source": 2,
+            "target": 88
+        },
+        {
+            "source": 2,
+            "target": 163
+        },
+        {
+            "source": 2,
+            "target": 162
+        },
+        {
+            "source": 2,
+            "target": 148
+        },
+        {
+            "source": 3,
+            "target": 84
+        },
+        {
+            "source": 3,
+            "target": 70
+        },
+        {
+            "source": 3,
+            "target": 110
+        },
+        {
+            "source": 4,
+            "target": 111
+        },
+        {
+            "source": 4,
+            "target": 136
+        },
+        {
+            "source": 4,
+            "target": 186
+        },
+        {
+            "source": 5,
+            "target": 164
+        },
+        {
+            "source": 5,
+            "target": 170
+        },
+        {
+            "source": 5,
+            "target": 182
+        },
+        {
+            "source": 5,
+            "target": 65
+        },
+        {
+            "source": 5,
+            "target": 97
+        },
+        {
+            "source": 5,
+            "target": 71
+        },
+        {
+            "source": 6,
+            "target": 137
+        },
+        {
+            "source": 7,
+            "target": 145
+        },
+        {
+            "source": 7,
+            "target": 129
+        },
+        {
+            "source": 8,
+            "target": 85
+        },
+        {
+            "source": 8,
+            "target": 126
+        },
+        {
+            "source": 8,
+            "target": 139
+        },
+        {
+            "source": 8,
+            "target": 88
+        },
+        {
+            "source": 8,
+            "target": 127
+        },
+        {
+            "source": 8,
+            "target": 59
+        },
+        {
+            "source": 8,
+            "target": 177
+        },
+        {
+            "source": 8,
+            "target": 187
+        },
+        {
+            "source": 9,
+            "target": 193
+        },
+        {
+            "source": 9,
+            "target": 88
+        },
+        {
+            "source": 9,
+            "target": 54
+        },
+        {
+            "source": 9,
+            "target": 22
+        },
+        {
+            "source": 9,
+            "target": 101
+        },
+        {
+            "source": 9,
+            "target": 138
+        },
+        {
+            "source": 10,
+            "target": 72
+        },
+        {
+            "source": 10,
+            "target": 140
+        },
+        {
+            "source": 10,
+            "target": 165
+        },
+        {
+            "source": 10,
+            "target": 149
+        },
+        {
+            "source": 10,
+            "target": 55
+        },
+        {
+            "source": 11,
+            "target": 146
+        },
+        {
+            "source": 11,
+            "target": 61
+        },
+        {
+            "source": 11,
+            "target": 102
+        },
+        {
+            "source": 11,
+            "target": 66
+        },
+        {
+            "source": 11,
+            "target": 106
+        },
+        {
+            "source": 12,
+            "target": 176
+        },
+        {
+            "source": 12,
+            "target": 87
+        },
+        {
+            "source": 13,
+            "target": 76
+        },
+        {
+            "source": 13,
+            "target": 126
+        },
+        {
+            "source": 13,
+            "target": 75
+        },
+        {
+            "source": 13,
+            "target": 44
+        },
+        {
+            "source": 13,
+            "target": 88
+        },
+        {
+            "source": 13,
+            "target": 46
+        },
+        {
+            "source": 13,
+            "target": 183
+        },
+        {
+            "source": 13,
+            "target": 166
+        },
+        {
+            "source": 13,
+            "target": 89
+        },
+        {
+            "source": 13,
+            "target": 67
+        },
+        {
+            "source": 13,
+            "target": 194
+        },
+        {
+            "source": 13,
+            "target": 86
+        },
+        {
+            "source": 13,
+            "target": 150
+        },
+        {
+            "source": 13,
+            "target": 172
+        },
+        {
+            "source": 14,
+            "target": 112
+        },
+        {
+            "source": 15,
+            "target": 167
+        },
+        {
+            "source": 15,
+            "target": 173
+        },
+        {
+            "source": 16,
+            "target": 130
+        },
+        {
+            "source": 16,
+            "target": 146
+        },
+        {
+            "source": 16,
+            "target": 61
+        },
+        {
+            "source": 16,
+            "target": 66
+        },
+        {
+            "source": 16,
+            "target": 106
+        },
+        {
+            "source": 18,
+            "target": 151
+        },
+        {
+            "source": 18,
+            "target": 107
+        },
+        {
+            "source": 18,
+            "target": 77
+        },
+        {
+            "source": 18,
+            "target": 62
+        },
+        {
+            "source": 18,
+            "target": 198
+        },
+        {
+            "source": 18,
+            "target": 153
+        },
+        {
+            "source": 18,
+            "target": 78
+        },
+        {
+            "source": 18,
+            "target": 188
+        },
+        {
+            "source": 18,
+            "target": 197
+        },
+        {
+            "source": 18,
+            "target": 131
+        },
+        {
+            "source": 19,
+            "target": 146
+        },
+        {
+            "source": 19,
+            "target": 61
+        },
+        {
+            "source": 19,
+            "target": 106
+        },
+        {
+            "source": 20,
+            "target": 89
+        },
+        {
+            "source": 20,
+            "target": 199
+        },
+        {
+            "source": 21,
+            "target": 56
+        },
+        {
+            "source": 22,
+            "target": 113
+        },
+        {
+            "source": 23,
+            "target": 85
+        },
+        {
+            "source": 23,
+            "target": 88
+        },
+        {
+            "source": 23,
+            "target": 166
+        },
+        {
+            "source": 23,
+            "target": 86
+        },
+        {
+            "source": 23,
+            "target": 172
+        },
+        {
+            "source": 23,
+            "target": 59
+        },
+        {
+            "source": 23,
+            "target": 177
+        },
+        {
+            "source": 23,
+            "target": 187
+        },
+        {
+            "source": 24,
+            "target": 79
+        },
+        {
+            "source": 24,
+            "target": 141
+        },
+        {
+            "source": 24,
+            "target": 153
+        },
+        {
+            "source": 25,
+            "target": 184
+        },
+        {
+            "source": 25,
+            "target": 147
+        },
+        {
+            "source": 25,
+            "target": 193
+        },
+        {
+            "source": 25,
+            "target": 54
+        },
+        {
+            "source": 26,
+            "target": 90
+        },
+        {
+            "source": 26,
+            "target": 153
+        },
+        {
+            "source": 27,
+            "target": 154
+        },
+        {
+            "source": 27,
+            "target": 89
+        },
+        {
+            "source": 28,
+            "target": 137
+        },
+        {
+            "source": 29,
+            "target": 173
+        },
+        {
+            "source": 29,
+            "target": 130
+        },
+        {
+            "source": 29,
+            "target": 66
+        },
+        {
+            "source": 30,
+            "target": 103
+        },
+        {
+            "source": 30,
+            "target": 98
+        },
+        {
+            "source": 30,
+            "target": 143
+        },
+        {
+            "source": 30,
+            "target": 189
+        },
+        {
+            "source": 30,
+            "target": 63
+        },
+        {
+            "source": 30,
+            "target": 91
+        },
+        {
+            "source": 30,
+            "target": 73
+        },
+        {
+            "source": 30,
+            "target": 155
+        },
+        {
+            "source": 30,
+            "target": 201
+        },
+        {
+            "source": 31,
+            "target": 146
+        },
+        {
+            "source": 31,
+            "target": 61
+        },
+        {
+            "source": 31,
+            "target": 106
+        },
+        {
+            "source": 32,
+            "target": 174
+        },
+        {
+            "source": 32,
+            "target": 120
+        },
+        {
+            "source": 32,
+            "target": 178
+        },
+        {
+            "source": 32,
+            "target": 152
+        },
+        {
+            "source": 32,
+            "target": 202
+        },
+        {
+            "source": 32,
+            "target": 179
+        },
+        {
+            "source": 32,
+            "target": 156
+        },
+        {
+            "source": 32,
+            "target": 180
+        },
+        {
+            "source": 32,
+            "target": 35
+        },
+        {
+            "source": 32,
+            "target": 64
+        },
+        {
+            "source": 33,
+            "target": 80
+        },
+        {
+            "source": 34,
+            "target": 81
+        },
+        {
+            "source": 35,
+            "target": 175
+        },
+        {
+            "source": 35,
+            "target": 82
+        },
+        {
+            "source": 35,
+            "target": 120
+        },
+        {
+            "source": 35,
+            "target": 185
+        },
+        {
+            "source": 35,
+            "target": 121
+        },
+        {
+            "source": 35,
+            "target": 74
+        },
+        {
+            "source": 35,
+            "target": 157
+        },
+        {
+            "source": 36,
+            "target": 89
+        },
+        {
+            "source": 37,
+            "target": 65
+        },
+        {
+            "source": 37,
+            "target": 71
+        },
+        {
+            "source": 38,
+            "target": 193
+        },
+        {
+            "source": 39,
+            "target": 190
+        },
+        {
+            "source": 39,
+            "target": 146
+        },
+        {
+            "source": 39,
+            "target": 61
+        },
+        {
+            "source": 39,
+            "target": 66
+        },
+        {
+            "source": 39,
+            "target": 106
+        },
+        {
+            "source": 40,
+            "target": 133
+        },
+        {
+            "source": 40,
+            "target": 114
+        },
+        {
+            "source": 40,
+            "target": 191
+        },
+        {
+            "source": 40,
+            "target": 94
+        },
+        {
+            "source": 40,
+            "target": 57
+        },
+        {
+            "source": 40,
+            "target": 168
+        },
+        {
+            "source": 40,
+            "target": 68
+        },
+        {
+            "source": 40,
+            "target": 60
+        },
+        {
+            "source": 40,
+            "target": 83
+        },
+        {
+            "source": 40,
+            "target": 192
+        },
+        {
+            "source": 40,
+            "target": 115
+        },
+        {
+            "source": 40,
+            "target": 108
+        },
+        {
+            "source": 40,
+            "target": 132
+        },
+        {
+            "source": 40,
+            "target": 159
+        },
+        {
+            "source": 40,
+            "target": 158
+        },
+        {
+            "source": 41,
+            "target": 200
+        },
+        {
+            "source": 41,
+            "target": 88
+        },
+        {
+            "source": 42,
+            "target": 99
+        },
+        {
+            "source": 42,
+            "target": 126
+        },
+        {
+            "source": 42,
+            "target": 88
+        },
+        {
+            "source": 42,
+            "target": 166
+        },
+        {
+            "source": 42,
+            "target": 86
+        },
+        {
+            "source": 42,
+            "target": 172
+        },
+        {
+            "source": 43,
+            "target": 100
+        },
+        {
+            "source": 43,
+            "target": 123
+        },
+        {
+            "source": 43,
+            "target": 116
+        },
+        {
+            "source": 43,
+            "target": 128
+        },
+        {
+            "source": 43,
+            "target": 122
+        },
+        {
+            "source": 43,
+            "target": 144
+        },
+        {
+            "source": 43,
+            "target": 160
+        },
+        {
+            "source": 43,
+            "target": 181
+        },
+        {
+            "source": 43,
+            "target": 58
+        },
+        {
+            "source": 43,
+            "target": 69
+        },
+        {
+            "source": 43,
+            "target": 104
+        },
+        {
+            "source": 44,
+            "target": 147
+        },
+        {
+            "source": 44,
+            "target": 88
+        },
+        {
+            "source": 44,
+            "target": 101
+        },
+        {
+            "source": 44,
+            "target": 71
+        },
+        {
+            "source": 45,
+            "target": 88
+        },
+        {
+            "source": 45,
+            "target": 137
+        },
+        {
+            "source": 45,
+            "target": 117
+        },
+        {
+            "source": 46,
+            "target": 76
+        },
+        {
+            "source": 46,
+            "target": 193
+        },
+        {
+            "source": 46,
+            "target": 88
+        },
+        {
+            "source": 46,
+            "target": 54
+        },
+        {
+            "source": 46,
+            "target": 153
+        },
+        {
+            "source": 46,
+            "target": 71
+        },
+        {
+            "source": 46,
+            "target": 195
+        },
+        {
+            "source": 47,
+            "target": 113
+        },
+        {
+            "source": 47,
+            "target": 139
+        },
+        {
+            "source": 47,
+            "target": 88
+        },
+        {
+            "source": 47,
+            "target": 166
+        },
+        {
+            "source": 47,
+            "target": 127
+        },
+        {
+            "source": 47,
+            "target": 118
+        },
+        {
+            "source": 48,
+            "target": 102
+        },
+        {
+            "source": 48,
+            "target": 137
+        },
+        {
+            "source": 48,
+            "target": 71
+        },
+        {
+            "source": 49,
+            "target": 53
+        },
+        {
+            "source": 49,
+            "target": 112
+        },
+        {
+            "source": 49,
+            "target": 124
+        },
+        {
+            "source": 49,
+            "target": 125
+        },
+        {
+            "source": 49,
+            "target": 161
+        },
+        {
+            "source": 49,
+            "target": 95
+        },
+        {
+            "source": 49,
+            "target": 134
+        },
+        {
+            "source": 49,
+            "target": 105
+        },
+        {
+            "source": 49,
+            "target": 119
+        },
+        {
+            "source": 49,
+            "target": 92
+        },
+        {
+            "source": 49,
+            "target": 96
+        },
+        {
+            "source": 50,
+            "target": 103
+        },
+        {
+            "source": 50,
+            "target": 196
+        },
+        {
+            "source": 50,
+            "target": 143
+        },
+        {
+            "source": 50,
+            "target": 63
+        },
+        {
+            "source": 51,
+            "target": 173
+        },
+        {
+            "source": 51,
+            "target": 203
+        },
+        {
+            "source": 51,
+            "target": 171
+        },
+        {
+            "source": 52,
+            "target": 147
+        },
+        {
+            "source": 52,
+            "target": 193
+        },
+        {
+            "source": 52,
+            "target": 54
+        },
+        {
+            "source": 52,
+            "target": 101
+        },
+        {
+            "source": 52,
+            "target": 109
+        },
+        {
+            "source": 53,
+            "target": 110
+        },
+        {
+            "source": 53,
+            "target": 111
+        },
+        {
+            "source": 53,
+            "target": 169
+        },
+        {
+            "source": 53,
+            "target": 142
+        },
+        {
+            "source": 53,
+            "target": 186
+        },
+        {
+            "source": 53,
+            "target": 135
+        },
+        {
+            "source": 54,
+            "target": 76
+        },
+        {
+            "source": 54,
+            "target": 112
+        },
+        {
+            "source": 54,
+            "target": 195
+        },
+        {
+            "source": 54,
+            "target": 80
+        },
+        {
+            "source": 56,
+            "target": 177
+        },
+        {
+            "source": 57,
+            "target": 133
+        },
+        {
+            "source": 57,
+            "target": 114
+        },
+        {
+            "source": 57,
+            "target": 83
+        },
+        {
+            "source": 57,
+            "target": 192
+        },
+        {
+            "source": 57,
+            "target": 115
+        },
+        {
+            "source": 57,
+            "target": 108
+        },
+        {
+            "source": 57,
+            "target": 132
+        },
+        {
+            "source": 57,
+            "target": 168
+        },
+        {
+            "source": 57,
+            "target": 159
+        },
+        {
+            "source": 57,
+            "target": 158
+        },
+        {
+            "source": 58,
+            "target": 181
+        },
+        {
+            "source": 58,
+            "target": 123
+        },
+        {
+            "source": 58,
+            "target": 128
+        },
+        {
+            "source": 58,
+            "target": 122
+        },
+        {
+            "source": 58,
+            "target": 104
+        },
+        {
+            "source": 59,
+            "target": 139
+        },
+        {
+            "source": 59,
+            "target": 127
+        },
+        {
+            "source": 60,
+            "target": 133
+        },
+        {
+            "source": 60,
+            "target": 114
+        },
+        {
+            "source": 60,
+            "target": 83
+        },
+        {
+            "source": 60,
+            "target": 192
+        },
+        {
+            "source": 60,
+            "target": 115
+        },
+        {
+            "source": 60,
+            "target": 108
+        },
+        {
+            "source": 60,
+            "target": 132
+        },
+        {
+            "source": 60,
+            "target": 159
+        },
+        {
+            "source": 60,
+            "target": 158
+        },
+        {
+            "source": 62,
+            "target": 77
+        },
+        {
+            "source": 62,
+            "target": 198
+        },
+        {
+            "source": 62,
+            "target": 188
+        },
+        {
+            "source": 62,
+            "target": 197
+        },
+        {
+            "source": 64,
+            "target": 178
+        },
+        {
+            "source": 65,
+            "target": 164
+        },
+        {
+            "source": 65,
+            "target": 182
+        },
+        {
+            "source": 67,
+            "target": 176
+        },
+        {
+            "source": 67,
+            "target": 112
+        },
+        {
+            "source": 67,
+            "target": 102
+        },
+        {
+            "source": 68,
+            "target": 99
+        },
+        {
+            "source": 68,
+            "target": 109
+        },
+        {
+            "source": 69,
+            "target": 181
+        },
+        {
+            "source": 69,
+            "target": 123
+        },
+        {
+            "source": 69,
+            "target": 116
+        },
+        {
+            "source": 69,
+            "target": 128
+        },
+        {
+            "source": 69,
+            "target": 122
+        },
+        {
+            "source": 69,
+            "target": 104
+        },
+        {
+            "source": 70,
+            "target": 105
+        },
+        {
+            "source": 71,
+            "target": 183
+        },
+        {
+            "source": 71,
+            "target": 194
+        },
+        {
+            "source": 71,
+            "target": 118
+        },
+        {
+            "source": 71,
+            "target": 150
+        },
+        {
+            "source": 72,
+            "target": 165
+        },
+        {
+            "source": 72,
+            "target": 98
+        },
+        {
+            "source": 73,
+            "target": 103
+        },
+        {
+            "source": 73,
+            "target": 143
+        },
+        {
+            "source": 75,
+            "target": 176
+        },
+        {
+            "source": 75,
+            "target": 102
+        },
+        {
+            "source": 76,
+            "target": 147
+        },
+        {
+            "source": 77,
+            "target": 151
+        },
+        {
+            "source": 77,
+            "target": 107
+        },
+        {
+            "source": 77,
+            "target": 78
+        },
+        {
+            "source": 78,
+            "target": 188
+        },
+        {
+            "source": 78,
+            "target": 197
+        },
+        {
+            "source": 79,
+            "target": 141
+        },
+        {
+            "source": 79,
+            "target": 140
+        },
+        {
+            "source": 80,
+            "target": 131
+        },
+        {
+            "source": 80,
+            "target": 155
+        },
+        {
+            "source": 80,
+            "target": 162
+        },
+        {
+            "source": 80,
+            "target": 193
+        },
+        {
+            "source": 80,
+            "target": 153
+        },
+        {
+            "source": 82,
+            "target": 157
+        },
+        {
+            "source": 84,
+            "target": 169
+        },
+        {
+            "source": 84,
+            "target": 180
+        },
+        {
+            "source": 85,
+            "target": 139
+        },
+        {
+            "source": 85,
+            "target": 127
+        },
+        {
+            "source": 85,
+            "target": 150
+        },
+        {
+            "source": 87,
+            "target": 170
+        },
+        {
+            "source": 87,
+            "target": 88
+        },
+        {
+            "source": 87,
+            "target": 163
+        },
+        {
+            "source": 87,
+            "target": 148
+        },
+        {
+            "source": 91,
+            "target": 103
+        },
+        {
+            "source": 91,
+            "target": 143
+        },
+        {
+            "source": 92,
+            "target": 95
+        },
+        {
+            "source": 92,
+            "target": 119
+        },
+        {
+            "source": 93,
+            "target": 112
+        },
+        {
+            "source": 93,
+            "target": 148
+        },
+        {
+            "source": 94,
+            "target": 202
+        },
+        {
+            "source": 95,
+            "target": 161
+        },
+        {
+            "source": 96,
+            "target": 124
+        },
+        {
+            "source": 96,
+            "target": 134
+        },
+        {
+            "source": 96,
+            "target": 119
+        },
+        {
+            "source": 97,
+            "target": 164
+        },
+        {
+            "source": 97,
+            "target": 182
+        },
+        {
+            "source": 100,
+            "target": 144
+        },
+        {
+            "source": 101,
+            "target": 112
+        },
+        {
+            "source": 101,
+            "target": 184
+        },
+        {
+            "source": 102,
+            "target": 117
+        },
+        {
+            "source": 103,
+            "target": 196
+        },
+        {
+            "source": 103,
+            "target": 189
+        },
+        {
+            "source": 103,
+            "target": 201
+        },
+        {
+            "source": 105,
+            "target": 110
+        },
+        {
+            "source": 105,
+            "target": 111
+        },
+        {
+            "source": 107,
+            "target": 198
+        },
+        {
+            "source": 109,
+            "target": 112
+        },
+        {
+            "source": 109,
+            "target": 153
+        },
+        {
+            "source": 109,
+            "target": 145
+        },
+        {
+            "source": 112,
+            "target": 193
+        },
+        {
+            "source": 112,
+            "target": 153
+        },
+        {
+            "source": 112,
+            "target": 140
+        },
+        {
+            "source": 113,
+            "target": 166
+        },
+        {
+            "source": 116,
+            "target": 144
+        },
+        {
+            "source": 116,
+            "target": 160
+        },
+        {
+            "source": 117,
+            "target": 173
+        },
+        {
+            "source": 119,
+            "target": 161
+        },
+        {
+            "source": 120,
+            "target": 156
+        },
+        {
+            "source": 120,
+            "target": 180
+        },
+        {
+            "source": 124,
+            "target": 161
+        },
+        {
+            "source": 125,
+            "target": 169
+        },
+        {
+            "source": 126,
+            "target": 194
+        },
+        {
+            "source": 127,
+            "target": 187
+        },
+        {
+            "source": 129,
+            "target": 155
+        },
+        {
+            "source": 131,
+            "target": 142
+        },
+        {
+            "source": 135,
+            "target": 186
+        },
+        {
+            "source": 139,
+            "target": 187
+        },
+        {
+            "source": 140,
+            "target": 141
+        },
+        {
+            "source": 143,
+            "target": 196
+        },
+        {
+            "source": 143,
+            "target": 189
+        },
+        {
+            "source": 143,
+            "target": 201
+        },
+        {
+            "source": 145,
+            "target": 170
+        },
+        {
+            "source": 147,
+            "target": 184
+        },
+        {
+            "source": 148,
+            "target": 176
+        },
+        {
+            "source": 151,
+            "target": 188
+        },
+        {
+            "source": 152,
+            "target": 179
+        },
+        {
+            "source": 152,
+            "target": 156
+        },
+        {
+            "source": 156,
+            "target": 178
+        },
+        {
+            "source": 157,
+            "target": 175
+        },
+        {
+            "source": 160,
+            "target": 181
+        },
+        {
+            "source": 162,
+            "target": 176
+        },
+        {
+            "source": 163,
+            "target": 176
+        },
+        {
+            "source": 166,
+            "target": 183
+        },
+        {
+            "source": 168,
+            "target": 191
+        },
+        {
+            "source": 174,
+            "target": 178
+        },
+        {
+            "source": 175,
+            "target": 185
+        },
+        {
+            "source": 178,
+            "target": 179
+        },
+        {
+            "source": 178,
+            "target": 180
+        },
+        {
+            "source": 193,
+            "target": 195
+        }
+    ],
+    "categories": [
+        {
+            "name": "Company"
+        },
+        {
+            "name": "Person"
+        }
+    ]
 }

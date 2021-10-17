@@ -97,35 +97,49 @@ def load_raw_relation() -> nx.Graph:
     G = nx.Graph()
     for index, row in nodes_info.iterrows():
         registCapi = None
+        symbolSize = None
         if math.isnan(row["registCapi"]):
             registCapi = 10
+            symbolSize = 10
         else:
-            registCapi = math.log(float(row["registCapi"])) + 1
+            symbolSize = math.log(float(row["registCapi"])) + 1
+            registCapi = row["registCapi"]
         category = 0
         if row["labels"] == "Company":
             category = 0
         else:
             category = 1
-        G.add_node(row["nodes_id"], category=category, name=row["name"], registCapi=registCapi, symbolSize=registCapi)
+        G.add_node(row["nodes_id"], category=category, name=row["name"], registCapi=registCapi, symbolSize=symbolSize)
     G.add_edges_from(edge_list)
     return G
 
 
 def generate_graph_data(G: nx.Graph) -> str:
-    json_result = nx.json_graph.node_link_data(G)
-    json_result['categories'] = [{"name": "Company"}, {"name": "Person"}]
-    return json.dumps(json_result, ensure_ascii=False)
+    json_graph = nx.json_graph.node_link_data(G)
+    json_graph['categories'] = [{"name": "Company"}, {"name": "Person"}]
+    graph_data = json.dumps(json_graph, ensure_ascii=False)
+    return graph_data
 
 
 def generate_raw_data() -> str:
     G = load_raw_relation()
-    graph_data = generate_graph_data(G)
+    return generate_response_graph_data(G)
+
+
+def generate_response_graph_data(G: nx.Graph) -> str:
+    json_graph = nx.json_graph.node_link_data(G)
+    json_graph['categories'] = [{"name": "Company"}, {"name": "Person"}]
+    graph_data = json.dumps(json_graph, ensure_ascii=False)
     average_degree = get_average_degree(G)
     degree_of_node_0 = get_degree_of_node(G, 0)
     degree_distribution = get_degree_distribution(G)
     average_shortest_path_length = get_average_shortest_path_length(G)
     average_clustering = get_average_clustering(G)
     clustering_of_node_0 = get_clustering_of_node(G, 0)
+    number_of_connected_components = get_number_of_connected_components(G)
+    size_of_the_largest_graph = get_size_of_the_largest_graph(G)
+    number_of_nodes = get_number_of_nodes(G)
+    number_of_edges = get_number_of_edges(G)
     coreness = get_coreness(G)
     core_of_node_0 = get_core_of_node(G, 0)
     result_dict = dict()
@@ -138,9 +152,51 @@ def generate_raw_data() -> str:
     result_dict["clustering_of_node_0"] = clustering_of_node_0
     result_dict["coreness"] = coreness
     result_dict["core_of_node_0"] = core_of_node_0
+    result_dict["number_of_connected_components"] = number_of_connected_components
+    result_dict["size_of_the_largest_graph"] = size_of_the_largest_graph
+    result_dict["number_of_nodes"] = number_of_nodes
+    result_dict["number_of_edges"] = number_of_edges
     return json.dumps(result_dict)
 
 
-def generate_graph_from_json() -> nx.Graph:
+def generate_attack_response_graph_data(G: nx.Graph) -> str:
+    json_graph = nx.json_graph.node_link_data(G)
+    json_graph['categories'] = [{"name": "Company"}, {"name": "Person"}]
+    graph_data = json.dumps(json_graph, ensure_ascii=False)
+    average_degree = get_average_degree(G)
+    degree_distribution = get_degree_distribution(G)
+    average_clustering = get_average_clustering(G)
+    number_of_connected_components = get_number_of_connected_components(G)
+    size_of_the_largest_graph = get_size_of_the_largest_graph(G)
+    number_of_nodes = get_number_of_nodes(G)
+    number_of_edges = get_number_of_edges(G)
+    coreness = get_coreness(G)
+    result_dict = dict()
+    result_dict["graph_data"] = graph_data
+    result_dict["average_degree"] = average_degree
+    result_dict["degree_distribution"] = degree_distribution
+    result_dict["average_clustering"] = average_clustering
+    result_dict["coreness"] = coreness
+    result_dict["number_of_connected_components"] = number_of_connected_components
+    result_dict["size_of_the_largest_graph"] = size_of_the_largest_graph
+    result_dict["number_of_nodes"] = number_of_nodes
+    result_dict["number_of_edges"] = number_of_edges
+    return json.dumps(result_dict)
+
+
+def generate_graph_from_json(json_graph: str) -> nx.Graph:
+    graph_data = json.loads(json_graph)
+    nodes = graph_data['nodes']
+    edges = graph_data['links']
     G = nx.Graph()
+    for node in nodes:
+        G.add_node(str(node["id"]), category=node["category"], name=node["name"], registCapi=node["registCapi"], symbolSize=node["symbolSize"])
+    for edge in edges:
+        G.add_edge(str(edge['source']), str(edge['target']))
     return G
+
+
+def attack_graph(json_graph: str, node_id: str) -> str:
+    G = generate_graph_from_json(json_graph)
+    G.remove_node(node_id)
+    return generate_attack_response_graph_data(G)

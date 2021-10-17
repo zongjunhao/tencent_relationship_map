@@ -1,20 +1,33 @@
 let base_url = "http://127.0.0.1:5000/"
 let raw_data
+let intentional_attack_graph
+let random_attack_graph
 let relation_chart = echarts.init(document.getElementById('relation-chart'));
 let node_degree_chart = echarts.init(document.getElementById('node-degree-chart'))
+let intentional_attack_chart = echarts.init(document.getElementById('intentional-attack-chart'));
+let intentional_subgraph_chart = echarts.init(document.getElementById('intentional-subgraph-chart'));
+let random_attack_chart = echarts.init(document.getElementById('random-attack-chart'));
+let random_subgraph_chart = echarts.init(document.getElementById('random-subgraph-chart'));
 relation_chart.showLoading();
 node_degree_chart.showLoading()
+intentional_attack_chart.showLoading()
+intentional_subgraph_chart.showLoading()
+random_attack_chart.showLoading()
+random_subgraph_chart.showLoading()
+
 $.getJSON('http://127.0.0.1:5000/get_raw_data', function (data) {
     raw_data = data
+    intentional_attack_graph = JSON.parse(raw_data.graph_data)
+    random_attack_graph = JSON.parse(raw_data.graph_data)
     init_raw_graph(JSON.parse(raw_data.graph_data))
     init_node_distribution(JSON.parse(raw_data.degree_distribution))
     init_data(raw_data)
 })
 
 function init_raw_graph(graph) {
-    nodes = graph.nodes
-    links = graph.links
     relation_chart.hideLoading();
+    intentional_attack_chart.hideLoading()
+    random_attack_chart.hideLoading()
     option = {
         tooltip: {},
         legend: [
@@ -59,11 +72,26 @@ function init_raw_graph(graph) {
                 },
                 force: {
                     repulsion: 100
-                }
+                },
+                 tooltip: {
+                    trigger: 'item',
+                    formatter: function (params) {
+                        if (params.dataType === "node")
+                            return (
+                                "id:" + params.data.id + "<br>" +
+                                "name:" + params.data.name + "<br>" +
+                                "registCapi:" + params.data.registCapi
+                            )
+                        else
+                            return (params.data.source + " > " + params.data.target)
+                    }
+                },
             }
         ]
     };
     relation_chart.setOption(option);
+    intentional_attack_chart.setOption(option);
+    random_attack_chart.setOption(option);
 }
 
 function init_node_distribution(data) {
@@ -109,6 +137,7 @@ function init_node_distribution(data) {
 }
 
 function init_data(raw_data) {
+    // raw relation
     $('#average-degree').text(raw_data.average_degree.toFixed(5));
     $('#degree-of-node').text(raw_data.degree_of_node_0);
     $('#average-shortest-path-length').text(raw_data.average_shortest_path_length.toFixed(5));
@@ -122,6 +151,22 @@ function init_data(raw_data) {
         $('#clustering-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
         $('#core-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
     }
+    // intentional attack
+    $('#intentional-average-degree').text(raw_data.average_degree.toFixed(5))
+    $('#intentional-average-clustering-coefficient').text(raw_data.average_clustering.toFixed(5));
+    $('#intentional-coreness-of-graph').text(raw_data.coreness);
+    $('#intentional-connected-components').text(raw_data.number_of_connected_components);
+    $('#intentional-largest-subgraph').text(raw_data.size_of_the_largest_graph);
+    $('#intentional-number-of-nodes').text(raw_data.number_of_nodes);
+    $('#intentional-number-of-edges').text(raw_data.number_of_edges);
+    // random attack
+    $('#random-average-degree').text(raw_data.average_degree.toFixed(5))
+    $('#random-average-clustering-coefficient').text(raw_data.average_clustering.toFixed(5));
+    $('#random-coreness-of-graph').text(raw_data.coreness);
+    $('#random-connected-components').text(raw_data.number_of_connected_components);
+    $('#random-largest-subgraph').text(raw_data.size_of_the_largest_graph);
+    $('#random-number-of-nodes').text(raw_data.number_of_nodes);
+    $('#random-number-of-edges').text(raw_data.number_of_edges);
 }
 
 $("#degree-of-node-btn").click(function () {
@@ -145,6 +190,105 @@ $("#core-of-node-btn").click(function () {
         $('#core-of-node').text(data);
     })
 })
+
+$("#intentional-attack").click(function () {
+    $.ajax({
+        type: "POST",
+        url: base_url + "attack_graph",
+        datatype: 'json',
+        data: {
+            "graph": JSON.stringify(intentional_attack_graph),
+            "node_id": "0"
+        },
+        error: function () {
+            layer.msg('request failed', {
+                time: 1000
+            });
+            console.log("error")
+        },
+        success: function (json_result) {// intentional attack
+            let data = JSON.parse(json_result)
+            console.log(data)
+            $('#intentional-average-degree').text(parseFloat(data.average_degree).toFixed(5))
+            $('#intentional-average-clustering-coefficient').text(parseFloat(data.average_clustering).toFixed(5));
+            $('#intentional-coreness-of-graph').text(data.coreness);
+            $('#intentional-connected-components').text(data.number_of_connected_components);
+            $('#intentional-largest-subgraph').text(data.size_of_the_largest_graph);
+            $('#intentional-number-of-nodes').text(data.number_of_nodes);
+            $('#intentional-number-of-edges').text(data.number_of_edges);
+            intentional_attack_chart.showLoading()
+            draw_intentional_chart(JSON.parse(data.graph_data))
+        }
+    })
+})
+
+function draw_intentional_chart(graph) {
+    console.log(graph)
+    intentional_attack_chart.hideLoading()
+    option = {
+        tooltip: {},
+        legend: [
+            {
+                data: graph.categories.map(function (a) {
+                    return a.name;
+                })
+            }
+        ],
+        animation: false,
+        series: [
+            {
+                name: 'Les Miserables',
+                type: 'graph',
+                layout: 'force',
+                data: graph.nodes,
+                links: graph.links,
+                categories: graph.categories,
+                roam: true,
+                label: {
+                    show: false,
+                    position: 'right',
+                    formatter: '{b}'
+                },
+                labelLayout: {
+                    hideOverlap: true
+                },
+                scaleLimit: {
+                    min: 0.4,
+                    max: 2
+                },
+                emphasis: {
+                    focus: 'adjacency',
+                    label: {
+                        position: 'right',
+                        show: true
+                    }
+                },
+                lineStyle: {
+                    color: 'source',
+                    curveness: 0.0
+                },
+                force: {
+                    repulsion: 100
+                },
+                tooltip: {
+                    trigger: 'item',
+                    formatter: function (params) {
+                        console.log(params)
+                        if (params.dataType === "node")
+                            return (
+                                "id:" + params.data.id + "<br>" +
+                                "name:" + params.data.name + "<br>" +
+                                "registCapi:" + params.data.registCapi
+                            )
+                        else
+                            return (params.data.source + " > " + params.data.target)
+                    }
+                },
+            }
+        ]
+    };
+    intentional_attack_chart.setOption(option);
+}
 
 // $.getJSON('http://127.0.0.1:5000/get_init_data', function (graph) {
 //     console.log(graph)

@@ -2,6 +2,9 @@ let base_url = "http://127.0.0.1:5000/"
 let raw_data
 let intentional_attack_graph
 let random_attack_graph
+let raw_node_num
+let intentional_subgraph_data = []
+let random_subgraph_data = []
 let relation_chart = echarts.init(document.getElementById('relation-chart'));
 let node_degree_chart = echarts.init(document.getElementById('node-degree-chart'))
 let intentional_attack_chart = echarts.init(document.getElementById('intentional-attack-chart'));
@@ -73,7 +76,7 @@ function init_raw_graph(graph) {
                 force: {
                     repulsion: 100
                 },
-                 tooltip: {
+                tooltip: {
                     trigger: 'item',
                     formatter: function (params) {
                         if (params.dataType === "node")
@@ -145,12 +148,14 @@ function init_data(raw_data) {
     $('#clustering-coefficient').text(raw_data.clustering_of_node_0.toFixed(5));
     $('#coreness-of-graph').text(raw_data.coreness);
     $('#core-of-node').text(raw_data.core_of_node_0);
-    nodes = JSON.parse(raw_data.graph_data).nodes
+    let nodes = JSON.parse(raw_data.graph_data).nodes
     for (let i = 0; i < nodes.length; i++) {
         $('#degree-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
         $('#clustering-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
         $('#core-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
+        $('#attack-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
     }
+    raw_node_num = nodes.length
     // intentional attack
     $('#intentional-average-degree').text(raw_data.average_degree.toFixed(5))
     $('#intentional-average-clustering-coefficient').text(raw_data.average_clustering.toFixed(5));
@@ -159,6 +164,8 @@ function init_data(raw_data) {
     $('#intentional-largest-subgraph').text(raw_data.size_of_the_largest_graph);
     $('#intentional-number-of-nodes').text(raw_data.number_of_nodes);
     $('#intentional-number-of-edges').text(raw_data.number_of_edges);
+    intentional_subgraph_data.push([intentional_subgraph_data.length, raw_data.size_of_the_largest_graph / raw_node_num])
+    draw_intentional_subgraph()
     // random attack
     $('#random-average-degree').text(raw_data.average_degree.toFixed(5))
     $('#random-average-clustering-coefficient').text(raw_data.average_clustering.toFixed(5));
@@ -167,6 +174,8 @@ function init_data(raw_data) {
     $('#random-largest-subgraph').text(raw_data.size_of_the_largest_graph);
     $('#random-number-of-nodes').text(raw_data.number_of_nodes);
     $('#random-number-of-edges').text(raw_data.number_of_edges);
+    random_subgraph_data.push([random_subgraph_data.length, raw_data.size_of_the_largest_graph / raw_node_num])
+    draw_random_subgraph()
 }
 
 $("#degree-of-node-btn").click(function () {
@@ -198,7 +207,7 @@ $("#intentional-attack").click(function () {
         datatype: 'json',
         data: {
             "graph": JSON.stringify(intentional_attack_graph),
-            "node_id": "0"
+            "node_id": $('#attack-node-id').val()
         },
         error: function () {
             layer.msg('request failed', {
@@ -218,12 +227,53 @@ $("#intentional-attack").click(function () {
             $('#intentional-number-of-edges').text(data.number_of_edges);
             intentional_attack_chart.showLoading()
             draw_intentional_chart(JSON.parse(data.graph_data))
+            intentional_attack_graph = JSON.parse(data.graph_data)
+            $("#attack-node-id").empty()
+            let nodes = JSON.parse(data.graph_data).nodes
+            for (let i = 0; i < nodes.length; i++) {
+                $('#attack-node-id').append("<option value=" + nodes[i]['id'] + ">" + nodes[i]['id'] + "&nbsp;" + nodes[i]['name'] + "</option>")
+            }
+            intentional_subgraph_data.push([intentional_subgraph_data.length, data.size_of_the_largest_graph / raw_node_num])
+            draw_intentional_subgraph()
+        }
+    })
+})
+
+$("#random-attack").click(function () {
+    $.ajax({
+        type: "POST",
+        url: base_url + "attack_graph",
+        datatype: 'json',
+        data: {
+            "graph": JSON.stringify(random_attack_graph),
+            "node_id": get_random_node_id()
+        },
+        error: function () {
+            layer.msg('request failed', {
+                time: 1000
+            });
+            console.log("error")
+        },
+        success: function (json_result) {// intentional attack
+            let data = JSON.parse(json_result)
+            console.log(data)
+            $('#random-average-degree').text(parseFloat(data.average_degree).toFixed(5))
+            $('#random-average-clustering-coefficient').text(parseFloat(data.average_clustering).toFixed(5));
+            $('#random-coreness-of-graph').text(data.coreness);
+            $('#random-connected-components').text(data.number_of_connected_components);
+            $('#random-largest-subgraph').text(data.size_of_the_largest_graph);
+            $('#random-number-of-nodes').text(data.number_of_nodes);
+            $('#random-number-of-edges').text(data.number_of_edges);
+            random_attack_chart.showLoading()
+            draw_random_chart(JSON.parse(data.graph_data))
+            random_attack_graph = JSON.parse(data.graph_data)
+            random_subgraph_data.push([random_subgraph_data.length, data.size_of_the_largest_graph / raw_node_num])
+            draw_random_subgraph()
         }
     })
 })
 
 function draw_intentional_chart(graph) {
-    console.log(graph)
     intentional_attack_chart.hideLoading()
     option = {
         tooltip: {},
@@ -290,98 +340,143 @@ function draw_intentional_chart(graph) {
     intentional_attack_chart.setOption(option);
 }
 
-// $.getJSON('http://127.0.0.1:5000/get_init_data', function (graph) {
-//     console.log(graph)
-//     console.log(graph.categories)
-//     nodes = graph.nodes
-//     links = graph.links
-//     relation_chart.hideLoading();
-//     option = {
-//         tooltip: {},
-//         legend: [
-//             {
-//                 data: graph.categories.map(function (a) {
-//                     return a.name;
-//                 })
-//             }
-//         ],
-//         animation: false,
-//         series: [
-//             {
-//                 name: 'Les Miserables',
-//                 type: 'graph',
-//                 layout: 'force',
-//                 data: graph.nodes,
-//                 links: graph.links,
-//                 categories: graph.categories,
-//                 roam: true,
-//                 label: {
-//                     show: false,
-//                     position: 'right',
-//                     formatter: '{b}'
-//                 },
-//                 labelLayout: {
-//                     hideOverlap: true
-//                 },
-//                 scaleLimit: {
-//                     min: 0.4,
-//                     max: 2
-//                 },
-//                 emphasis: {
-//                     focus: 'adjacency',
-//                     label: {
-//                         position: 'right',
-//                         show: true
-//                     }
-//                 },
-//                 lineStyle: {
-//                     color: 'source',
-//                     curveness: 0.0
-//                 },
-//                 force: {
-//                     repulsion: 100
-//                 }
-//             }
-//         ]
-//     };
-//     relation_chart.setOption(option);
-// });
-//
-// $.getJSON('http://127.0.0.1:5000/get_node_distribution', function (json) {
-//     node_degree_chart.hideLoading()
-//     console.log("degree")
-//     option = {
-//         tooltip: {
-//             trigger: 'axis',
-//             axisPointer: {
-//                 type: 'cross',
-//                 crossStyle: {
-//                     color: '#999'
-//                 }
-//             }
-//         },
-//         xAxis: [
-//             {
-//                 type: 'category',
-//                 data: json[0],
-//                 axisPointer: {
-//                     type: 'shadow'
-//                 }
-//             }
-//         ],
-//         yAxis: [
-//             {
-//                 type: 'value'
-//             }
-//         ],
-//         series: [
-//             {
-//                 type: 'bar',
-//                 data: json[2]
-//             },
-//         ]
-//     }
-//     console.log("before setoption")
-//     node_degree_chart.setOption(option)
-//     console.log("after setoption")
-// })
+function draw_random_chart(graph) {
+    console.log(graph)
+    random_attack_chart.hideLoading()
+    option = {
+        tooltip: {},
+        legend: [
+            {
+                data: graph.categories.map(function (a) {
+                    return a.name;
+                })
+            }
+        ],
+        animation: false,
+        series: [
+            {
+                name: 'Les Miserables',
+                type: 'graph',
+                layout: 'force',
+                data: graph.nodes,
+                links: graph.links,
+                categories: graph.categories,
+                roam: true,
+                label: {
+                    show: false,
+                    position: 'right',
+                    formatter: '{b}'
+                },
+                labelLayout: {
+                    hideOverlap: true
+                },
+                scaleLimit: {
+                    min: 0.4,
+                    max: 2
+                },
+                emphasis: {
+                    focus: 'adjacency',
+                    label: {
+                        position: 'right',
+                        show: true
+                    }
+                },
+                lineStyle: {
+                    color: 'source',
+                    curveness: 0.0
+                },
+                force: {
+                    repulsion: 100
+                },
+                tooltip: {
+                    trigger: 'item',
+                    formatter: function (params) {
+                        console.log(params)
+                        if (params.dataType === "node")
+                            return (
+                                "id:" + params.data.id + "<br>" +
+                                "name:" + params.data.name + "<br>" +
+                                "registCapi:" + params.data.registCapi
+                            )
+                        else
+                            return (params.data.source + " > " + params.data.target)
+                    }
+                },
+            }
+        ]
+    };
+    random_attack_chart.setOption(option);
+}
+
+function get_random_node_id() {
+    let nodes = random_attack_graph.nodes
+    length = nodes.length
+    console.log(length)
+    let index = Math.floor(Math.random() * length)
+    console.log(nodes[index])
+    return nodes[index].id
+}
+
+function draw_intentional_subgraph() {
+    intentional_subgraph_chart.hideLoading()
+    option = {
+        title: {
+            text: "size of the largest subgraph",
+            left: 'center',
+            top: 10
+        },
+        xAxis: {},
+        yAxis: {},
+        series: [
+            {
+                symbolSize: 10,
+                data: intentional_subgraph_data,
+                type: 'scatter'
+            }
+        ],
+        grid: {
+            x: 35,
+            y: 50,
+            x2: 30,
+            y2: 20
+        },
+        tooltip: {
+            formatter: function (params){
+                return (params.data[0]+" , "+params.data[1].toFixed(6))
+            }
+        },
+    };
+    intentional_subgraph_chart.setOption(option)
+}
+
+function draw_random_subgraph() {
+    random_subgraph_chart.hideLoading()
+    option = {
+        title: {
+            text: "size of the largest subgraph",
+            left: 'center',
+            top: 10
+        },
+        xAxis: {},
+        yAxis: {},
+        series: [
+            {
+                symbolSize: 10,
+                data: random_subgraph_data,
+                type: 'scatter'
+            }
+        ],
+        grid: {
+            x: 35,
+            y: 50,
+            x2: 30,
+            y2: 20
+        },
+        tooltip: {
+            formatter: function (params){
+                return (params.data[0]+" , "+params.data[1].toFixed(6))
+            }
+        },
+    };
+    random_subgraph_chart.setOption(option)
+}

@@ -18,7 +18,7 @@ intentional_subgraph_chart.showLoading()
 random_attack_chart.showLoading()
 random_subgraph_chart.showLoading()
 
-$.getJSON('http://127.0.0.1:5000/get_raw_data', function (data) {
+$.getJSON(base_url + 'get_raw_data', function (data) {
     raw_data = data
     intentional_attack_graph = JSON.parse(raw_data.graph_data)
     random_attack_graph = JSON.parse(raw_data.graph_data)
@@ -441,8 +441,8 @@ function draw_intentional_subgraph() {
             y2: 20
         },
         tooltip: {
-            formatter: function (params){
-                return (params.data[0]+" , "+params.data[1].toFixed(6))
+            formatter: function (params) {
+                return (params.data[0] + " , " + params.data[1].toFixed(6))
             }
         },
     };
@@ -473,8 +473,8 @@ function draw_random_subgraph() {
             y2: 20
         },
         tooltip: {
-            formatter: function (params){
-                return (params.data[0]+" , "+params.data[1].toFixed(6))
+            formatter: function (params) {
+                return (params.data[0] + " , " + params.data[1].toFixed(6))
             }
         },
     };

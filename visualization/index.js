@@ -1,10 +1,10 @@
-let base_url = "http://127.0.0.1:5000/"
-let raw_data
-let intentional_attack_graph
-let random_attack_graph
-let raw_node_num
-let intentional_subgraph_data = []
-let random_subgraph_data = []
+let base_url = "http://127.0.0.1:5000/" // 部署地址url
+let raw_data                            // 原始数据
+let intentional_attack_graph            // 存储蓄意攻击的图
+let random_attack_graph                 // 存储随机攻击的图
+let raw_node_num                        // 原始图节点数目，用于计算 size of the largest subgraph
+let intentional_subgraph_data = []      // 蓄意攻击 size of the largest subgraph
+let random_subgraph_data = []           // 随机攻击 size of the largest subgraph
 let relation_chart = echarts.init(document.getElementById('relation-chart'));
 let node_degree_chart = echarts.init(document.getElementById('node-degree-chart'))
 let intentional_attack_chart = echarts.init(document.getElementById('intentional-attack-chart'));

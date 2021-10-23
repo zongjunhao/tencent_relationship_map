@@ -7,21 +7,6 @@ app = Flask(__name__, static_folder="visualization", static_url_path="")
 CORS(app, supports_credentials=True)
 
 
-@app.route('/success/<name>')
-def success(name):
-    return 'welcome %s' % name
-
-
-@app.route('/login', methods=['POST', 'GET'])
-def login():
-    if request.method == 'POST':
-        user = request.form['name']
-        return redirect(url_for('success', name=user))
-    else:
-        user = request.args.get('name')
-        return redirect(url_for('success', name=user))
-
-
 @app.route('/get_init_data')
 def get_init_data():
     return util.generate_graph_data()

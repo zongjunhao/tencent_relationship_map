@@ -16,6 +16,20 @@ def get_coreness(G: nx.Graph) -> int:
     return coreness
 
 
+def get_core_distribution(G: nx.Graph) -> list:
+    cores = nx.core_number(G)
+    coreness = max(cores.values())
+    core_distribution = []
+    for i in range(0, coreness):
+        nodes_num_of_core_i = 0
+        for node_core in cores.values():
+            if node_core == i + 1:
+                nodes_num_of_core_i += 1
+        core_distribution.append([i + 1, nodes_num_of_core_i])
+    result = list(map(list, zip(*core_distribution)))
+    return result
+
+
 def get_degree_of_node(G: nx.Graph, node_id: int):
     return G.degree[node_id]
 
@@ -65,6 +79,11 @@ def get_average_clustering(G: nx.Graph) -> float:
 
 def get_clustering_of_node(G: nx.Graph, node_id: int) -> float:
     return nx.clustering(G, nodes=node_id)
+
+
+def get_clustering_distribution(G: nx.Graph) -> dict:
+    clustering = nx.clustering(G)
+    return clustering
 
 
 def get_average_shortest_path_length(G: nx.Graph) -> float:
